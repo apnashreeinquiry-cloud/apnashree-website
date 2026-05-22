@@ -1,0 +1,10 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://apnashree.com/sitemap.xml
+Disallow: /admin/
+User-agent: GPTBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
