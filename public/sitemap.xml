@@ -1,7 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- MAIN PAGES -->
   <url><loc>https://apnashree.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
   <url><loc>https://apnashree.com/products</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
   <url><loc>https://apnashree.com/about</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://apnashree.com/contact</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+
+  <!-- MAIN PRODUCT PAGES -->
+  <url><loc>https://apnashree.com/products/lubrication-systems-cenlub-chennai</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/em-brakes-dc-intorq-chennai</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/em-brakes-ac-pethe-chennai</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/gearboxes-bonfiglioli-chennai</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/ball-screws-lm-systems-pmi-hiwin-chennai</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/encoder-couplings-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/coolant-pumps-rajamane-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/torque-limiters-couplings-nuteck-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/oil-skimmers-rajamane-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/shock-absorbers-adonitech-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/groz-tools-fluid-pumps-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/nippon-oil-pumps-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+
+  <!-- OTHER PRODUCT PAGES -->
+  <url><loc>https://apnashree.com/products/hydraulics-yuken-rexroth-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/pneumatics-festo-janatics-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/rotary-unions-deublin-micro-chennai</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://apnashree.com/products/machine-spares-hmt-kirloskar-chennai</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://apnashree.com/products/industrial-greases-klueber-kyodo-chennai</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://apnashree.com/products/timing-pulleys-sprockets-fenner-chennai</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://apnashree.com/products/telescopic-covers-bellows-apna-chennai</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://apnashree.com/products/clutch-plates-deekay-ipe-chennai</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://apnashree.com/products/special-pumps-wilo-knoll-chennai</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+
 </urlset>
