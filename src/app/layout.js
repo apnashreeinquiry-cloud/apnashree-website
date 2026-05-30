@@ -9,6 +9,9 @@ export const metadata = {
   description: 'Apna Shree — authorized dealer for CENLUB, INTORQ, PETHE, BONFIGLIOLI, PMI, HIWIN in Chennai. Lubrication systems, EM brakes, gearboxes, ball screws. 35+ years. Call +91 73583 76280.',
   keywords: 'industrial components dealer Chennai, CENLUB dealer Tamil Nadu, INTORQ brake Chennai, BONFIGLIOLI gearbox Chennai, PMI HIWIN ball screw Chennai',
   robots: { index: true, follow: true },
+  verification: {
+    google: 'N8CAESIkDXGgGykxd9BkVXg6uAZnUYqvCkfgIxUEVww',
+  },
   icons: {
     icon: [{ url: '/favicon.png', type: 'image/png' }],
     apple: [{ url: '/favicon.png', type: 'image/png' }],
@@ -40,6 +43,7 @@ export default function RootLayout({ children }) {
         <link rel="apple-touch-icon" href="/favicon.png" />
         <meta name="geo.region" content="IN-TN" />
         <meta name="geo.placename" content="Chennai" />
+        <meta name="google-site-verification" content="N8CAESIkDXGgGykxd9BkVXg6uAZnUYqvCkfgIxUEVww" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
       </head>
       <body>
