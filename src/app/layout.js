@@ -1,5 +1,6 @@
-﻿import './globals.css'
+import './globals.css'
 import { ThemeProvider } from '@/context/ThemeContext'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 
 export const metadata = {
   metadataBase: new URL('https://apnashree.com'),
@@ -8,12 +9,8 @@ export const metadata = {
   keywords: 'industrial components dealer Chennai, CENLUB dealer Tamil Nadu, INTORQ brake Chennai, BONFIGLIOLI gearbox Chennai, PMI HIWIN ball screw Chennai',
   robots: { index: true, follow: true },
   icons: {
-    icon: [
-      { url: '/favicon.png', type: 'image/png' },
-    ],
-    apple: [
-      { url: '/favicon.png', type: 'image/png' },
-    ],
+    icon: [{ url: '/favicon.png', type: 'image/png' }],
+    apple: [{ url: '/favicon.png', type: 'image/png' }],
     shortcut: '/favicon.png',
   },
 }
@@ -46,6 +43,7 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         <ThemeProvider>{children}</ThemeProvider>
+        <SpeedInsights />
       </body>
     </html>
   )
