@@ -330,20 +330,20 @@ export const mainProducts = [
     subProducts: [
       {
         slug: "beam-couplings-duri-chennai",
-        name: "Beam Couplings (DURI)",
+        name: "Disk Couplings (DURI)",
         brand: "DURI",
         parentSlug: "encoder-couplings-duri-rw-kbk-chennai",
         parentName: "Encoder Couplings",
-        metaTitle: "DURI Beam Coupling Chennai | Zero Backlash Beam Coupling Tamil Nadu | Apna Shree",
-        metaDescription: "Buy DURI beam couplings in Chennai. Zero-backlash flexible beam couplings for encoder and servo motor connections. Call +91 73583 76280.",
-        keywords: ["DURI beam coupling Chennai", "zero backlash coupling Tamil Nadu", "beam coupling supplier Chennai", "encoder coupling dealer"],
-        heroDesc: "DURI beam couplings — zero backlash, helical-cut aluminium couplings for encoder and servo connections.",
-        description: "DURI beam couplings are machined from single-piece aluminium with helical cuts that provide flexibility while maintaining zero backlash. Ideal for encoder and servo motor connections in CNC equipment.",
-        specifications: ["Material: Aluminium 7075 / Stainless steel", "Bore range: 3mm to 30mm", "Torque: 0.2 Nm to 20 Nm", "Backlash: 0 (zero)", "Misalignment: Angular ±3°, Parallel ±0.25mm", "Max RPM: 10,000"],
+        metaTitle: "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
+        metaDescription: "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
+        keywords: ["DURI disk coupling Chennai", "zero backlash coupling Tamil Nadu", "disk coupling supplier Chennai", "encoder coupling dealer"],
+        heroDesc: "DURI disk couplings — zero backlash, flexible disk-pack couplings for encoder and servo connections.",
+        description: "DURI disk couplings transmit torque through flexible metal disc packs, giving zero backlash while absorbing shaft misalignment. Ideal for encoder and servo motor connections in CNC equipment.",
+        specifications: ["Material: Aluminium hub / Stainless steel disc pack", "Bore range: 3mm to 30mm", "Torque: 0.2 Nm to 20 Nm", "Backlash: 0 (zero)", "Misalignment: Angular ±3°, Parallel ±0.25mm", "Max RPM: 10,000"],
         applications: ["Encoder shaft connections", "Servo motor to ball screw", "CNC position feedback", "Stepper motor drives", "Precision measuring equipment"],
         image: "/images/products/duri-beam-coupling-main.jpg",
         sheetImage: "/images/products/duri-beam-coupling-sheet.jpg",
-        tags: ["DURI", "Beam Coupling", "Zero Backlash", "Aluminium", "Encoder"]
+        tags: ["DURI", "Disk Coupling", "Zero Backlash", "Encoder", "CNC"]
       },
       {
         slug: "bellows-couplings-rw-chennai",
