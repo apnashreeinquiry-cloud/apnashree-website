@@ -15,7 +15,6 @@ const brands = ['CENLUB','INTORQ','PETHE','BONFIGLIOLI','PMI','HIWIN','RAJAMANE'
 
 const quickList = [
   { color: '#e85d26', label: 'Ball Screws — PMI / HIWIN' },
-  { color: '#3b82f6', label: 'Gear Boxes — Bonfiglioli' },
   { color: '#ef4444', label: 'Hydraulics — Rexroth / Yuken' },
   { color: '#8b5cf6', label: 'Lubrication — CENLUB' },
   { color: '#10b981', label: 'Pneumatics — FESTO' },
