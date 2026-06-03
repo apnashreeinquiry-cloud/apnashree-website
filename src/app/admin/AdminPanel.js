@@ -5,29 +5,55 @@ import { mainProducts, otherProducts } from '../../data/products'
 import EnquiriesPanel from './EnquiriesPanel'
 
 const ADMIN_USERNAME = 'admin'
-const ADMIN_PASSWORD = 'apnashree@2025'
 
 const allProds = [...mainProducts, ...otherProducts]
-const STORAGE_KEY = 'apnashree_subs'
 const EMPTY = { name:'', brand:'', heroDesc:'', description:'', specifications:[''], applications:[''], tags:[], keywords:[], image:'', sheetImage:'', metaTitle:'', metaDescription:'', slug:'' }
 
+// The committed products.json is the single source of truth — the LIVE site
+// reads it. So we load straight from it (no browser localStorage anywhere).
 function loadSubs() {
-  try {
-    const saved = localStorage.getItem(STORAGE_KEY)
-    if (saved) {
-      const parsed = JSON.parse(saved)
-      const result = {}
-      allProds.forEach(p => { result[p.slug] = parsed[p.slug] || JSON.parse(JSON.stringify(p.subProducts || [])) })
-      return result
-    }
-  } catch(e) {}
   const m = {}
   allProds.forEach(p => { m[p.slug] = JSON.parse(JSON.stringify(p.subProducts || [])) })
   return m
 }
 
-function saveSubs(subs) {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(subs)) } catch(e) {}
+// Build the full data payload, and pull any newly-uploaded images (data: URLs)
+// out as real files to commit, replacing them with their final /images path.
+function buildPayload(subs) {
+  const inject = (arr) => arr.map(p => ({ ...p, subProducts: (subs[p.slug] || []).map(s => ({ ...s })) }))
+  const data = { mainProducts: inject(mainProducts), otherProducts: inject(otherProducts) }
+  const images = []
+  let counter = Date.now()
+  ;[...data.mainProducts, ...data.otherProducts].forEach(p => {
+    (p.subProducts || []).forEach(s => {
+      ['image', 'sheetImage'].forEach(field => {
+        const val = s[field]
+        if (typeof val === 'string' && val.startsWith('data:')) {
+          const mt = val.match(/^data:image\/([a-z0-9.+-]+);base64,/i)
+          const ext = (mt ? mt[1] : 'jpg').toLowerCase().replace('jpeg', 'jpg').replace('svg+xml', 'svg')
+          const name = ((s.slug || 'sub') + '-' + field + '-' + (counter++)).toLowerCase().replace(/[^a-z0-9-]+/g, '-') + '.' + ext
+          images.push({ path: 'public/images/products/' + name, dataUrl: val })
+          s[field] = '/images/products/' + name
+        }
+      })
+    })
+  })
+  return { data, images }
+}
+
+// Save to the server, which commits to the repo. Vercel then redeploys.
+async function commitSubs(subs) {
+  const password = (typeof window !== 'undefined' && sessionStorage.getItem('apnashree_admin_pass')) || ''
+  const { data, images } = buildPayload(subs)
+  const res = await fetch('/api/admin/save', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ password, data, images }),
+  })
+  let json = {}
+  try { json = await res.json() } catch (e) {}
+  if (!res.ok || !json.ok) throw new Error(json.error || ('Save failed (HTTP ' + res.status + ')'))
+  return json
 }
 
 // ── LOGIN SCREEN ──────────────────────────────────────────
@@ -38,19 +64,30 @@ function LoginScreen({ onLogin }) {
   const [showPass, setShowPass] = useState(false)
   const [loading, setLoading] = useState(false)
 
-  function handleLogin(e) {
+  async function handleLogin(e) {
     e.preventDefault()
     setLoading(true)
     setError('')
-    setTimeout(() => {
-      if (username === ADMIN_USERNAME && password === ADMIN_PASSWORD) {
+    try {
+      const res = await fetch('/api/admin/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password }),
+      })
+      let json = {}
+      try { json = await res.json() } catch (e) {}
+      if (res.ok && json.ok && username === ADMIN_USERNAME) {
         sessionStorage.setItem('apnashree_admin_auth', 'true')
+        sessionStorage.setItem('apnashree_admin_pass', password)
         onLogin()
       } else {
         setError('❌ Incorrect username or password')
         setLoading(false)
       }
-    }, 600)
+    } catch (err) {
+      setError('❌ Login failed — check your connection and try again')
+      setLoading(false)
+    }
   }
 
   return (
@@ -188,35 +225,41 @@ export default function AdminPanel() {
     }))
   }
 
-  function handleSave(e) {
+  async function handleSave(e) {
     e.preventDefault(); setSaving(true)
     const parent = allProds.find(p => p.slug === modal.parentSlug)
     const newSub = { ...form, slug: form.slug||autoSlug(), parentSlug: modal.parentSlug, parentName: parent?.name||'', specifications: form.specifications.filter(Boolean), applications: form.applications.filter(Boolean) }
-    setSubs(prev => {
-      const list = [...(prev[modal.parentSlug]||[])]
-      if (modal.mode === 'add') list.push(newSub); else list[modal.subIndex] = newSub
-      const next = { ...prev, [modal.parentSlug]: list }
-      saveSubs(next); return next
-    })
-    setTimeout(() => { setSaving(false); setSaved(true); showToast(modal.mode==='add' ? '✅ Sub-product added!' : '✅ Changes saved!') }, 600)
+    const list = [...(subs[modal.parentSlug]||[])]
+    if (modal.mode === 'add') list.push(newSub); else list[modal.subIndex] = newSub
+    const next = { ...subs, [modal.parentSlug]: list }
+    try {
+      await commitSubs(next)
+      setSubs(next)
+      setSaving(false); setSaved(true)
+      showToast(modal.mode==='add' ? '✅ Added! Live in ~1 min (site is rebuilding)' : '✅ Saved! Live in ~1 min (site is rebuilding)')
+    } catch (err) {
+      setSaving(false)
+      showToast('❌ ' + (err.message || 'Save failed'))
+    }
   }
 
-  function doDelete() {
+  async function doDelete() {
     if (!delConfirm) return
-    setSubs(prev => {
-      const list = [...(prev[delConfirm.parentSlug]||[])]
-      list.splice(delConfirm.subIndex, 1)
-      const next = { ...prev, [delConfirm.parentSlug]: list }
-      saveSubs(next); return next
-    })
-    setDelConfirm(null); showToast('🗑️ Deleted')
+    const list = [...(subs[delConfirm.parentSlug]||[])]
+    list.splice(delConfirm.subIndex, 1)
+    const next = { ...subs, [delConfirm.parentSlug]: list }
+    try {
+      await commitSubs(next)
+      setSubs(next)
+      setDelConfirm(null); showToast('🗑️ Deleted — live in ~1 min')
+    } catch (err) {
+      setDelConfirm(null); showToast('❌ ' + (err.message || 'Delete failed'))
+    }
   }
 
   function resetToDefault() {
-    if (!confirm('Reset ALL sub-products to original? This removes your changes.')) return
-    localStorage.removeItem(STORAGE_KEY)
-    const m = {}; allProds.forEach(p => { m[p.slug] = JSON.parse(JSON.stringify(p.subProducts||[])) })
-    setSubs(m); showToast('♻️ Reset to original data')
+    if (!confirm('Reload sub-products from the live site data? This only clears unsaved edits on this screen — it does NOT undo changes you already saved.')) return
+    setSubs(loadSubs()); showToast('♻️ Reloaded from live data')
   }
 
   const seoScore = (() => {
