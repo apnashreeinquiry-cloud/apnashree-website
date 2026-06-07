@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1780491177442.webp",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780843349159.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780843469255.jpg",
           "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
           "slug": "motorised-lubrication-systems-cenlub-chennai",
@@ -91,8 +91,8 @@
             "CENLUB pneumatic pump Chennai",
             "air lubrication pump supplier"
           ],
-          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1780843349160.jpg",
-          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780843349161.jpg",
+          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1780843469256.jpg",
+          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780843469257.jpg",
           "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
           "slug": "pneumatic-lubrication-pump-cenlub-chennai",
@@ -174,8 +174,8 @@
             "oil skimmer Chennai",
             "CENLUB accessories dealer"
           ],
-          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1780843349162.jpg",
-          "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780843349163.png",
+          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1780843469258.jpg",
+          "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780843469259.png",
           "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
           "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
           "slug": "lubrication-accessories-fittings-chennai",
@@ -234,8 +234,8 @@
             "DC brake dealer Chennai",
             "spring brake supplier Chennai"
           ],
-          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1780843349164.jpg",
-          "sheetImage": "/images/products/intorq-spring-applied-brakes-chennai-sheetimage-1780843349165.jpg",
+          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1780843469260.jpg",
+          "sheetImage": "/images/products/intorq-spring-applied-brakes-chennai-sheetimage-1780843469261.jpg",
           "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
           "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
           "slug": "intorq-spring-applied-brakes-chennai",
@@ -301,18 +301,8 @@
       ],
       "subProducts": [
         {
-          "slug": "pethe-ac-electromagnetic-brakes-chennai",
           "name": "PETHE AC Electromagnetic Brakes",
           "brand": "PETHE",
-          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
-          "parentName": "EM AC Brakes & Clutches",
-          "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "PETHE AC electromagnetic brake Chennai",
-            "AC brake dealer Tamil Nadu",
-            "PETHE brake supplier Chennai"
-          ],
           "heroDesc": "PETHE AC electromagnetic brakes — direct mains operation with no rectifier needed.",
           "description": "PETHE AC electromagnetic brakes operate directly on AC mains supply — no DC rectifier required, making installation simple and cost-effective. Widely used in textile machinery, packaging equipment, and general industrial applications across Tamil Nadu.",
           "specifications": [
@@ -330,15 +320,25 @@
             "Material handling",
             "General industrial drives"
           ],
-          "image": "/images/products/pethe-ac-brake-main.jpg",
-          "sheetImage": "/images/products/pethe-ac-brake-sheet.jpg",
           "tags": [
             "AC Brake",
             "230V AC",
             "No Rectifier",
             "Textile",
             "Simple Install"
-          ]
+          ],
+          "keywords": [
+            "PETHE AC electromagnetic brake Chennai",
+            "AC brake dealer Tamil Nadu",
+            "PETHE brake supplier Chennai"
+          ],
+          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1780843469262.jpg",
+          "sheetImage": "/images/products/pethe-ac-electromagnetic-brakes-chennai-sheetimage-1780843469263.jpg",
+          "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
+          "slug": "pethe-ac-electromagnetic-brakes-chennai",
+          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
+          "parentName": "Electromagnetic (AC) Brakes & Clutches"
         },
         {
           "slug": "pethe-clutch-plates-friction-liners-chennai",
