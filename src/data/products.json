@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1780491177442.webp",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780842896023.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780843197762.jpg",
           "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
           "slug": "motorised-lubrication-systems-cenlub-chennai",
@@ -91,8 +91,8 @@
             "CENLUB pneumatic pump Chennai",
             "air lubrication pump supplier"
           ],
-          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1780842896024.jpg",
-          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780842896025.jpg",
+          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1780843197763.jpg",
+          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780843197764.jpg",
           "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
           "slug": "pneumatic-lubrication-pump-cenlub-chennai",
@@ -141,20 +141,8 @@
           ]
         },
         {
-          "slug": "lubrication-accessories-fittings-chennai",
           "name": "Lubrication Accessories & Fittings",
           "brand": "CENLUB",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems",
-          "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
-          "keywords": [
-            "lubrication accessories Chennai",
-            "metering cartridge supplier Tamil Nadu",
-            "lubrication fittings Chennai",
-            "oil skimmer Chennai",
-            "CENLUB accessories dealer"
-          ],
           "heroDesc": "Complete range of lubrication accessories — metering cartridges, manifolds, timers, oil skimmers, and fittings.",
           "description": "All the accessories needed to build, maintain, and upgrade centralized lubrication systems. We stock the complete CENLUB accessories range in Chennai for fast delivery across Tamil Nadu.",
           "specifications": [
@@ -172,15 +160,27 @@
             "Multi-point manifold distribution",
             "System maintenance and upgrade"
           ],
-          "image": "/images/products/lubrication-accessories-main.jpg",
-          "sheetImage": "/images/products/lubrication-accessories-sheet.jpg",
           "tags": [
             "Metering Cartridge",
             "Oil Skimmer",
             "Timer",
             "Manifold",
             "Fittings"
-          ]
+          ],
+          "keywords": [
+            "lubrication accessories Chennai",
+            "metering cartridge supplier Tamil Nadu",
+            "lubrication fittings Chennai",
+            "oil skimmer Chennai",
+            "CENLUB accessories dealer"
+          ],
+          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1780843197765.jpg",
+          "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780843197766.png",
+          "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
+          "slug": "lubrication-accessories-fittings-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
         }
       ]
     },
