@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1780491177442.webp",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780843197762.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780843349159.jpg",
           "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
           "slug": "motorised-lubrication-systems-cenlub-chennai",
@@ -91,8 +91,8 @@
             "CENLUB pneumatic pump Chennai",
             "air lubrication pump supplier"
           ],
-          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1780843197763.jpg",
-          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780843197764.jpg",
+          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1780843349160.jpg",
+          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780843349161.jpg",
           "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
           "slug": "pneumatic-lubrication-pump-cenlub-chennai",
@@ -174,8 +174,8 @@
             "oil skimmer Chennai",
             "CENLUB accessories dealer"
           ],
-          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1780843197765.jpg",
-          "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780843197766.png",
+          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1780843349162.jpg",
+          "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780843349163.png",
           "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
           "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
           "slug": "lubrication-accessories-fittings-chennai",
@@ -202,19 +202,8 @@
       ],
       "subProducts": [
         {
-          "slug": "intorq-spring-applied-brakes-chennai",
           "name": "INTORQ Spring-Applied Brakes",
           "brand": "INTORQ",
-          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
-          "parentName": "EM DC Brakes & Clutches",
-          "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "INTORQ spring applied brake Chennai",
-            "fail safe electromagnetic brake Tamil Nadu",
-            "DC brake dealer Chennai",
-            "spring brake supplier Chennai"
-          ],
           "heroDesc": "INTORQ spring-applied brakes — fail-safe braking that engages automatically when power is cut.",
           "description": "INTORQ spring-applied brakes are the industry standard for fail-safe braking in hoists, cranes, packaging machines, and servo motor applications. The brake engages automatically when power is removed — ensuring the load cannot move in a power failure.\n\nAvailable in flange-mounted and shaft-mounted configurations from 1 Nm to 500 Nm torque.",
           "specifications": [
@@ -232,15 +221,26 @@
             "Elevators and lifts",
             "Automation equipment"
           ],
-          "image": "/images/products/intorq-spring-brake-main.jpg",
-          "sheetImage": "/images/products/intorq-spring-brake-sheet.jpg",
           "tags": [
             "Spring Applied",
             "Fail-Safe",
             "24V DC",
             "Servo",
             "Hoist"
-          ]
+          ],
+          "keywords": [
+            "INTORQ spring applied brake Chennai",
+            "fail safe electromagnetic brake Tamil Nadu",
+            "DC brake dealer Chennai",
+            "spring brake supplier Chennai"
+          ],
+          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1780843349164.jpg",
+          "sheetImage": "/images/products/intorq-spring-applied-brakes-chennai-sheetimage-1780843349165.jpg",
+          "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
+          "slug": "intorq-spring-applied-brakes-chennai",
+          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
+          "parentName": "Electromagnetic (DC) Brakes & Clutches"
         },
         {
           "slug": "intorq-electromagnetic-clutches-chennai",
