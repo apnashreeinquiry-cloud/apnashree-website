@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1780491177442.webp",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780842173541.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780842738219.jpg",
           "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
           "slug": "motorised-lubrication-systems-cenlub-chennai",
@@ -59,19 +59,8 @@
           "parentName": "Lubrication Systems"
         },
         {
-          "slug": "pneumatic-lubrication-pump-cenlub-chennai",
           "name": "Pneumatic Lubrication Pumps",
           "brand": "CENLUB",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems",
-          "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
-          "keywords": [
-            "pneumatic lubrication pump Chennai",
-            "air operated grease pump Tamil Nadu",
-            "CENLUB pneumatic pump Chennai",
-            "air lubrication pump supplier"
-          ],
           "heroDesc": "Air-operated pneumatic lubrication pumps for grease and oil dispensing in industrial machinery.",
           "description": "Pneumatic lubrication pumps use compressed air to deliver lubricant — ideal where electrical power is not available or where explosion-proof operation is required. CENLUB pneumatic pumps handle both oil and grease efficiently.\n\nAvailable in barrel-mount, pail-mount, and inline configurations for all industrial applications.",
           "specifications": [
@@ -89,15 +78,26 @@
             "Presses and heavy presses",
             "Offshore / hazardous area (ATEX)"
           ],
-          "image": "/images/products/lubrication-pneumatic-main.jpg",
-          "sheetImage": "/images/products/lubrication-pneumatic-sheet.jpg",
           "tags": [
             "Pneumatic",
             "Air Operated",
             "Barrel Mount",
             "Grease",
             "Oil"
-          ]
+          ],
+          "keywords": [
+            "pneumatic lubrication pump Chennai",
+            "air operated grease pump Tamil Nadu",
+            "CENLUB pneumatic pump Chennai",
+            "air lubrication pump supplier"
+          ],
+          "image": "/images/products/lubrication-pneumatic-main.jpg",
+          "sheetImage": "/images/products/lubrication-pneumatic-sheet.jpg",
+          "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
+          "slug": "pneumatic-lubrication-pump-cenlub-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
         },
         {
           "slug": "hand-operated-lubrication-pump-chennai",
