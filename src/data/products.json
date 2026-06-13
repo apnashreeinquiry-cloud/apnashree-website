@@ -50,7 +50,7 @@
             "CENLUB motorised pump Chennai",
             "electric lubrication system supplier"
           ],
-          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331484292.jpg",
+          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
           "sheetImage": "",
           "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
           "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
@@ -100,19 +100,8 @@
           "parentName": "Lubrication Systems"
         },
         {
-          "slug": "hand-operated-lubrication-pump-chennai",
           "name": "Hand Operated Lubrication Pumps",
           "brand": "CENLUB",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems",
-          "metaTitle": "Hand Operated Lubrication Pump Chennai | Manual Grease Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy hand operated lubrication pumps in Chennai. Manual lever and plunger pumps for small machines and maintenance. CENLUB dealer. Call +91 73583 76280.",
-          "keywords": [
-            "hand operated lubrication pump Chennai",
-            "manual grease pump Tamil Nadu",
-            "lever grease pump supplier Chennai",
-            "manual lubricator Chennai"
-          ],
           "heroDesc": "Manual hand-operated lubrication pumps for small machines, maintenance, and spot lubrication applications.",
           "description": "Hand-operated lubrication pumps are the simplest and most reliable way to lubricate machines that don't have automatic systems. CENLUB hand pumps are used for periodic maintenance greasing, small machine lubrication, and spot lubrication tasks.\n\nAvailable in lever-action, plunger, and foot-operated variants.",
           "specifications": [
@@ -130,15 +119,26 @@
             "Mould lubrication",
             "Chain and guide lubrication"
           ],
-          "image": "/images/products/lubrication-hand-main.jpg",
-          "sheetImage": "/images/products/lubrication-hand-sheet.jpg",
           "tags": [
             "Manual",
             "Hand Operated",
             "Lever Action",
             "Plunger",
             "Maintenance"
-          ]
+          ],
+          "keywords": [
+            "hand operated lubrication pump Chennai",
+            "manual grease pump Tamil Nadu",
+            "lever grease pump supplier Chennai",
+            "manual lubricator Chennai"
+          ],
+          "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1781331503755.jpg",
+          "sheetImage": "/images/products/lubrication-hand-sheet.jpg",
+          "metaTitle": "Hand Operated Lubrication Pump Chennai | Manual Grease Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy hand operated lubrication pumps in Chennai. Manual lever and plunger pumps for small machines and maintenance. CENLUB dealer. Call +91 73583 76280.",
+          "slug": "hand-operated-lubrication-pump-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
         },
         {
           "name": "Lubrication Accessories & Fittings",
