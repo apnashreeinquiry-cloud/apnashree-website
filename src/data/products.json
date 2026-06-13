@@ -744,8 +744,8 @@
             "disk coupling supplier Chennai",
             "encoder coupling dealer"
           ],
-          "image": "/images/products/beam-couplings-duri-chennai-image-1781344118474.jpg",
-          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344118475.jpg",
+          "image": "/images/products/beam-couplings-duri-chennai-image-1781344338578.jpg",
+          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344338579.jpg",
           "metaTitle": "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
           "metaDescription": "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
           "slug": "beam-couplings-duri-chennai",
@@ -785,7 +785,7 @@
             "high stiffness coupling Chennai",
             "CNC servo coupling dealer"
           ],
-          "image": "/images/products/bellows-couplings-rw-chennai-image-1781344118476.webp",
+          "image": "/images/products/bellows-couplings-rw-chennai-image-1781344338580.webp",
           "sheetImage": "/images/products/rw-bellows-coupling-sheet.jpg",
           "metaTitle": "R+W Bellows Coupling Chennai | Servo Coupling Tamil Nadu | Apna Shree",
           "metaDescription": "Buy R+W bellows couplings in Chennai. High torsional stiffness servo couplings for CNC machine tool drives. Call +91 73583 76280.",
@@ -854,18 +854,8 @@
           ]
         },
         {
-          "slug": "high-pressure-coolant-pump-chennai",
           "name": "High Pressure Coolant Pumps",
           "brand": "RAJAMANE / KNOLL",
-          "parentSlug": "coolant-pumps-rajamane-chennai",
-          "parentName": "Coolant Pumps",
-          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
-          "keywords": [
-            "high pressure coolant pump Chennai",
-            "through spindle coolant pump Tamil Nadu",
-            "deep hole drilling coolant pump Chennai"
-          ],
           "heroDesc": "High pressure coolant pumps for through-spindle coolant and deep-hole drilling applications.",
           "description": "High pressure coolant pumps deliver coolant at pressures from 20 bar to 100 bar for through-spindle coolant applications in CNC machining centers and deep-hole drilling machines. Dramatically improves tool life and surface quality in deep bore operations.",
           "specifications": [
@@ -882,15 +872,25 @@
             "CNC machining center TSC",
             "High-speed machining"
           ],
-          "image": "/images/products/high-pressure-coolant-main.jpg",
-          "sheetImage": "/images/products/high-pressure-coolant-sheet.jpg",
           "tags": [
             "High Pressure",
             "Through Spindle",
             "Deep Hole",
             "20-100 Bar",
             "TSC"
-          ]
+          ],
+          "keywords": [
+            "high pressure coolant pump Chennai",
+            "through spindle coolant pump Tamil Nadu",
+            "deep hole drilling coolant pump Chennai"
+          ],
+          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1781344338581.png",
+          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344338582.png",
+          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
+          "slug": "high-pressure-coolant-pump-chennai",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps"
         }
       ]
     },
