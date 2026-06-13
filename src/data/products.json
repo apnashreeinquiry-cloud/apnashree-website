@@ -744,8 +744,8 @@
             "disk coupling supplier Chennai",
             "encoder coupling dealer"
           ],
-          "image": "/images/products/beam-couplings-duri-chennai-image-1781344338578.jpg",
-          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344338579.jpg",
+          "image": "/images/products/beam-couplings-duri-chennai-image-1781344375530.jpg",
+          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344375531.jpg",
           "metaTitle": "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
           "metaDescription": "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
           "slug": "beam-couplings-duri-chennai",
@@ -785,7 +785,7 @@
             "high stiffness coupling Chennai",
             "CNC servo coupling dealer"
           ],
-          "image": "/images/products/bellows-couplings-rw-chennai-image-1781344338580.webp",
+          "image": "/images/products/bellows-couplings-rw-chennai-image-1781344375532.webp",
           "sheetImage": "/images/products/rw-bellows-coupling-sheet.jpg",
           "metaTitle": "R+W Bellows Coupling Chennai | Servo Coupling Tamil Nadu | Apna Shree",
           "metaDescription": "Buy R+W bellows couplings in Chennai. High torsional stiffness servo couplings for CNC machine tool drives. Call +91 73583 76280.",
@@ -814,18 +814,8 @@
       ],
       "subProducts": [
         {
-          "slug": "submersible-coolant-pumps-rajamane-chennai",
           "name": "Submersible Coolant Pumps",
           "brand": "RAJAMANE",
-          "parentSlug": "coolant-pumps-rajamane-chennai",
-          "parentName": "Coolant Pumps",
-          "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
-          "keywords": [
-            "RAJAMANE submersible coolant pump Chennai",
-            "machine tool coolant pump Tamil Nadu",
-            "CNC coolant pump dealer Chennai"
-          ],
           "heroDesc": "RAJAMANE submersible coolant pumps — the standard choice for Indian machine tools. All power ratings in stock.",
           "description": "RAJAMANE submersible coolant pumps are installed directly in the machine tool's coolant tank. They deliver reliable, continuous coolant flow to the cutting zone — extending tool life and improving surface finish on all machining operations.",
           "specifications": [
@@ -843,15 +833,25 @@
             "Cylindrical grinding machines",
             "Deep-hole drilling machines"
           ],
-          "image": "/images/products/rajamane-submersible-main.jpg",
-          "sheetImage": "/images/products/rajamane-submersible-sheet.jpg",
           "tags": [
             "RAJAMANE",
             "Submersible",
             "All Ratings",
             "Standard/Long Shaft",
             "Stock"
-          ]
+          ],
+          "keywords": [
+            "RAJAMANE submersible coolant pump Chennai",
+            "machine tool coolant pump Tamil Nadu",
+            "CNC coolant pump dealer Chennai"
+          ],
+          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1781344375533.png",
+          "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
+          "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
+          "slug": "submersible-coolant-pumps-rajamane-chennai",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps"
         },
         {
           "name": "High Pressure Coolant Pumps",
@@ -884,8 +884,8 @@
             "through spindle coolant pump Tamil Nadu",
             "deep hole drilling coolant pump Chennai"
           ],
-          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1781344338581.png",
-          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344338582.png",
+          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1781344375535.png",
+          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
           "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
           "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
           "slug": "high-pressure-coolant-pump-chennai",
