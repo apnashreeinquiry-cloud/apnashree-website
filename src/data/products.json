@@ -912,19 +912,8 @@
       ],
       "subProducts": [
         {
-          "slug": "nuteck-torque-limiters-chennai",
           "name": "NUTECK Torque Limiters",
           "brand": "NUTECK",
-          "parentSlug": "torque-limiters-nuteck-chennai",
-          "parentName": "Torque Limiters & Couplings",
-          "metaTitle": "NUTECK Torque Limiter Supplier Chennai | Overload Protection Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy NUTECK torque limiters in Chennai. Ball-detent & friction type torque limiters for packaging, conveyor & industrial machines. Call +91 73583 76280.",
-          "keywords": [
-            "NUTECK torque limiter Chennai",
-            "overload protection device Tamil Nadu",
-            "ball detent torque limiter Chennai",
-            "adjustable torque limiter supplier"
-          ],
           "heroDesc": "NUTECK torque limiters — ball-detent and friction type for overload protection of packaging and industrial machinery.",
           "description": "NUTECK torque limiters automatically disconnect the drive when torque exceeds the preset limit, protecting gearboxes, motors, and machinery from overload damage. The ball-detent type auto-resets when the overload clears.",
           "specifications": [
@@ -942,15 +931,26 @@
             "Printing and labeling machines",
             "Material handling systems"
           ],
-          "image": "/images/products/nuteck-torque-limiter-main.jpg",
-          "sheetImage": "/images/products/nuteck-torque-limiter-sheet.jpg",
           "tags": [
             "Ball Detent",
             "Friction",
             "Adjustable",
             "Auto-Reset",
             "Packaging"
-          ]
+          ],
+          "keywords": [
+            "NUTECK torque limiter Chennai",
+            "overload protection device Tamil Nadu",
+            "ball detent torque limiter Chennai",
+            "adjustable torque limiter supplier"
+          ],
+          "image": "/images/products/nuteck-torque-limiters-chennai-image-1781345011747.jpg",
+          "sheetImage": "/images/products/nuteck-torque-limiters-chennai-sheetimage-1781345011748.jpg",
+          "metaTitle": "NUTECK Torque Limiter Supplier Chennai | Overload Protection Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy NUTECK torque limiters in Chennai. Ball-detent & friction type torque limiters for packaging, conveyor & industrial machines. Call +91 73583 76280.",
+          "slug": "nuteck-torque-limiters-chennai",
+          "parentSlug": "torque-limiters-nuteck-chennai",
+          "parentName": "Torque Limiters & Couplings"
         },
         {
           "slug": "nuteck-gear-chain-couplings-chennai",
@@ -1042,7 +1042,7 @@
             "tramp oil remover Tamil Nadu",
             "coolant tank oil skimmer Chennai"
           ],
-          "image": "/images/products/belt-oil-skimmer-chennai-image-1781344903339.jpg",
+          "image": "/images/products/belt-oil-skimmer-chennai-image-1781345011749.jpg",
           "sheetImage": "/images/products/belt-skimmer-sheet.jpg",
           "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
           "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
