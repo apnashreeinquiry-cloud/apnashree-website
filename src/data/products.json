@@ -174,7 +174,7 @@
             "oil skimmer Chennai",
             "CENLUB accessories dealer"
           ],
-          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1781343261298.jpg",
+          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1781343348197.jpg",
           "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780844571511.png",
           "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
           "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
@@ -234,7 +234,7 @@
             "DC brake dealer Chennai",
             "spring brake supplier Chennai"
           ],
-          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343261299.jpg",
+          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343348198.jpg",
           "sheetImage": "",
           "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
           "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
@@ -273,7 +273,7 @@
             "DC clutch dealer Tamil Nadu",
             "electromagnetic clutch supplier Chennai"
           ],
-          "image": "/images/products/intorq-electromagnetic-clutches-chennai-image-1781343261300.jpg",
+          "image": "/images/products/intorq-electromagnetic-clutches-chennai-image-1781343348199.jpg",
           "sheetImage": "/images/products/intorq-clutch-sheet.jpg",
           "metaTitle": "INTORQ Electromagnetic Clutch Chennai | DC Clutch Tamil Nadu | Apna Shree",
           "metaDescription": "Buy INTORQ DC electromagnetic clutches in Chennai for power transmission control. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
@@ -332,7 +332,7 @@
             "AC brake dealer Tamil Nadu",
             "PETHE brake supplier Chennai"
           ],
-          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1781343261301.jpg",
+          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1781343348200.jpg",
           "sheetImage": "/images/products/pethe-ac-electromagnetic-brakes-chennai-sheetimage-1780844571515.jpg",
           "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
           "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
@@ -431,7 +431,7 @@
             "helical gear reducer Chennai",
             "parallel shaft gearbox dealer"
           ],
-          "image": "/images/products/helical-gearbox-bonfiglioli-chennai-image-1781343261302.png",
+          "image": "/images/products/helical-gearbox-bonfiglioli-chennai-image-1781343348201.png",
           "sheetImage": "/images/products/gearbox-helical-sheet.jpg",
           "metaTitle": "BONFIGLIOLI Helical Gearbox Chennai | Inline Gearbox Tamil Nadu | Apna Shree",
           "metaDescription": "Buy BONFIGLIOLI helical gearboxes in Chennai. Inline and parallel shaft helical gearboxes for conveyors, mixers, and machinery. Authorized dealer. Call +91 73583 76280.",
@@ -440,21 +440,10 @@
           "parentName": "Gear Boxes"
         },
         {
-          "slug": "worm-gearbox-bonfiglioli-chennai",
           "name": "Worm Gear Reducers",
-          "brand": "BONFIGLIOLI",
-          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
-          "parentName": "Gear Boxes",
-          "metaTitle": "BONFIGLIOLI Worm Gearbox Chennai | Worm Gear Reducer Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy BONFIGLIOLI worm gear reducers in Chennai. Right-angle compact worm gearboxes for packaging, conveyors & machinery. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "BONFIGLIOLI worm gearbox Chennai",
-            "worm gear reducer Tamil Nadu",
-            "right angle gearbox Chennai",
-            "worm reducer supplier"
-          ],
-          "heroDesc": "BONFIGLIOLI worm gear reducers — compact right-angle drives for packaging, material handling, and general industrial use.",
-          "description": "Worm gearboxes provide right-angle power transmission in a very compact footprint. BONFIGLIOLI worm reducers are widely used in packaging machines, conveyors, and gate drives across Tamil Nadu.",
+          "brand": "TRANSTECH",
+          "heroDesc": "TRANSTECH worm gear reducers — compact right-angle drives for packaging, material handling, and general industrial use.",
+          "description": "Worm gearboxes provide right-angle power transmission in a very compact footprint. TRANSTECH worm reducers are widely used in packaging machines, conveyors, and gate drives across Tamil Nadu.",
           "specifications": [
             "Power range: 0.06 kW to 15 kW",
             "Gear ratio: 5:1 to 100:1",
@@ -470,15 +459,26 @@
             "Textile machinery",
             "Agri machinery"
           ],
-          "image": "/images/products/gearbox-worm-main.jpg",
-          "sheetImage": "/images/products/gearbox-worm-sheet.jpg",
           "tags": [
             "Worm Gear",
             "Right Angle",
             "Self-Locking",
             "Compact",
             "Packaging"
-          ]
+          ],
+          "keywords": [
+            "BONFIGLIOLI worm gearbox Chennai",
+            "worm gear reducer Tamil Nadu",
+            "right angle gearbox Chennai",
+            "worm reducer supplier"
+          ],
+          "image": "/images/products/worm-gearbox-bonfiglioli-chennai-image-1781343348202.png",
+          "sheetImage": "/images/products/gearbox-worm-sheet.jpg",
+          "metaTitle": "BONFIGLIOLI Worm Gearbox Chennai | Worm Gear Reducer Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy BONFIGLIOLI worm gear reducers in Chennai. Right-angle compact worm gearboxes for packaging, conveyors & machinery. Authorized dealer. Call +91 73583 76280.",
+          "slug": "worm-gearbox-bonfiglioli-chennai",
+          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
+          "parentName": "Gear Boxes"
         },
         {
           "slug": "planetary-gearbox-bonfiglioli-chennai",
