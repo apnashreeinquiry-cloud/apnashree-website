@@ -174,7 +174,7 @@
             "oil skimmer Chennai",
             "CENLUB accessories dealer"
           ],
-          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1781341006097.jpg",
+          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1781341030720.jpg",
           "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780844571511.png",
           "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
           "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
@@ -234,7 +234,7 @@
             "DC brake dealer Chennai",
             "spring brake supplier Chennai"
           ],
-          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781341006098.jpg",
+          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781341030721.jpg",
           "sheetImage": "",
           "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
           "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
@@ -243,18 +243,8 @@
           "parentName": "Electromagnetic (DC) Brakes & Clutches"
         },
         {
-          "slug": "intorq-electromagnetic-clutches-chennai",
           "name": "INTORQ Electromagnetic Clutches",
           "brand": "INTORQ",
-          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
-          "parentName": "EM DC Brakes & Clutches",
-          "metaTitle": "INTORQ Electromagnetic Clutch Chennai | DC Clutch Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy INTORQ DC electromagnetic clutches in Chennai for power transmission control. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
-          "keywords": [
-            "INTORQ electromagnetic clutch Chennai",
-            "DC clutch dealer Tamil Nadu",
-            "electromagnetic clutch supplier Chennai"
-          ],
           "heroDesc": "INTORQ DC electromagnetic clutches for precision power transmission control in industrial machinery.",
           "description": "INTORQ electromagnetic clutches transmit torque when energized and release instantaneously when de-energized. Used where precise, repeatable engagement and disengagement of rotating drives is required.",
           "specifications": [
@@ -271,15 +261,25 @@
             "Conveyor indexing drives",
             "Copy and printing machines"
           ],
-          "image": "/images/products/intorq-clutch-main.jpg",
-          "sheetImage": "/images/products/intorq-clutch-sheet.jpg",
           "tags": [
             "DC Clutch",
             "24V",
             "Fast Response",
             "Precision",
             "Indexing"
-          ]
+          ],
+          "keywords": [
+            "INTORQ electromagnetic clutch Chennai",
+            "DC clutch dealer Tamil Nadu",
+            "electromagnetic clutch supplier Chennai"
+          ],
+          "image": "/images/products/intorq-electromagnetic-clutches-chennai-image-1781341030722.jpg",
+          "sheetImage": "/images/products/intorq-clutch-sheet.jpg",
+          "metaTitle": "INTORQ Electromagnetic Clutch Chennai | DC Clutch Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy INTORQ DC electromagnetic clutches in Chennai for power transmission control. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
+          "slug": "intorq-electromagnetic-clutches-chennai",
+          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
+          "parentName": "Electromagnetic (DC) Brakes & Clutches"
         }
       ]
     },
