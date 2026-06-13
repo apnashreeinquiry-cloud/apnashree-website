@@ -944,8 +944,8 @@
             "ball detent torque limiter Chennai",
             "adjustable torque limiter supplier"
           ],
-          "image": "/images/products/nuteck-torque-limiters-chennai-image-1781345060075.jpg",
-          "sheetImage": "/images/products/nuteck-torque-limiters-chennai-sheetimage-1781345060076.jpg",
+          "image": "/images/products/nuteck-torque-limiters-chennai-image-1781345202331.jpg",
+          "sheetImage": "/images/products/nuteck-torque-limiters-chennai-sheetimage-1781345202332.jpg",
           "metaTitle": "NUTECK Torque Limiter Supplier Chennai | Overload Protection Tamil Nadu | Apna Shree",
           "metaDescription": "Buy NUTECK torque limiters in Chennai. Ball-detent & friction type torque limiters for packaging, conveyor & industrial machines. Call +91 73583 76280.",
           "slug": "nuteck-torque-limiters-chennai",
@@ -953,18 +953,8 @@
           "parentName": "Torque Limiters & Couplings"
         },
         {
-          "slug": "nuteck-gear-chain-couplings-chennai",
           "name": "NUTECK Gear & Chain Couplings",
           "brand": "NUTECK",
-          "parentSlug": "torque-limiters-nuteck-chennai",
-          "parentName": "Torque Limiters & Couplings",
-          "metaTitle": "NUTECK Gear Coupling Chennai | Chain Coupling Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy NUTECK gear couplings and chain couplings in Chennai. For high-torque and general industrial power transmission. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "NUTECK gear coupling Chennai",
-            "chain coupling supplier Tamil Nadu",
-            "industrial coupling dealer Chennai"
-          ],
           "heroDesc": "NUTECK gear couplings and chain couplings for high-torque and general power transmission applications.",
           "description": "NUTECK gear couplings handle high torque and speed with misalignment compensation. Chain couplings provide a simple, economical solution for general industrial power transmission applications.",
           "specifications": [
@@ -981,15 +971,25 @@
             "Agitator and mixer drives",
             "General industrial transmission"
           ],
-          "image": "/images/products/nuteck-coupling-main.jpg",
-          "sheetImage": "/images/products/nuteck-coupling-sheet.jpg",
           "tags": [
             "Gear Coupling",
             "Chain Coupling",
             "High Torque",
             "Misalignment",
             "Heavy Duty"
-          ]
+          ],
+          "keywords": [
+            "NUTECK gear coupling Chennai",
+            "chain coupling supplier Tamil Nadu",
+            "industrial coupling dealer Chennai"
+          ],
+          "image": "/images/products/nuteck-gear-chain-couplings-chennai-image-1781345202333.jpg",
+          "sheetImage": "/images/products/nuteck-coupling-sheet.jpg",
+          "metaTitle": "NUTECK Gear Coupling Chennai | Chain Coupling Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy NUTECK gear couplings and chain couplings in Chennai. For high-torque and general industrial power transmission. Authorized dealer. Call +91 73583 76280.",
+          "slug": "nuteck-gear-chain-couplings-chennai",
+          "parentSlug": "torque-limiters-nuteck-chennai",
+          "parentName": "Torque Limiters & Couplings"
         }
       ]
     },
