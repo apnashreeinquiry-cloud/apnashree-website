@@ -174,7 +174,7 @@
             "oil skimmer Chennai",
             "CENLUB accessories dealer"
           ],
-          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1781343348197.jpg",
+          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1781343402337.jpg",
           "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780844571511.png",
           "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
           "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
@@ -234,7 +234,7 @@
             "DC brake dealer Chennai",
             "spring brake supplier Chennai"
           ],
-          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343348198.jpg",
+          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343402338.jpg",
           "sheetImage": "",
           "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
           "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
@@ -273,7 +273,7 @@
             "DC clutch dealer Tamil Nadu",
             "electromagnetic clutch supplier Chennai"
           ],
-          "image": "/images/products/intorq-electromagnetic-clutches-chennai-image-1781343348199.jpg",
+          "image": "/images/products/intorq-electromagnetic-clutches-chennai-image-1781343402339.jpg",
           "sheetImage": "/images/products/intorq-clutch-sheet.jpg",
           "metaTitle": "INTORQ Electromagnetic Clutch Chennai | DC Clutch Tamil Nadu | Apna Shree",
           "metaDescription": "Buy INTORQ DC electromagnetic clutches in Chennai for power transmission control. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
@@ -332,7 +332,7 @@
             "AC brake dealer Tamil Nadu",
             "PETHE brake supplier Chennai"
           ],
-          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1781343348200.jpg",
+          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1781343402340.jpg",
           "sheetImage": "/images/products/pethe-ac-electromagnetic-brakes-chennai-sheetimage-1780844571515.jpg",
           "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
           "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
@@ -431,7 +431,7 @@
             "helical gear reducer Chennai",
             "parallel shaft gearbox dealer"
           ],
-          "image": "/images/products/helical-gearbox-bonfiglioli-chennai-image-1781343348201.png",
+          "image": "/images/products/helical-gearbox-bonfiglioli-chennai-image-1781343402341.png",
           "sheetImage": "/images/products/gearbox-helical-sheet.jpg",
           "metaTitle": "BONFIGLIOLI Helical Gearbox Chennai | Inline Gearbox Tamil Nadu | Apna Shree",
           "metaDescription": "Buy BONFIGLIOLI helical gearboxes in Chennai. Inline and parallel shaft helical gearboxes for conveyors, mixers, and machinery. Authorized dealer. Call +91 73583 76280.",
@@ -472,7 +472,7 @@
             "right angle gearbox Chennai",
             "worm reducer supplier"
           ],
-          "image": "/images/products/worm-gearbox-bonfiglioli-chennai-image-1781343348202.png",
+          "image": "/images/products/worm-gearbox-bonfiglioli-chennai-image-1781343402342.png",
           "sheetImage": "/images/products/gearbox-worm-sheet.jpg",
           "metaTitle": "BONFIGLIOLI Worm Gearbox Chennai | Worm Gear Reducer Tamil Nadu | Apna Shree",
           "metaDescription": "Buy BONFIGLIOLI worm gear reducers in Chennai. Right-angle compact worm gearboxes for packaging, conveyors & machinery. Authorized dealer. Call +91 73583 76280.",
@@ -481,19 +481,8 @@
           "parentName": "Gear Boxes"
         },
         {
-          "slug": "planetary-gearbox-bonfiglioli-chennai",
           "name": "Planetary Gearboxes",
           "brand": "BONFIGLIOLI",
-          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
-          "parentName": "Gear Boxes",
-          "metaTitle": "BONFIGLIOLI Planetary Gearbox Chennai | Precision Planetary Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy BONFIGLIOLI planetary gearboxes in Chennai. High torque, compact planetary reducers for servo motors and heavy drives. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "BONFIGLIOLI planetary gearbox Chennai",
-            "planetary gear reducer Tamil Nadu",
-            "servo gearbox Chennai",
-            "precision gearbox supplier"
-          ],
           "heroDesc": "BONFIGLIOLI planetary gearboxes — high torque density, precision reducers for servo motors and heavy-duty drives.",
           "description": "Planetary gearboxes offer the highest torque-to-size ratio of all gearbox types. BONFIGLIOLI planetary reducers are used with servo motors for precision positioning and with wheel drive systems for heavy-duty mobile applications.",
           "specifications": [
@@ -511,15 +500,26 @@
             "Wind energy drives",
             "Heavy lifting equipment"
           ],
-          "image": "/images/products/gearbox-planetary-main.jpg",
-          "sheetImage": "/images/products/gearbox-planetary-sheet.jpg",
           "tags": [
             "Planetary",
             "High Torque",
             "Precision",
             "Servo Compatible",
             "Heavy Duty"
-          ]
+          ],
+          "keywords": [
+            "BONFIGLIOLI planetary gearbox Chennai",
+            "planetary gear reducer Tamil Nadu",
+            "servo gearbox Chennai",
+            "precision gearbox supplier"
+          ],
+          "image": "/images/products/planetary-gearbox-bonfiglioli-chennai-image-1781343402343.webp",
+          "sheetImage": "/images/products/gearbox-planetary-sheet.jpg",
+          "metaTitle": "BONFIGLIOLI Planetary Gearbox Chennai | Precision Planetary Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy BONFIGLIOLI planetary gearboxes in Chennai. High torque, compact planetary reducers for servo motors and heavy drives. Authorized dealer. Call +91 73583 76280.",
+          "slug": "planetary-gearbox-bonfiglioli-chennai",
+          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
+          "parentName": "Gear Boxes"
         }
       ]
     },
