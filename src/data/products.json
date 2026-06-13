@@ -712,19 +712,8 @@
       ],
       "subProducts": [
         {
-          "slug": "beam-couplings-duri-chennai",
           "name": "Disk Couplings (DURI)",
           "brand": "DURI",
-          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
-          "parentName": "Encoder Couplings",
-          "metaTitle": "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
-          "keywords": [
-            "DURI disk coupling Chennai",
-            "zero backlash coupling Tamil Nadu",
-            "disk coupling supplier Chennai",
-            "encoder coupling dealer"
-          ],
           "heroDesc": "DURI disk couplings — zero backlash, flexible disk-pack couplings for encoder and servo connections.",
           "description": "DURI disk couplings transmit torque through flexible metal disc packs, giving zero backlash while absorbing shaft misalignment. Ideal for encoder and servo motor connections in CNC equipment.",
           "specifications": [
@@ -742,15 +731,26 @@
             "Stepper motor drives",
             "Precision measuring equipment"
           ],
-          "image": "/images/products/duri-beam-coupling-main.jpg",
-          "sheetImage": "/images/products/duri-beam-coupling-sheet.jpg",
           "tags": [
             "DURI",
             "Disk Coupling",
             "Zero Backlash",
             "Encoder",
             "CNC"
-          ]
+          ],
+          "keywords": [
+            "DURI disk coupling Chennai",
+            "zero backlash coupling Tamil Nadu",
+            "disk coupling supplier Chennai",
+            "encoder coupling dealer"
+          ],
+          "image": "/images/products/beam-couplings-duri-chennai-image-1781344075443.jpg",
+          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344075444.jpg",
+          "metaTitle": "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
+          "slug": "beam-couplings-duri-chennai",
+          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
+          "parentName": "Encoder Couplings"
         },
         {
           "slug": "bellows-couplings-rw-chennai",
