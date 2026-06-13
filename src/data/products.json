@@ -1011,18 +1011,8 @@
       ],
       "subProducts": [
         {
-          "slug": "belt-oil-skimmer-chennai",
           "name": "Belt Type Oil Skimmers",
           "brand": "RAJAMANE",
-          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
-          "parentName": "Oil Skimmers",
-          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
-          "keywords": [
-            "belt oil skimmer Chennai",
-            "tramp oil remover Tamil Nadu",
-            "coolant tank oil skimmer Chennai"
-          ],
           "heroDesc": "Belt-type oil skimmers continuously remove tramp oil from CNC machine coolant tanks — automatically.",
           "description": "Belt-type oil skimmers use a continuous belt that passes through the coolant surface, picking up floating tramp oil. The oil is scraped off the belt into a collection tray. Continuous, automatic, low-maintenance operation.",
           "specifications": [
@@ -1040,15 +1030,25 @@
             "Washing machine sumps",
             "Any coolant tank with tramp oil"
           ],
-          "image": "/images/products/belt-skimmer-main.jpg",
-          "sheetImage": "/images/products/belt-skimmer-sheet.jpg",
           "tags": [
             "Belt Type",
             "Automatic",
             "Continuous",
             "All Sizes",
             "Low Maintenance"
-          ]
+          ],
+          "keywords": [
+            "belt oil skimmer Chennai",
+            "tramp oil remover Tamil Nadu",
+            "coolant tank oil skimmer Chennai"
+          ],
+          "image": "/images/products/belt-oil-skimmer-chennai-image-1781344903339.jpg",
+          "sheetImage": "/images/products/belt-skimmer-sheet.jpg",
+          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
+          "slug": "belt-oil-skimmer-chennai",
+          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
+          "parentName": "Oil Skimmers"
         }
       ]
     },
