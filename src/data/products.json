@@ -744,8 +744,8 @@
             "disk coupling supplier Chennai",
             "encoder coupling dealer"
           ],
-          "image": "/images/products/beam-couplings-duri-chennai-image-1781344075443.jpg",
-          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344075444.jpg",
+          "image": "/images/products/beam-couplings-duri-chennai-image-1781344118474.jpg",
+          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344118475.jpg",
           "metaTitle": "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
           "metaDescription": "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
           "slug": "beam-couplings-duri-chennai",
@@ -753,19 +753,8 @@
           "parentName": "Encoder Couplings"
         },
         {
-          "slug": "bellows-couplings-rw-chennai",
           "name": "Bellows Couplings (R+W)",
           "brand": "R+W",
-          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
-          "parentName": "Encoder Couplings",
-          "metaTitle": "R+W Bellows Coupling Chennai | Servo Coupling Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy R+W bellows couplings in Chennai. High torsional stiffness servo couplings for CNC machine tool drives. Call +91 73583 76280.",
-          "keywords": [
-            "R+W bellows coupling Chennai",
-            "servo coupling supplier Tamil Nadu",
-            "high stiffness coupling Chennai",
-            "CNC servo coupling dealer"
-          ],
           "heroDesc": "R+W bellows couplings — high torsional stiffness, zero backlash for CNC servo motor drives.",
           "description": "R+W bellows couplings are the premium choice for CNC machine tool servo drives. The stainless steel bellows element provides zero backlash with high torsional rigidity — critical for accurate CNC positioning.",
           "specifications": [
@@ -783,15 +772,26 @@
             "Grinding machine drives",
             "VMC/HMC servo axes"
           ],
-          "image": "/images/products/rw-bellows-coupling-main.jpg",
-          "sheetImage": "/images/products/rw-bellows-coupling-sheet.jpg",
           "tags": [
             "R+W",
             "Bellows",
             "High Stiffness",
             "CNC Servo",
             "Stainless Steel"
-          ]
+          ],
+          "keywords": [
+            "R+W bellows coupling Chennai",
+            "servo coupling supplier Tamil Nadu",
+            "high stiffness coupling Chennai",
+            "CNC servo coupling dealer"
+          ],
+          "image": "/images/products/bellows-couplings-rw-chennai-image-1781344118476.webp",
+          "sheetImage": "/images/products/rw-bellows-coupling-sheet.jpg",
+          "metaTitle": "R+W Bellows Coupling Chennai | Servo Coupling Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy R+W bellows couplings in Chennai. High torsional stiffness servo couplings for CNC machine tool drives. Call +91 73583 76280.",
+          "slug": "bellows-couplings-rw-chennai",
+          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
+          "parentName": "Encoder Couplings"
         }
       ]
     },
