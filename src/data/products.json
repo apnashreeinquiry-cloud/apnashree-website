@@ -1162,7 +1162,7 @@
             "ENIDYNE"
           ],
           "keywords": [],
-          "image": "/images/products/feed-controllers-chennai-image-1781459847579.png",
+          "image": "/images/products/feed-controllers-chennai-image-1781459956164.png",
           "sheetImage": "",
           "metaTitle": "SHOCK ABSORBERS, FEED  CONTROLLERS",
           "metaDescription": "SHOCK ABSORBERS",
@@ -1447,18 +1447,8 @@
       ],
       "subProducts": [
         {
-          "slug": "festo-pneumatic-cylinders-chennai",
-          "name": "FESTO Pneumatic Cylinders",
+          "name": "FESTO Pneumatic Cylinders & Valves",
           "brand": "FESTO",
-          "parentSlug": "pneumatics-festo-janatics-chennai",
-          "parentName": "Pneumatics",
-          "metaTitle": "FESTO Pneumatic Cylinder Supplier Chennai | FESTO Cylinder Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy FESTO pneumatic cylinders in Chennai. Round, tie-rod, compact, and guided cylinders. Buy & sell. Call +91 73583 76280.",
-          "keywords": [
-            "FESTO pneumatic cylinder Chennai",
-            "FESTO cylinder supplier Tamil Nadu",
-            "pneumatic cylinder dealer Chennai"
-          ],
           "heroDesc": "FESTO pneumatic cylinders — round bore, tie-rod, compact, and guided types for all automation needs.",
           "description": "FESTO is the world leader in pneumatic cylinders. We supply and trade FESTO pneumatic cylinders in all configurations for industrial automation, machine tools, and assembly systems in Tamil Nadu.",
           "specifications": [
@@ -1476,15 +1466,25 @@
             "Pick-and-place robots",
             "Packaging machines"
           ],
-          "image": "/images/products/festo-cylinder-main.jpg",
-          "sheetImage": "/images/products/festo-cylinder-sheet.jpg",
           "tags": [
             "FESTO",
             "DSNU",
             "DNC",
             "All Bores",
             "All Strokes"
-          ]
+          ],
+          "keywords": [
+            "FESTO pneumatic cylinder Chennai",
+            "FESTO cylinder supplier Tamil Nadu",
+            "pneumatic cylinder dealer Chennai"
+          ],
+          "image": "/images/products/festo-cylinder-main.jpg",
+          "sheetImage": "/images/products/festo-cylinder-sheet.jpg",
+          "metaTitle": "FESTO Pneumatic Cylinder Supplier Chennai | FESTO Cylinder Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy FESTO pneumatic cylinders in Chennai. Round, tie-rod, compact, and guided cylinders. Buy & sell. Call +91 73583 76280.",
+          "slug": "festo-pneumatic-cylinders-chennai",
+          "parentSlug": "pneumatics-festo-janatics-chennai",
+          "parentName": "Pneumatics"
         },
         {
           "slug": "festo-pneumatic-valves-frl-chennai",
