@@ -1067,7 +1067,7 @@
             "TUBE SKIMMER"
           ],
           "keywords": [],
-          "image": "/images/products/disc-type-oil-skimmers-chennai-image-1781450427767.gif",
+          "image": "/images/products/disc-type-oil-skimmers-chennai-image-1781452562519.gif",
           "sheetImage": "",
           "metaTitle": "DISC SKIMMER",
           "metaDescription": "DISC SKIMMER ",
@@ -1095,19 +1095,8 @@
       ],
       "subProducts": [
         {
-          "slug": "adjustable-shock-absorbers-adonitech-chennai",
           "name": "Adjustable Shock Absorbers",
           "brand": "ADONITECH",
-          "parentSlug": "shock-absorbers-adonitech-chennai",
-          "parentName": "Shock Absorbers",
-          "metaTitle": "Adjustable Shock Absorber Supplier Chennai | Industrial Damper Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy ADONITECH adjustable shock absorbers in Chennai. M8 to M64 all sizes for automation and packaging machines. Call +91 73583 76280.",
-          "keywords": [
-            "adjustable shock absorber Chennai",
-            "industrial shock absorber Tamil Nadu",
-            "ADONITECH damper Chennai",
-            "automation shock absorber supplier"
-          ],
           "heroDesc": "ADONITECH adjustable shock absorbers — controlled deceleration for automation and packaging machinery.",
           "description": "Adjustable shock absorbers allow fine-tuning of the deceleration force to match the moving mass and speed. The adjustment screw changes the orifice size, controlling the cushioning force from soft to hard.",
           "specifications": [
@@ -1125,15 +1114,32 @@
             "Rotary indexing tables",
             "Conveyor end stops"
           ],
-          "image": "/images/products/shock-absorber-adj-main.jpg",
-          "sheetImage": "/images/products/shock-absorber-adj-sheet.jpg",
           "tags": [
             "Adjustable",
             "M8-M64",
             "High Energy",
             "6m/s",
-            "External Knob"
-          ]
+            "External Knob",
+            "ADONITECH",
+            "SMC",
+            "FESTO",
+            "ACE",
+            "ENIDYNE",
+            "MISUMI"
+          ],
+          "keywords": [
+            "adjustable shock absorber Chennai",
+            "industrial shock absorber Tamil Nadu",
+            "ADONITECH damper Chennai",
+            "automation shock absorber supplier"
+          ],
+          "image": "/images/products/adjustable-shock-absorbers-adonitech-chennai-image-1781452562520.jpg",
+          "sheetImage": "/images/products/adjustable-shock-absorbers-adonitech-chennai-sheetimage-1781452562521.jpg",
+          "metaTitle": "Adjustable Shock Absorber Supplier Chennai | Industrial Damper Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy ADONITECH adjustable shock absorbers in Chennai. M8 to M64 all sizes for automation and packaging machines. Call +91 73583 76280.",
+          "slug": "adjustable-shock-absorbers-adonitech-chennai",
+          "parentSlug": "shock-absorbers-adonitech-chennai",
+          "parentName": "Shock Absorbers"
         }
       ]
     },
