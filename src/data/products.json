@@ -1140,6 +1140,35 @@
           "slug": "adjustable-shock-absorbers-adonitech-chennai",
           "parentSlug": "shock-absorbers-adonitech-chennai",
           "parentName": "Shock Absorbers"
+        },
+        {
+          "name": "FEED CONTROLLERS ",
+          "brand": "ADONITECH",
+          "heroDesc": "Adoni Tech, designs & manufactures  Hydraulic Feed Rate Controllers to provide unmatched control over the speed and precision of your machine’s movements. Whether it’s drilling, milling, or material handling, our controllers deliver consistent performance, ensuring safety and efficiency in every application",
+          "description": "A Hydraulic Feed Rate Controller is a device used in industrial machines to regulate the speed at which a machine part moves. It controls the motion smoothly and consistently, ensuring precision and safety during operations. The controller uses hydraulic fluid to absorb and manage forces, enabling the operator to fine-tune the feed rate as needed.",
+          "specifications": [
+            "VARIOUS MODELS  AVAILABLE ARE TSC-25,  TSC-50,  TGC-75,  TSC-100,  T6SC-125"
+          ],
+          "applications": [
+            "CNC MACHINES, AUTO TOOL CHANGERS, ROBOTICS etc.,"
+          ],
+          "tags": [
+            "HYDRAULIC FEED CONTROLLERS",
+            "HYDRAULIC  SHOCK ABSORBERS",
+            "ADONITECH",
+            "SMC",
+            "FESTO",
+            "ACE",
+            "ENIDYNE"
+          ],
+          "keywords": [],
+          "image": "/images/products/feed-controllers-chennai-image-1781459847579.png",
+          "sheetImage": "",
+          "metaTitle": "SHOCK ABSORBERS, FEED  CONTROLLERS",
+          "metaDescription": "SHOCK ABSORBERS",
+          "slug": "feed-controllers-chennai",
+          "parentSlug": "shock-absorbers-adonitech-chennai",
+          "parentName": "Shock Absorbers"
         }
       ]
     },
