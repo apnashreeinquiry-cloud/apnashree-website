@@ -1162,7 +1162,7 @@
             "ENIDYNE"
           ],
           "keywords": [],
-          "image": "/images/products/feed-controllers-chennai-image-1781459971784.png",
+          "image": "/images/products/feed-controllers-chennai-image-1781460323298.png",
           "sheetImage": "",
           "metaTitle": "SHOCK ABSORBERS, FEED  CONTROLLERS",
           "metaDescription": "SHOCK ABSORBERS",
@@ -1582,6 +1582,31 @@
             "TSC",
             "Multi-Passage"
           ]
+        },
+        {
+          "name": "ROTARY UNIONS",
+          "brand": "MICRO ENGINEERS",
+          "heroDesc": "MICRO ROTARY UNIONS",
+          "description": "MICRO",
+          "specifications": [
+            "MICRO"
+          ],
+          "applications": [
+            "CNC THROUGH CHUCK OPERATION etc.,"
+          ],
+          "tags": [
+            "ROTARY UNIONS",
+            "DEUBLIN",
+            "MICRO"
+          ],
+          "keywords": [],
+          "image": "",
+          "sheetImage": "",
+          "metaTitle": "ROTARY UNION",
+          "metaDescription": "MICRO ROTARY UNION",
+          "slug": "rotary-unions-chennai",
+          "parentSlug": "rotary-unions-deublin-micro-chennai",
+          "parentName": "Rotary Unions"
         }
       ]
     },
