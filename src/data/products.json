@@ -784,7 +784,7 @@
             "FENNER"
           ],
           "keywords": [],
-          "image": "/images/products/jaw-couplings-chennai-image-1782045068673.jpg",
+          "image": "/images/products/jaw-couplings-chennai-image-1782045149862.jpg",
           "sheetImage": "",
           "metaTitle": "JAW  COUPLINGS",
           "metaDescription": "ALL  BRANDS  OF  JAW  COUPLINGS  ARE  IN  READY STOCK ",
@@ -809,8 +809,8 @@
             "SPM"
           ],
           "keywords": [],
-          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782045068674.jpg",
-          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782045068675.jpg",
+          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782045149863.jpg",
+          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782045149864.jpg",
           "metaTitle": "ELEXIBLE  COUPLINGS",
           "metaDescription": "ALL  TYPES  OF  ALUMINIUM SLIT TYPE  COUPLINGS  CAN BE  SUPPLIED  IN 1 TO 2 HOURS  IF  NOT  EX-STOCK",
           "slug": "aluminium-slit-couplings-chennai",
@@ -826,7 +826,7 @@
           "applications": [],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/customised-couplings-chennai-image-1782045068676.jpg",
+          "image": "/images/products/customised-couplings-chennai-image-1782045149865.jpg",
           "sheetImage": "",
           "metaTitle": "CUSTOMISED  COUPLINGS, SPECIAL  COUPLINGS ",
           "metaDescription": "THESE  ARE  DEVEOPED AS  A  SUBSTITUTE  FOR  IMORTED  COUPLINGS.",
@@ -855,22 +855,12 @@
       ],
       "subProducts": [
         {
-          "slug": "submersible-coolant-pumps-rajamane-chennai",
           "name": "Submersible Coolant Pumps",
-          "brand": "RAJAMANE",
-          "parentSlug": "coolant-pumps-rajamane-chennai",
-          "parentName": "Coolant Pumps",
-          "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
-          "keywords": [
-            "RAJAMANE submersible coolant pump Chennai",
-            "machine tool coolant pump Tamil Nadu",
-            "CNC coolant pump dealer Chennai"
-          ],
+          "brand": "RAJAMANE, CENTURY ",
           "heroDesc": "RAJAMANE submersible coolant pumps — the standard choice for Indian machine tools. All power ratings in stock.",
           "description": "RAJAMANE submersible coolant pumps are installed directly in the machine tool's coolant tank. They deliver reliable, continuous coolant flow to the cutting zone — extending tool life and improving surface finish on all machining operations.",
           "specifications": [
-            "Power ratings: 0.04 kW to 0.75 kW",
+            "Power ratings: 0.04 kW to  7.5 KW",
             "Flow rate: 12 LPM to 100 LPM",
             "Head: 3m to 14m",
             "Shaft length: Standard and long shaft",
@@ -884,15 +874,25 @@
             "Cylindrical grinding machines",
             "Deep-hole drilling machines"
           ],
-          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1781344375533.png",
-          "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
           "tags": [
             "RAJAMANE",
             "Submersible",
             "All Ratings",
             "Standard/Long Shaft",
             "Stock"
-          ]
+          ],
+          "keywords": [
+            "RAJAMANE submersible coolant pump Chennai",
+            "machine tool coolant pump Tamil Nadu",
+            "CNC coolant pump dealer Chennai"
+          ],
+          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782045149866.jpg",
+          "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
+          "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
+          "slug": "submersible-coolant-pumps-rajamane-chennai",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps"
         },
         {
           "slug": "high-pressure-coolant-pump-chennai",
