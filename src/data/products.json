@@ -137,7 +137,7 @@
             "cenlub dealer Chennai"
           ],
           "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1782062073020.jpg",
-          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782085566423.jpg",
+          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782085745134.jpg",
           "images": [],
           "metaTitle": "Hand Operated  Oil & Grease Lubrication Pumps Supplier Chenn",
           "metaDescription": "Buy Hand Operated  Oil & Grease Lubrication Pumps in Chennai. CENLUB lubrication systems for industrial applications in Tamil Nadu. Call +91 73583 76280.",
@@ -930,7 +930,7 @@
             "through spindle coolant pump Tamil Nadu",
             "deep hole drilling coolant pump Chennai"
           ],
-          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782085566424.webp",
+          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782085745135.webp",
           "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
           "images": [],
           "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
@@ -954,7 +954,7 @@
             "INDUSTRIAL COOLANT PUMPS"
           ],
           "keywords": [],
-          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782085566425.webp",
+          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782085745136.webp",
           "sheetImage": "",
           "images": [],
           "metaTitle": "RO & HORIZONTAL MOUNTING PUMPS",
@@ -1075,7 +1075,7 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/chain-couplings-chennai-image-1782085566426.png",
+          "image": "/images/products/chain-couplings-chennai-image-1782085745137.png",
           "sheetImage": "",
           "images": [],
           "metaTitle": "CHAIN COUPLINGS",
@@ -1255,7 +1255,7 @@
             "air powered grease gun Chennai",
             "lever grease gun supplier"
           ],
-          "image": "/images/products/groz-grease-guns-chennai-image-1782085566427.jpg",
+          "image": "/images/products/groz-grease-guns-chennai-image-1782085745138.jpg",
           "sheetImage": "/images/products/groz-grease-gun-sheet.jpg",
           "images": [],
           "metaTitle": "GROZ Grease Gun Supplier Chennai | Professional Grease Gun Tamil Nadu | Apna Shree",
@@ -1265,19 +1265,8 @@
           "parentName": "GROZ Tools & Fluid Pumps"
         },
         {
-          "slug": "groz-barrel-drum-pumps-chennai",
           "name": "GROZ Barrel & Drum Pumps",
           "brand": "GROZ",
-          "parentSlug": "groz-tools-fluid-pumps-chennai",
-          "parentName": "GROZ Tools",
-          "metaTitle": "GROZ Barrel Pump Supplier Chennai | Drum Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy GROZ barrel and drum pumps in Chennai for oil and fluid transfer. Manual and pneumatic types. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "GROZ barrel pump Chennai",
-            "drum pump supplier Tamil Nadu",
-            "oil transfer pump Chennai",
-            "fluid drum pump dealer"
-          ],
           "heroDesc": "GROZ barrel and drum pumps for oil, lubricant, and fluid transfer in industrial facilities.",
           "description": "GROZ drum pumps transfer oils, lubricants, and industrial fluids from drums and IBCs. Available in manual, electric, and pneumatic versions for all fluid types.",
           "specifications": [
@@ -1295,15 +1284,27 @@
             "Chemical transfer (SS type)",
             "Industrial warehouse"
           ],
-          "image": "/images/products/groz-drum-pump-main.jpg",
-          "sheetImage": "/images/products/groz-drum-pump-sheet.jpg",
           "tags": [
             "Barrel Pump",
             "Drum Pump",
             "Manual",
             "Pneumatic",
             "Oil Transfer"
-          ]
+          ],
+          "keywords": [
+            "GROZ barrel pump Chennai",
+            "drum pump supplier Tamil Nadu",
+            "oil transfer pump Chennai",
+            "fluid drum pump dealer"
+          ],
+          "image": "/images/products/groz-barrel-drum-pumps-chennai-image-1782085745139.jpg",
+          "sheetImage": "/images/products/groz-drum-pump-sheet.jpg",
+          "images": [],
+          "metaTitle": "GROZ Barrel Pump Supplier Chennai | Drum Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy GROZ barrel and drum pumps in Chennai for oil and fluid transfer. Manual and pneumatic types. Authorized dealer. Call +91 73583 76280.",
+          "slug": "groz-barrel-drum-pumps-chennai",
+          "parentSlug": "groz-tools-fluid-pumps-chennai",
+          "parentName": "GROZ Tools & Fluid Pumps"
         }
       ]
     },
