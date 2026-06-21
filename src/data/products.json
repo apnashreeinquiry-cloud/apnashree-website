@@ -18,19 +18,8 @@
       ],
       "subProducts": [
         {
-          "slug": "motorised-lubrication-systems-cenlub-chennai",
           "name": "Motorised Lubrication Systems",
           "brand": "CENLUB",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems",
-          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
-          "keywords": [
-            "motorised lubrication system Chennai",
-            "motor driven lubricator Tamil Nadu",
-            "CENLUB motorised pump Chennai",
-            "electric lubrication system supplier"
-          ],
           "heroDesc": "Electric motor-driven centralized lubrication systems for CNC machining centers, lathes, and grinding machines.",
           "description": "Motorised lubrication systems use an electric motor-driven pump to automatically deliver precise amounts of oil or grease to all machine lubrication points at set intervals. Eliminates manual greasing, reduces bearing wear, and extends machine life significantly.\n\nCENLUB motorised lubrication systems are the standard choice for CNC machining centers, VMC machines, lathes, and grinding machines across Tamil Nadu's manufacturing industry.",
           "specifications": [
@@ -48,15 +37,29 @@
             "Milling machines",
             "Injection molding machines"
           ],
-          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507.jpg",
           "tags": [
             "Motor Driven",
             "Automatic",
             "24V DC",
             "220V AC",
             "CNC"
-          ]
+          ],
+          "keywords": [
+            "motorised lubrication system Chennai",
+            "motor driven lubricator Tamil Nadu",
+            "CENLUB motorised pump Chennai",
+            "electric lubrication system supplier"
+          ],
+          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
+          "sheetImage": "",
+          "images": [
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507%20%281%29-5g5GsuAXfl38V1XW21m2fCtD5pBHti.jpg"
+          ],
+          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
+          "slug": "motorised-lubrication-systems-cenlub-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
         },
         {
           "slug": "pneumatic-lubrication-pump-cenlub-chennai",
