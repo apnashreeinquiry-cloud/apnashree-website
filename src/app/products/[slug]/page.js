@@ -59,7 +59,7 @@ export default function ProductPage() {
             <Link href="/products">Products</Link><span>/</span>
             <span style={{ color: 'var(--text)' }}>{product.name}</span>
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60, alignItems: 'center' }}>
+          <div className="sub-hero-grid">
             <div>
               <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 10 }}>
                 <span className="label" style={{ margin: 0 }}>{product.brand}</span>

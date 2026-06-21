@@ -19,11 +19,12 @@ export default function HeroBg() {
   const col3 = [...IMAGES.slice(5), ...IMAGES, ...IMAGES, ...IMAGES.slice(0,5)]
 
   return (
-    <div style={{
+    <div className="hb-root" style={{
       position: 'absolute', inset: 0, zIndex: 0,
       pointerEvents: 'none', overflow: 'hidden',
     }}>
       <style>{`
+        @media(max-width:768px){ .hb-root{ display:none !important; } }
         @keyframes scrollUp1 { 0%{transform:translateY(0)} 100%{transform:translateY(-33.333%)} }
         @keyframes scrollUp2 { 0%{transform:translateY(0)} 100%{transform:translateY(-33.333%)} }
         @keyframes scrollUp3 { 0%{transform:translateY(0)} 100%{transform:translateY(-33.333%)} }
