@@ -137,7 +137,7 @@
             "cenlub dealer Chennai"
           ],
           "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1782062073020.jpg",
-          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782085459289.jpg",
+          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782085566423.jpg",
           "images": [],
           "metaTitle": "Hand Operated  Oil & Grease Lubrication Pumps Supplier Chenn",
           "metaDescription": "Buy Hand Operated  Oil & Grease Lubrication Pumps in Chennai. CENLUB lubrication systems for industrial applications in Tamil Nadu. Call +91 73583 76280.",
@@ -930,7 +930,7 @@
             "through spindle coolant pump Tamil Nadu",
             "deep hole drilling coolant pump Chennai"
           ],
-          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782085459290.webp",
+          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782085566424.webp",
           "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
           "images": [],
           "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
@@ -954,7 +954,7 @@
             "INDUSTRIAL COOLANT PUMPS"
           ],
           "keywords": [],
-          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782085459291.webp",
+          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782085566425.webp",
           "sheetImage": "",
           "images": [],
           "metaTitle": "RO & HORIZONTAL MOUNTING PUMPS",
@@ -1075,7 +1075,7 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/chain-couplings-chennai-image-1782085459292.png",
+          "image": "/images/products/chain-couplings-chennai-image-1782085566426.png",
           "sheetImage": "",
           "images": [],
           "metaTitle": "CHAIN COUPLINGS",
@@ -1223,19 +1223,8 @@
       ],
       "subProducts": [
         {
-          "slug": "groz-grease-guns-chennai",
           "name": "GROZ Professional Grease Guns",
           "brand": "GROZ",
-          "parentSlug": "groz-tools-fluid-pumps-chennai",
-          "parentName": "GROZ Tools",
-          "metaTitle": "GROZ Grease Gun Supplier Chennai | Professional Grease Gun Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy GROZ professional grease guns in Chennai. Lever, pistol grip, air-powered grease guns for industrial maintenance. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "GROZ grease gun Chennai",
-            "professional grease gun Tamil Nadu",
-            "air powered grease gun Chennai",
-            "lever grease gun supplier"
-          ],
           "heroDesc": "GROZ professional grease guns — lever, pistol, and pneumatic types for industrial maintenance.",
           "description": "GROZ grease guns are built for professional industrial maintenance use. Available in lever-action, pistol-grip, and pneumatic variants to suit every maintenance requirement.",
           "specifications": [
@@ -1253,15 +1242,27 @@
             "Heavy equipment greasing",
             "Factory maintenance teams"
           ],
-          "image": "/images/products/groz-grease-gun-main.jpg",
-          "sheetImage": "/images/products/groz-grease-gun-sheet.jpg",
           "tags": [
             "Lever",
             "Pistol Grip",
             "Pneumatic",
             "600 Bar",
             "All Metal"
-          ]
+          ],
+          "keywords": [
+            "GROZ grease gun Chennai",
+            "professional grease gun Tamil Nadu",
+            "air powered grease gun Chennai",
+            "lever grease gun supplier"
+          ],
+          "image": "/images/products/groz-grease-guns-chennai-image-1782085566427.jpg",
+          "sheetImage": "/images/products/groz-grease-gun-sheet.jpg",
+          "images": [],
+          "metaTitle": "GROZ Grease Gun Supplier Chennai | Professional Grease Gun Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy GROZ professional grease guns in Chennai. Lever, pistol grip, air-powered grease guns for industrial maintenance. Authorized dealer. Call +91 73583 76280.",
+          "slug": "groz-grease-guns-chennai",
+          "parentSlug": "groz-tools-fluid-pumps-chennai",
+          "parentName": "GROZ Tools & Fluid Pumps"
         },
         {
           "slug": "groz-barrel-drum-pumps-chennai",
