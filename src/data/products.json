@@ -18,8 +18,19 @@
       ],
       "subProducts": [
         {
+          "slug": "motorised-lubrication-systems-cenlub-chennai",
           "name": "Motorised Lubrication Systems",
           "brand": "CENLUB",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems",
+          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
+          "keywords": [
+            "motorised lubrication system Chennai",
+            "motor driven lubricator Tamil Nadu",
+            "CENLUB motorised pump Chennai",
+            "electric lubrication system supplier"
+          ],
           "heroDesc": "Electric motor-driven centralized lubrication systems for CNC machining centers, lathes, and grinding machines.",
           "description": "Motorised lubrication systems use an electric motor-driven pump to automatically deliver precise amounts of oil or grease to all machine lubrication points at set intervals. Eliminates manual greasing, reduces bearing wear, and extends machine life significantly.\n\nCENLUB motorised lubrication systems are the standard choice for CNC machining centers, VMC machines, lathes, and grinding machines across Tamil Nadu's manufacturing industry.",
           "specifications": [
@@ -37,29 +48,15 @@
             "Milling machines",
             "Injection molding machines"
           ],
+          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507.jpg",
           "tags": [
             "Motor Driven",
             "Automatic",
             "24V DC",
             "220V AC",
             "CNC"
-          ],
-          "keywords": [
-            "motorised lubrication system Chennai",
-            "motor driven lubricator Tamil Nadu",
-            "CENLUB motorised pump Chennai",
-            "electric lubrication system supplier"
-          ],
-          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "",
-          "images": [
-            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507%20%281%29-6947jo2g5O0NZaJezwmnHI9fDqKn24.jpg"
-          ],
-          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
-          "slug": "motorised-lubrication-systems-cenlub-chennai",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems"
+          ]
         },
         {
           "slug": "pneumatic-lubrication-pump-cenlub-chennai",
@@ -787,7 +784,7 @@
             "FENNER"
           ],
           "keywords": [],
-          "image": "/images/products/jaw-couplings-chennai-image-1782056779607.jpg",
+          "image": "/images/products/jaw-couplings-chennai-image-1782058216652.jpg",
           "sheetImage": "",
           "metaTitle": "JAW  COUPLINGS",
           "metaDescription": "ALL  BRANDS  OF  JAW  COUPLINGS  ARE  IN  READY STOCK ",
@@ -812,8 +809,8 @@
             "SPM"
           ],
           "keywords": [],
-          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782056779608.jpg",
-          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782056779609.jpg",
+          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782058216653.jpg",
+          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782058216654.jpg",
           "metaTitle": "ELEXIBLE  COUPLINGS",
           "metaDescription": "ALL  TYPES  OF  ALUMINIUM SLIT TYPE  COUPLINGS  CAN BE  SUPPLIED  IN 1 TO 2 HOURS  IF  NOT  EX-STOCK",
           "slug": "aluminium-slit-couplings-chennai",
@@ -829,7 +826,7 @@
           "applications": [],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/customised-couplings-chennai-image-1782056779610.jpg",
+          "image": "/images/products/customised-couplings-chennai-image-1782058216655.jpg",
           "sheetImage": "",
           "metaTitle": "CUSTOMISED  COUPLINGS, SPECIAL  COUPLINGS ",
           "metaDescription": "THESE  ARE  DEVEOPED AS  A  SUBSTITUTE  FOR  IMORTED  COUPLINGS.",
@@ -889,7 +886,7 @@
             "machine tool coolant pump Tamil Nadu",
             "CNC coolant pump dealer Chennai"
           ],
-          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782056779611.jpg",
+          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782058216656.jpg",
           "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
           "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
@@ -1366,8 +1363,8 @@
             "YUKEN valve supplier Tamil Nadu",
             "YUKEN piston pump dealer Chennai"
           ],
-          "image": "/images/products/yuken-hydraulic-pumps-chennai-image-1782056779612.png",
-          "sheetImage": "/images/products/yuken-hydraulic-pumps-chennai-sheetimage-1782056779613.jpg",
+          "image": "/images/products/yuken-hydraulic-pumps-chennai-image-1782058216657.png",
+          "sheetImage": "/images/products/yuken-hydraulic-pumps-chennai-sheetimage-1782058216658.jpg",
           "metaTitle": "YUKEN Hydraulic Pump Supplier Chennai | YUKEN Valve Tamil Nadu | Apna Shree",
           "metaDescription": "Buy YUKEN hydraulic pumps and valves in Chennai. Piston pumps, vane pumps, directional valves. Buy & sell. Call +91 73583 76280.",
           "slug": "yuken-hydraulic-pumps-chennai",
@@ -1404,8 +1401,8 @@
             "Rexroth valve supplier Tamil Nadu",
             "Rexroth pump dealer Chennai"
           ],
-          "image": "/images/products/rexroth-hydraulic-components-chennai-image-1782056779614.jpg",
-          "sheetImage": "/images/products/rexroth-hydraulic-components-chennai-sheetimage-1782056779615.webp",
+          "image": "/images/products/rexroth-hydraulic-components-chennai-image-1782058216659.jpg",
+          "sheetImage": "/images/products/rexroth-hydraulic-components-chennai-sheetimage-1782058216660.webp",
           "metaTitle": "REXROTH Hydraulic Supplier Chennai | Rexroth Valve Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy REXROTH hydraulic components in Chennai — pumps, valves, motors, cylinders. Buy & sell new and used. Call +91 73583 76280.",
           "slug": "rexroth-hydraulic-components-chennai",
@@ -1606,6 +1603,27 @@
             "TSC",
             "Multi-Passage"
           ]
+        },
+        {
+          "name": "MICRO   ROTARY UNION",
+          "brand": "MICRO",
+          "heroDesc": "MICRO",
+          "description": "MICRO ROTARY UNIONS  ARE  AVAILABLE  IN  WIDE  RANGE .",
+          "specifications": [
+            "MICRO "
+          ],
+          "applications": [
+            "CNC, VTI, "
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/micro-rotary-union-chennai-image-1782058216661.jpg",
+          "sheetImage": "/images/products/micro-rotary-union-chennai-sheetimage-1782058216662.jpg",
+          "metaTitle": "ROTARY UNIOND, DEUBLIN,  ROTOFLUX",
+          "metaDescription": "ROTARY UNIONS",
+          "slug": "micro-rotary-union-chennai",
+          "parentSlug": "rotary-unions-deublin-micro-chennai",
+          "parentName": "Rotary Unions"
         }
       ]
     },
