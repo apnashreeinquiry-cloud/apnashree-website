@@ -18,8 +18,19 @@
       ],
       "subProducts": [
         {
+          "slug": "motorised-lubrication-systems-cenlub-chennai",
           "name": "Motorised Lubrication Systems",
           "brand": "CENLUB",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems",
+          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
+          "keywords": [
+            "motorised lubrication system Chennai",
+            "motor driven lubricator Tamil Nadu",
+            "CENLUB motorised pump Chennai",
+            "electric lubrication system supplier"
+          ],
           "heroDesc": "Electric motor-driven centralized lubrication systems for CNC machining centers, lathes, and grinding machines.",
           "description": "Motorised lubrication systems use an electric motor-driven pump to automatically deliver precise amounts of oil or grease to all machine lubrication points at set intervals. Eliminates manual greasing, reduces bearing wear, and extends machine life significantly.\n\nCENLUB motorised lubrication systems are the standard choice for CNC machining centers, VMC machines, lathes, and grinding machines across Tamil Nadu's manufacturing industry.",
           "specifications": [
@@ -37,29 +48,15 @@
             "Milling machines",
             "Injection molding machines"
           ],
+          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507.jpg",
           "tags": [
             "Motor Driven",
             "Automatic",
             "24V DC",
             "220V AC",
             "CNC"
-          ],
-          "keywords": [
-            "motorised lubrication system Chennai",
-            "motor driven lubricator Tamil Nadu",
-            "CENLUB motorised pump Chennai",
-            "electric lubrication system supplier"
-          ],
-          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "",
-          "images": [
-            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507%20%281%29-Ayh16v9bPq5RO21nRdm4iocGNNAUIE.jpg"
-          ],
-          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
-          "slug": "motorised-lubrication-systems-cenlub-chennai",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems"
+          ]
         },
         {
           "slug": "pneumatic-lubrication-pump-cenlub-chennai",
@@ -787,7 +784,7 @@
             "FENNER"
           ],
           "keywords": [],
-          "image": "/images/products/jaw-couplings-chennai-image-1782059975396.jpg",
+          "image": "/images/products/jaw-couplings-chennai-image-1782060248319.jpg",
           "sheetImage": "",
           "metaTitle": "JAW  COUPLINGS",
           "metaDescription": "ALL  BRANDS  OF  JAW  COUPLINGS  ARE  IN  READY STOCK ",
@@ -812,8 +809,8 @@
             "SPM"
           ],
           "keywords": [],
-          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782059975397.jpg",
-          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782059975398.jpg",
+          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782060248320.jpg",
+          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782060248321.jpg",
           "metaTitle": "ELEXIBLE  COUPLINGS",
           "metaDescription": "ALL  TYPES  OF  ALUMINIUM SLIT TYPE  COUPLINGS  CAN BE  SUPPLIED  IN 1 TO 2 HOURS  IF  NOT  EX-STOCK",
           "slug": "aluminium-slit-couplings-chennai",
@@ -829,7 +826,7 @@
           "applications": [],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/customised-couplings-chennai-image-1782059975399.jpg",
+          "image": "/images/products/customised-couplings-chennai-image-1782060248322.jpg",
           "sheetImage": "",
           "metaTitle": "CUSTOMISED  COUPLINGS, SPECIAL  COUPLINGS ",
           "metaDescription": "THESE  ARE  DEVEOPED AS  A  SUBSTITUTE  FOR  IMORTED  COUPLINGS.",
@@ -889,7 +886,7 @@
             "machine tool coolant pump Tamil Nadu",
             "CNC coolant pump dealer Chennai"
           ],
-          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782059975400.jpg",
+          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782060248323.jpg",
           "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
           "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
@@ -1366,8 +1363,8 @@
             "YUKEN valve supplier Tamil Nadu",
             "YUKEN piston pump dealer Chennai"
           ],
-          "image": "/images/products/yuken-hydraulic-pumps-chennai-image-1782059975401.png",
-          "sheetImage": "/images/products/yuken-hydraulic-pumps-chennai-sheetimage-1782059975402.jpg",
+          "image": "/images/products/yuken-hydraulic-pumps-chennai-image-1782060248324.png",
+          "sheetImage": "/images/products/yuken-hydraulic-pumps-chennai-sheetimage-1782060248325.jpg",
           "metaTitle": "YUKEN Hydraulic Pump Supplier Chennai | YUKEN Valve Tamil Nadu | Apna Shree",
           "metaDescription": "Buy YUKEN hydraulic pumps and valves in Chennai. Piston pumps, vane pumps, directional valves. Buy & sell. Call +91 73583 76280.",
           "slug": "yuken-hydraulic-pumps-chennai",
@@ -1404,8 +1401,8 @@
             "Rexroth valve supplier Tamil Nadu",
             "Rexroth pump dealer Chennai"
           ],
-          "image": "/images/products/rexroth-hydraulic-components-chennai-image-1782059975403.jpg",
-          "sheetImage": "/images/products/rexroth-hydraulic-components-chennai-sheetimage-1782059975404.webp",
+          "image": "/images/products/rexroth-hydraulic-components-chennai-image-1782060248326.jpg",
+          "sheetImage": "/images/products/rexroth-hydraulic-components-chennai-sheetimage-1782060248327.webp",
           "metaTitle": "REXROTH Hydraulic Supplier Chennai | Rexroth Valve Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy REXROTH hydraulic components in Chennai — pumps, valves, motors, cylinders. Buy & sell new and used. Call +91 73583 76280.",
           "slug": "rexroth-hydraulic-components-chennai",
@@ -1599,8 +1596,8 @@
             "through spindle coolant rotary union Tamil Nadu",
             "CNC spindle rotary union Chennai"
           ],
-          "image": "/images/products/deublin-rotary-unions-chennai-image-1782059975405.webp",
-          "sheetImage": "/images/products/deublin-rotary-unions-chennai-sheetimage-1782059975406.jpg",
+          "image": "/images/products/deublin-rotary-unions-chennai-image-1782060248328.webp",
+          "sheetImage": "/images/products/deublin-rotary-unions-chennai-sheetimage-1782060248329.jpg",
           "metaTitle": "DEUBLIN Rotary Union Supplier Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
           "metaDescription": "Buy DEUBLIN rotary unions in Chennai for CNC through-spindle coolant. Single and multi-passage types. Buy & sell. Call +91 73583 76280.",
           "slug": "deublin-rotary-unions-chennai",
@@ -1620,8 +1617,8 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/micro-rotary-union-chennai-image-1782059975407.jpg",
-          "sheetImage": "/images/products/micro-rotary-union-chennai-sheetimage-1782059975408.jpg",
+          "image": "/images/products/micro-rotary-union-chennai-image-1782060248330.jpg",
+          "sheetImage": "/images/products/micro-rotary-union-chennai-sheetimage-1782060248331.jpg",
           "metaTitle": "ROTARY UNIOND, DEUBLIN,  ROTOFLUX",
           "metaDescription": "ROTARY UNIONS",
           "slug": "micro-rotary-union-chennai",
@@ -1676,8 +1673,8 @@
             "HMT machine parts Tamil Nadu",
             "HMT lathe bearing supplier Chennai"
           ],
-          "image": "/images/products/hmt-lathe-spares-chennai-image-1782059975409.png",
-          "sheetImage": "/images/products/hmt-lathe-spares-chennai-sheetimage-1782059975410.webp",
+          "image": "/images/products/hmt-lathe-spares-chennai-image-1782060248332.png",
+          "sheetImage": "/images/products/hmt-lathe-spares-chennai-sheetimage-1782060248333.webp",
           "metaTitle": "HMT Lathe Spares Supplier Chennai | HMT Machine Parts Tamil Nadu | Apna Shree",
           "metaDescription": "Buy HMT lathe spares in Chennai. Spindle bearings, lead screw nuts, headstock gears for all HMT lathe models. Buy & sell. Call +91 73583 76280.",
           "slug": "hmt-lathe-spares-chennai",
@@ -1736,8 +1733,8 @@
             "CNC spindle bearing grease Chennai",
             "spindle grease supplier"
           ],
-          "image": "/images/products/kyodo-yushi-spindle-grease-chennai-image-1782059975411.avif",
-          "sheetImage": "/images/products/kyodo-yushi-spindle-grease-chennai-sheetimage-1782059975412.webp",
+          "image": "/images/products/kyodo-yushi-spindle-grease-chennai-image-1782060248334.avif",
+          "sheetImage": "/images/products/kyodo-yushi-spindle-grease-chennai-sheetimage-1782060248335.webp",
           "metaTitle": "KYODO YUSHI MULTEMP Spindle Grease Chennai | CNC Spindle Bearing Grease Tamil Nadu | Apna Shree",
           "metaDescription": "Buy KYODO YUSHI MULTEMP spindle grease in Chennai. OEM-specified grease for CNC spindle bearings. All pack sizes. Call +91 73583 76280.",
           "slug": "kyodo-yushi-spindle-grease-chennai",
@@ -1777,8 +1774,8 @@
             "food grade grease Chennai",
             "high temperature grease supplier"
           ],
-          "image": "/images/products/klueber-specialty-greases-chennai-image-1782059975413.webp",
-          "sheetImage": "/images/products/klueber-specialty-greases-chennai-sheetimage-1782059975414.webp",
+          "image": "/images/products/klueber-specialty-greases-chennai-image-1782060248336.webp",
+          "sheetImage": "/images/products/klueber-specialty-greases-chennai-sheetimage-1782060248337.webp",
           "metaTitle": "KLUEBER Specialty Grease Supplier Chennai | High Temperature Grease Tamil Nadu | Apna Shree",
           "metaDescription": "Buy KLUEBER specialty industrial greases in Chennai. ISOFLEX, food-grade, high-temperature greases. All applications. Call +91 73583 76280.",
           "slug": "klueber-specialty-greases-chennai",
@@ -1798,8 +1795,8 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/lubi-lhl-grease-cartridges-chennai-image-1782059975415.avif",
-          "sheetImage": "/images/products/lubi-lhl-grease-cartridges-chennai-sheetimage-1782059975416.webp",
+          "image": "/images/products/lubi-lhl-grease-cartridges-chennai-image-1782060248338.avif",
+          "sheetImage": "/images/products/lubi-lhl-grease-cartridges-chennai-sheetimage-1782060248339.webp",
           "metaTitle": "LUBI GREASE  CARTRIDGES",
           "metaDescription": "LUBI, GREASE  CARTRIDGE\n",
           "slug": "lubi-lhl-grease-cartridges-chennai",
@@ -1826,19 +1823,8 @@
       ],
       "subProducts": [
         {
-          "slug": "fenner-timing-pulleys-belts-chennai",
           "name": "FENNER Timing Pulleys & Belts",
           "brand": "FENNER",
-          "parentSlug": "timing-pulleys-sprockets-fenner-tsubaki-chennai",
-          "parentName": "Timing Pulleys & Sprockets",
-          "metaTitle": "FENNER Timing Pulley Supplier Chennai | Timing Belt Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy FENNER timing pulleys and belts in Chennai. T, AT, HTD, STS profiles. Standard and custom sizes. Call +91 73583 76280.",
-          "keywords": [
-            "FENNER timing pulley Chennai",
-            "timing belt pulley supplier Tamil Nadu",
-            "HTD timing pulley Chennai",
-            "FENNER belt dealer"
-          ],
           "heroDesc": "FENNER timing pulleys and matching belts — T, AT, HTD, STS profiles for precise synchronous drives.",
           "description": "FENNER timing pulleys and belts provide precise synchronous power transmission without slip. Available in all standard tooth profiles — T5, T10, AT10, HTD 5M, HTD 8M, STS 8M, and more.",
           "specifications": [
@@ -1856,15 +1842,26 @@
             "Printing machines",
             "General machinery"
           ],
-          "image": "/images/products/fenner-pulley-main.jpg",
-          "sheetImage": "/images/products/fenner-pulley-sheet.jpg",
           "tags": [
             "FENNER",
             "HTD",
             "T10",
             "AT10",
             "Custom Cut"
-          ]
+          ],
+          "keywords": [
+            "FENNER timing pulley Chennai",
+            "timing belt pulley supplier Tamil Nadu",
+            "HTD timing pulley Chennai",
+            "FENNER belt dealer"
+          ],
+          "image": "/images/products/fenner-timing-pulleys-belts-chennai-image-1782060248340.jpg",
+          "sheetImage": "/images/products/fenner-timing-pulleys-belts-chennai-sheetimage-1782060248341.jpg",
+          "metaTitle": "FENNER Timing Pulley Supplier Chennai | Timing Belt Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy FENNER timing pulleys and belts in Chennai. T, AT, HTD, STS profiles. Standard and custom sizes. Call +91 73583 76280.",
+          "slug": "fenner-timing-pulleys-belts-chennai",
+          "parentSlug": "timing-pulleys-sprockets-fenner-tsubaki-chennai",
+          "parentName": "Timing Pulleys & Sprockets"
         }
       ]
     },
