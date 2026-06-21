@@ -18,8 +18,19 @@
       ],
       "subProducts": [
         {
+          "slug": "motorised-lubrication-systems-cenlub-chennai",
           "name": "Motorised Lubrication Systems",
           "brand": "CENLUB",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems",
+          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
+          "keywords": [
+            "motorised lubrication system Chennai",
+            "motor driven lubricator Tamil Nadu",
+            "CENLUB motorised pump Chennai",
+            "electric lubrication system supplier"
+          ],
           "heroDesc": "Electric motor-driven centralized lubrication systems for CNC machining centers, lathes, and grinding machines.",
           "description": "Motorised lubrication systems use an electric motor-driven pump to automatically deliver precise amounts of oil or grease to all machine lubrication points at set intervals. Eliminates manual greasing, reduces bearing wear, and extends machine life significantly.\n\nCENLUB motorised lubrication systems are the standard choice for CNC machining centers, VMC machines, lathes, and grinding machines across Tamil Nadu's manufacturing industry.",
           "specifications": [
@@ -37,29 +48,15 @@
             "Milling machines",
             "Injection molding machines"
           ],
+          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507.jpg",
           "tags": [
             "Motor Driven",
             "Automatic",
             "24V DC",
             "220V AC",
             "CNC"
-          ],
-          "keywords": [
-            "motorised lubrication system Chennai",
-            "motor driven lubricator Tamil Nadu",
-            "CENLUB motorised pump Chennai",
-            "electric lubrication system supplier"
-          ],
-          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "",
-          "images": [
-            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507%20%281%29-5g5GsuAXfl38V1XW21m2fCtD5pBHti.jpg"
-          ],
-          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
-          "slug": "motorised-lubrication-systems-cenlub-chennai",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems"
+          ]
         },
         {
           "slug": "pneumatic-lubrication-pump-cenlub-chennai",
@@ -787,7 +784,7 @@
             "FENNER"
           ],
           "keywords": [],
-          "image": "/images/products/jaw-couplings-chennai-image-1782058545389.jpg",
+          "image": "/images/products/jaw-couplings-chennai-image-1782059178606.jpg",
           "sheetImage": "",
           "metaTitle": "JAW  COUPLINGS",
           "metaDescription": "ALL  BRANDS  OF  JAW  COUPLINGS  ARE  IN  READY STOCK ",
@@ -812,8 +809,8 @@
             "SPM"
           ],
           "keywords": [],
-          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782058545390.jpg",
-          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782058545391.jpg",
+          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782059178607.jpg",
+          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782059178608.jpg",
           "metaTitle": "ELEXIBLE  COUPLINGS",
           "metaDescription": "ALL  TYPES  OF  ALUMINIUM SLIT TYPE  COUPLINGS  CAN BE  SUPPLIED  IN 1 TO 2 HOURS  IF  NOT  EX-STOCK",
           "slug": "aluminium-slit-couplings-chennai",
@@ -829,7 +826,7 @@
           "applications": [],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/customised-couplings-chennai-image-1782058545392.jpg",
+          "image": "/images/products/customised-couplings-chennai-image-1782059178609.jpg",
           "sheetImage": "",
           "metaTitle": "CUSTOMISED  COUPLINGS, SPECIAL  COUPLINGS ",
           "metaDescription": "THESE  ARE  DEVEOPED AS  A  SUBSTITUTE  FOR  IMORTED  COUPLINGS.",
@@ -889,7 +886,7 @@
             "machine tool coolant pump Tamil Nadu",
             "CNC coolant pump dealer Chennai"
           ],
-          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782058545393.jpg",
+          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782059178610.jpg",
           "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
           "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
@@ -1366,8 +1363,8 @@
             "YUKEN valve supplier Tamil Nadu",
             "YUKEN piston pump dealer Chennai"
           ],
-          "image": "/images/products/yuken-hydraulic-pumps-chennai-image-1782058545394.png",
-          "sheetImage": "/images/products/yuken-hydraulic-pumps-chennai-sheetimage-1782058545395.jpg",
+          "image": "/images/products/yuken-hydraulic-pumps-chennai-image-1782059178611.png",
+          "sheetImage": "/images/products/yuken-hydraulic-pumps-chennai-sheetimage-1782059178612.jpg",
           "metaTitle": "YUKEN Hydraulic Pump Supplier Chennai | YUKEN Valve Tamil Nadu | Apna Shree",
           "metaDescription": "Buy YUKEN hydraulic pumps and valves in Chennai. Piston pumps, vane pumps, directional valves. Buy & sell. Call +91 73583 76280.",
           "slug": "yuken-hydraulic-pumps-chennai",
@@ -1404,8 +1401,8 @@
             "Rexroth valve supplier Tamil Nadu",
             "Rexroth pump dealer Chennai"
           ],
-          "image": "/images/products/rexroth-hydraulic-components-chennai-image-1782058545396.jpg",
-          "sheetImage": "/images/products/rexroth-hydraulic-components-chennai-sheetimage-1782058545397.webp",
+          "image": "/images/products/rexroth-hydraulic-components-chennai-image-1782059178613.jpg",
+          "sheetImage": "/images/products/rexroth-hydraulic-components-chennai-sheetimage-1782059178614.webp",
           "metaTitle": "REXROTH Hydraulic Supplier Chennai | Rexroth Valve Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy REXROTH hydraulic components in Chennai — pumps, valves, motors, cylinders. Buy & sell new and used. Call +91 73583 76280.",
           "slug": "rexroth-hydraulic-components-chennai",
@@ -1599,8 +1596,8 @@
             "through spindle coolant rotary union Tamil Nadu",
             "CNC spindle rotary union Chennai"
           ],
-          "image": "/images/products/deublin-rotary-unions-chennai-image-1782058545398.webp",
-          "sheetImage": "/images/products/deublin-rotary-unions-chennai-sheetimage-1782058545399.jpg",
+          "image": "/images/products/deublin-rotary-unions-chennai-image-1782059178615.webp",
+          "sheetImage": "/images/products/deublin-rotary-unions-chennai-sheetimage-1782059178616.jpg",
           "metaTitle": "DEUBLIN Rotary Union Supplier Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
           "metaDescription": "Buy DEUBLIN rotary unions in Chennai for CNC through-spindle coolant. Single and multi-passage types. Buy & sell. Call +91 73583 76280.",
           "slug": "deublin-rotary-unions-chennai",
@@ -1620,8 +1617,8 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/micro-rotary-union-chennai-image-1782058545400.jpg",
-          "sheetImage": "/images/products/micro-rotary-union-chennai-sheetimage-1782058545401.jpg",
+          "image": "/images/products/micro-rotary-union-chennai-image-1782059178617.jpg",
+          "sheetImage": "/images/products/micro-rotary-union-chennai-sheetimage-1782059178618.jpg",
           "metaTitle": "ROTARY UNIOND, DEUBLIN,  ROTOFLUX",
           "metaDescription": "ROTARY UNIONS",
           "slug": "micro-rotary-union-chennai",
@@ -1676,8 +1673,8 @@
             "HMT machine parts Tamil Nadu",
             "HMT lathe bearing supplier Chennai"
           ],
-          "image": "/images/products/hmt-lathe-spares-chennai-image-1782058545402.png",
-          "sheetImage": "/images/products/hmt-lathe-spares-chennai-sheetimage-1782058545403.webp",
+          "image": "/images/products/hmt-lathe-spares-chennai-image-1782059178619.png",
+          "sheetImage": "/images/products/hmt-lathe-spares-chennai-sheetimage-1782059178620.webp",
           "metaTitle": "HMT Lathe Spares Supplier Chennai | HMT Machine Parts Tamil Nadu | Apna Shree",
           "metaDescription": "Buy HMT lathe spares in Chennai. Spindle bearings, lead screw nuts, headstock gears for all HMT lathe models. Buy & sell. Call +91 73583 76280.",
           "slug": "hmt-lathe-spares-chennai",
@@ -1784,6 +1781,27 @@
             "High Temperature",
             "NSF H1"
           ]
+        },
+        {
+          "name": "LUBI LHL GREASE  CARTRIDGES",
+          "brand": "LUBI",
+          "heroDesc": "LHL  X-100 GRASE  CARTRIDGE",
+          "description": "AVAILABLE  EX-STOCK IN 700CC",
+          "specifications": [
+            "VISCOISTY INDEX NLGI 1 & 2 ,   AVAILABLE  IN 700CC"
+          ],
+          "applications": [
+            "CNC, VTL, SPM "
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "",
+          "sheetImage": "/images/products/lubi-lhl-grease-cartridges-chennai-sheetimage-1782059178621.webp",
+          "metaTitle": "LUBI GREASE  CARTRIDGES",
+          "metaDescription": "LUBI, GREASE  CARTRIDGE\n",
+          "slug": "lubi-lhl-grease-cartridges-chennai",
+          "parentSlug": "industrial-greases-lubi-klueber-kyodo-chennai",
+          "parentName": "Industrial Greases"
         }
       ]
     },
