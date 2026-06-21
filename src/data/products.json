@@ -137,7 +137,7 @@
             "cenlub dealer Chennai"
           ],
           "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1782062073020.jpg",
-          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782086207685.jpg",
+          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782086337375.jpg",
           "images": [],
           "metaTitle": "Hand Operated  Oil & Grease Lubrication Pumps Supplier Chenn",
           "metaDescription": "Buy Hand Operated  Oil & Grease Lubrication Pumps in Chennai. CENLUB lubrication systems for industrial applications in Tamil Nadu. Call +91 73583 76280.",
@@ -930,7 +930,7 @@
             "through spindle coolant pump Tamil Nadu",
             "deep hole drilling coolant pump Chennai"
           ],
-          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782086207686.webp",
+          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782086337376.webp",
           "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
           "images": [],
           "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
@@ -954,7 +954,7 @@
             "INDUSTRIAL COOLANT PUMPS"
           ],
           "keywords": [],
-          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782086207687.webp",
+          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782086337377.webp",
           "sheetImage": "",
           "images": [],
           "metaTitle": "RO & HORIZONTAL MOUNTING PUMPS",
@@ -1075,7 +1075,7 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/chain-couplings-chennai-image-1782086207688.png",
+          "image": "/images/products/chain-couplings-chennai-image-1782086337378.png",
           "sheetImage": "",
           "images": [],
           "metaTitle": "CHAIN COUPLINGS",
@@ -1104,18 +1104,8 @@
       ],
       "subProducts": [
         {
-          "slug": "belt-oil-skimmer-chennai",
           "name": "Belt Type Oil Skimmers",
           "brand": "RAJAMANE",
-          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
-          "parentName": "Oil Skimmers",
-          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
-          "keywords": [
-            "belt oil skimmer Chennai",
-            "tramp oil remover Tamil Nadu",
-            "coolant tank oil skimmer Chennai"
-          ],
           "heroDesc": "Belt-type oil skimmers continuously remove tramp oil from CNC machine coolant tanks — automatically.",
           "description": "Belt-type oil skimmers use a continuous belt that passes through the coolant surface, picking up floating tramp oil. The oil is scraped off the belt into a collection tray. Continuous, automatic, low-maintenance operation.",
           "specifications": [
@@ -1133,15 +1123,26 @@
             "Washing machine sumps",
             "Any coolant tank with tramp oil"
           ],
-          "image": "/images/products/belt-oil-skimmer-chennai-image-1781345011749.jpg",
-          "sheetImage": "/images/products/belt-skimmer-sheet.jpg",
           "tags": [
             "Belt Type",
             "Automatic",
             "Continuous",
             "All Sizes",
             "Low Maintenance"
-          ]
+          ],
+          "keywords": [
+            "belt oil skimmer Chennai",
+            "tramp oil remover Tamil Nadu",
+            "coolant tank oil skimmer Chennai"
+          ],
+          "image": "/images/products/belt-oil-skimmer-chennai-image-1781345011749.jpg",
+          "sheetImage": "/images/products/belt-oil-skimmer-chennai-sheetimage-1782086337379.jpg",
+          "images": [],
+          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
+          "slug": "belt-oil-skimmer-chennai",
+          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
+          "parentName": "Oil Skimmers"
         }
       ]
     },
@@ -1255,7 +1256,7 @@
             "air powered grease gun Chennai",
             "lever grease gun supplier"
           ],
-          "image": "/images/products/groz-grease-guns-chennai-image-1782086207689.jpg",
+          "image": "/images/products/groz-grease-guns-chennai-image-1782086337380.jpg",
           "sheetImage": "/images/products/groz-grease-gun-sheet.jpg",
           "images": [],
           "metaTitle": "GROZ Grease Gun Supplier Chennai | Professional Grease Gun Tamil Nadu | Apna Shree",
@@ -1297,7 +1298,7 @@
             "oil transfer pump Chennai",
             "fluid drum pump dealer"
           ],
-          "image": "/images/products/groz-barrel-drum-pumps-chennai-image-1782086207690.jpg",
+          "image": "/images/products/groz-barrel-drum-pumps-chennai-image-1782086337381.jpg",
           "sheetImage": "/images/products/groz-drum-pump-sheet.jpg",
           "images": [],
           "metaTitle": "GROZ Barrel Pump Supplier Chennai | Drum Pump Tamil Nadu | Apna Shree",
@@ -1319,7 +1320,7 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/groz-industrial-tools-chennai-image-1782086207691.jpg",
+          "image": "/images/products/groz-industrial-tools-chennai-image-1782086337382.jpg",
           "sheetImage": "",
           "images": [],
           "metaTitle": "GROZ TOOLS",
