@@ -784,11 +784,36 @@
             "FENNER"
           ],
           "keywords": [],
-          "image": "/images/products/jaw-couplings-chennai-image-1782044129343.jpg",
+          "image": "/images/products/jaw-couplings-chennai-image-1782044639963.jpg",
           "sheetImage": "",
           "metaTitle": "JAW  COUPLINGS",
           "metaDescription": "ALL  BRANDS  OF  JAW  COUPLINGS  ARE  IN  READY STOCK ",
           "slug": "jaw-couplings-chennai",
+          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
+          "parentName": "Encoder Couplings"
+        },
+        {
+          "name": "ALUMINIUM SLIT COUPLINGS ",
+          "brand": "DURI ",
+          "heroDesc": "BOTH  CLAMPING &  SET  SCREW  TYPES  ARE  AVAILABLE",
+          "description": "ALUMINIUM  SLIT TYPE  COUPLINGS  ARE  WIDELY USED  FOR  LOW  TORQUE  APPLICATIONS",
+          "specifications": [
+            "STARTING  FROM OD: 15mm, UPTO 60mm  OD  ARE  AVAILABLE "
+          ],
+          "applications": [
+            "CNC , SPM  FOR  BACKLASH FREE  APPLICATIONS "
+          ],
+          "tags": [
+            "ENCODER COUPLINGS",
+            "CNC",
+            "SPM"
+          ],
+          "keywords": [],
+          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782044639964.jpg",
+          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782044639965.jpg",
+          "metaTitle": "ELEXIBLE  COUPLINGS",
+          "metaDescription": "ALL  TYPES  OF  ALUMINIUM SLIT TYPE  COUPLINGS  CAN BE  SUPPLIED  IN 1 TO 2 HOURS  IF  NOT  EX-STOCK",
+          "slug": "aluminium-slit-couplings-chennai",
           "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
           "parentName": "Encoder Couplings"
         }
