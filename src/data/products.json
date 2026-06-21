@@ -784,7 +784,7 @@
             "FENNER"
           ],
           "keywords": [],
-          "image": "/images/products/jaw-couplings-chennai-image-1782048849659.jpg",
+          "image": "/images/products/jaw-couplings-chennai-image-1782056336271.jpg",
           "sheetImage": "",
           "metaTitle": "JAW  COUPLINGS",
           "metaDescription": "ALL  BRANDS  OF  JAW  COUPLINGS  ARE  IN  READY STOCK ",
@@ -809,8 +809,8 @@
             "SPM"
           ],
           "keywords": [],
-          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782048849660.jpg",
-          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782048849661.jpg",
+          "image": "/images/products/aluminium-slit-couplings-chennai-image-1782056336272.jpg",
+          "sheetImage": "/images/products/aluminium-slit-couplings-chennai-sheetimage-1782056336273.jpg",
           "metaTitle": "ELEXIBLE  COUPLINGS",
           "metaDescription": "ALL  TYPES  OF  ALUMINIUM SLIT TYPE  COUPLINGS  CAN BE  SUPPLIED  IN 1 TO 2 HOURS  IF  NOT  EX-STOCK",
           "slug": "aluminium-slit-couplings-chennai",
@@ -826,7 +826,7 @@
           "applications": [],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/customised-couplings-chennai-image-1782048849662.jpg",
+          "image": "/images/products/customised-couplings-chennai-image-1782056336274.jpg",
           "sheetImage": "",
           "metaTitle": "CUSTOMISED  COUPLINGS, SPECIAL  COUPLINGS ",
           "metaDescription": "THESE  ARE  DEVEOPED AS  A  SUBSTITUTE  FOR  IMORTED  COUPLINGS.",
@@ -886,7 +886,7 @@
             "machine tool coolant pump Tamil Nadu",
             "CNC coolant pump dealer Chennai"
           ],
-          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782048849663.jpg",
+          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1782056336275.jpg",
           "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
           "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
@@ -1333,18 +1333,8 @@
       ],
       "subProducts": [
         {
-          "slug": "yuken-hydraulic-pumps-chennai",
           "name": "YUKEN Hydraulic Pumps & Valves",
           "brand": "YUKEN",
-          "parentSlug": "hydraulic-products-yuken-vickers-rexroth-chennai",
-          "parentName": "Hydraulic Products",
-          "metaTitle": "YUKEN Hydraulic Pump Supplier Chennai | YUKEN Valve Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy YUKEN hydraulic pumps and valves in Chennai. Piston pumps, vane pumps, directional valves. Buy & sell. Call +91 73583 76280.",
-          "keywords": [
-            "YUKEN hydraulic pump Chennai",
-            "YUKEN valve supplier Tamil Nadu",
-            "YUKEN piston pump dealer Chennai"
-          ],
           "heroDesc": "YUKEN hydraulic pumps and valves — piston pumps, vane pumps, and directional control valves.",
           "description": "We supply and trade YUKEN hydraulic piston pumps, vane pumps, and directional control valves for CNC machine tools, press machines, and industrial hydraulic systems in Tamil Nadu.",
           "specifications": [
@@ -1362,14 +1352,24 @@
             "Industrial power packs",
             "Material handling hydraulics"
           ],
-          "image": "/images/products/yuken-pump-main.jpg",
-          "sheetImage": "/images/products/yuken-pump-sheet.jpg",
           "tags": [
             "YUKEN",
             "Piston Pump",
             "Vane Pump",
             "Directional Valve"
-          ]
+          ],
+          "keywords": [
+            "YUKEN hydraulic pump Chennai",
+            "YUKEN valve supplier Tamil Nadu",
+            "YUKEN piston pump dealer Chennai"
+          ],
+          "image": "/images/products/yuken-hydraulic-pumps-chennai-image-1782056336276.png",
+          "sheetImage": "/images/products/yuken-hydraulic-pumps-chennai-sheetimage-1782056336277.jpg",
+          "metaTitle": "YUKEN Hydraulic Pump Supplier Chennai | YUKEN Valve Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy YUKEN hydraulic pumps and valves in Chennai. Piston pumps, vane pumps, directional valves. Buy & sell. Call +91 73583 76280.",
+          "slug": "yuken-hydraulic-pumps-chennai",
+          "parentSlug": "hydraulic-products-yuken-vickers-rexroth-chennai",
+          "parentName": "Hydraulic Products"
         },
         {
           "slug": "rexroth-hydraulic-components-chennai",
