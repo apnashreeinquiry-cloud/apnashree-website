@@ -7,8 +7,6 @@ import Footer from '@/components/Footer'
 import LeadForm from '@/components/LeadForm'
 import { allProducts } from '@/data/products'
 
-const STORAGE_KEY = 'apnashree_subs'
-
 export default function ProductPage() {
   const params = useParams()
   const slug = params?.slug
@@ -21,17 +19,7 @@ export default function ProductPage() {
     const base = allProducts.find(x => x.slug === slug)
     if (!base) { setLoaded(true); return }
 
-    // Load sub-products from localStorage (has uploaded images)
-    let subProds = base.subProducts || []
-    try {
-      const saved = localStorage.getItem(STORAGE_KEY)
-      if (saved) {
-        const parsed = JSON.parse(saved)
-        if (parsed[slug] && parsed[slug].length > 0) {
-          subProds = parsed[slug]
-        }
-      }
-    } catch (e) {}
+    const subProds = base.subProducts || []
 
     setProduct(base)
     setSubs(subProds)
@@ -114,7 +102,7 @@ export default function ProductPage() {
         </div>
       </section>
 
-      {/* SUB-PRODUCTS — reads from localStorage so uploaded images show */}
+      {/* SUB-PRODUCTS — reads from products.json (live data) */}
       {subs.length > 0 && (
         <section style={{ padding: '60px 0', background: 'var(--bg3)', borderBottom: '1px solid var(--border)' }}>
           <div className="container">

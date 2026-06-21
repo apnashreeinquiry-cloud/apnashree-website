@@ -1,34 +1,14 @@
 'use client'
-import { useState, useMemo, useEffect } from 'react'
+import { useState, useMemo } from 'react'
 import Link from 'next/link'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import { mainProducts, otherProducts } from '@/data/products'
 
-const STORAGE_KEY = 'apnashree_subs'
-
-function loadSubs() {
-  try {
-    const saved = localStorage.getItem(STORAGE_KEY)
-    if (saved) return JSON.parse(saved)
-  } catch (e) {}
-  return null
-}
-
 export default function ProductsPage() {
   const [query, setQuery] = useState('')
-  const [subsOverride, setSubsOverride] = useState(null)
 
-  useEffect(() => {
-    const saved = loadSubs()
-    if (saved) setSubsOverride(saved)
-  }, [])
-
-  const allProds = useMemo(() => {
-    const base = [...mainProducts, ...otherProducts]
-    if (!subsOverride) return base
-    return base.map(p => ({ ...p, subProducts: subsOverride[p.slug] || p.subProducts || [] }))
-  }, [subsOverride])
+  const allProds = useMemo(() => [...mainProducts, ...otherProducts], [])
 
   const filtered = useMemo(() => {
     const q = query.toLowerCase().trim()
