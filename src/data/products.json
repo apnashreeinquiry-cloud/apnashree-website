@@ -137,7 +137,7 @@
             "cenlub dealer Chennai"
           ],
           "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1782062073020.jpg",
-          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782084755051.jpg",
+          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782085167910.jpg",
           "images": [],
           "metaTitle": "Hand Operated  Oil & Grease Lubrication Pumps Supplier Chenn",
           "metaDescription": "Buy Hand Operated  Oil & Grease Lubrication Pumps in Chennai. CENLUB lubrication systems for industrial applications in Tamil Nadu. Call +91 73583 76280.",
@@ -900,18 +900,8 @@
           "parentName": "Coolant Pumps"
         },
         {
-          "slug": "high-pressure-coolant-pump-chennai",
           "name": "High Pressure Coolant Pumps",
           "brand": "RAJAMANE / KNOLL",
-          "parentSlug": "coolant-pumps-rajamane-chennai",
-          "parentName": "Coolant Pumps",
-          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
-          "keywords": [
-            "high pressure coolant pump Chennai",
-            "through spindle coolant pump Tamil Nadu",
-            "deep hole drilling coolant pump Chennai"
-          ],
           "heroDesc": "High pressure coolant pumps for through-spindle coolant and deep-hole drilling applications.",
           "description": "High pressure coolant pumps deliver coolant at pressures from 20 bar to 100 bar for through-spindle coolant applications in CNC machining centers and deep-hole drilling machines. Dramatically improves tool life and surface quality in deep bore operations.",
           "specifications": [
@@ -928,15 +918,26 @@
             "CNC machining center TSC",
             "High-speed machining"
           ],
-          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1781344375535.png",
-          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
           "tags": [
             "High Pressure",
             "Through Spindle",
             "Deep Hole",
             "20-100 Bar",
             "TSC"
-          ]
+          ],
+          "keywords": [
+            "high pressure coolant pump Chennai",
+            "through spindle coolant pump Tamil Nadu",
+            "deep hole drilling coolant pump Chennai"
+          ],
+          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782085167911.webp",
+          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
+          "images": [],
+          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
+          "slug": "high-pressure-coolant-pump-chennai",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps"
         },
         {
           "name": " R.O  & HORIZONTAL COOLANT PUMPS",
@@ -953,7 +954,7 @@
             "INDUSTRIAL COOLANT PUMPS"
           ],
           "keywords": [],
-          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782084755052.webp",
+          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782085167912.webp",
           "sheetImage": "",
           "images": [],
           "metaTitle": "RO & HORIZONTAL MOUNTING PUMPS",
