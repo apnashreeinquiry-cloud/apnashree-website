@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import LeadForm from '@/components/LeadForm'
+import ProductGallery from '@/components/ProductGallery'
 import { allProducts } from '@/data/products'
 
 const STORAGE_KEY = 'apnashree_subs'
@@ -99,20 +100,8 @@ export default function SubProductPage() {
               <div className="hero-tags">{sub.tags?.map(t => <span key={t} className="hero-tag">{t}</span>)}</div>
             </div>
 
-            {/* MAIN IMAGE — works with base64 from admin OR file path */}
-            <div style={{ borderRadius: 12, overflow: 'hidden', border: '1px solid var(--border)' }}>
-              {sub.image ? (
-                <img src={sub.image} alt={`${sub.name} ${sub.brand} supplier dealer Chennai Tamil Nadu`}
-                  style={{ width: '100%', height: 420, objectFit: 'contain', display: 'block' }}
-                  onError={e => { e.target.style.display = 'none' }} />
-              ) : (
-                <div style={{ width: '100%', height: 360, background: 'var(--bg3)', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', color: 'var(--text3)', gap: 10, fontSize: 13, padding: 20, textAlign: 'center' }}>
-                  <span style={{ fontSize: 40 }}>📷</span>
-                  <span style={{ fontWeight: 600 }}>Add image in Admin Panel</span>
-                  <span style={{ opacity: 0.7, fontSize: 11 }}>Go to /admin → Edit this product → Upload image</span>
-                </div>
-              )}
-            </div>
+            {/* MAIN IMAGE GALLERY — multiple images (Blob URLs) with fallback to single image */}
+            <ProductGallery images={sub.images} image={sub.image} name={sub.name} brand={sub.brand} />
           </div>
         </div>
       </section>

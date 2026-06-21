@@ -1,5 +1,6 @@
 'use client'
 import { useState, useRef, useEffect } from 'react'
+import { upload } from '@vercel/blob/client'
 import Link from 'next/link'
 import { mainProducts, otherProducts } from '../../data/products'
 import EnquiriesPanel from './EnquiriesPanel'
@@ -7,7 +8,7 @@ import EnquiriesPanel from './EnquiriesPanel'
 const ADMIN_USERNAME = 'admin'
 
 const allProds = [...mainProducts, ...otherProducts]
-const EMPTY = { name:'', brand:'', heroDesc:'', description:'', specifications:[''], applications:[''], tags:[], keywords:[], image:'', sheetImage:'', metaTitle:'', metaDescription:'', slug:'' }
+const EMPTY = { name:'', brand:'', heroDesc:'', description:'', specifications:[''], applications:[''], tags:[], keywords:[], image:'', sheetImage:'', images:[], metaTitle:'', metaDescription:'', slug:'' }
 
 // The committed products.json is the single source of truth — the LIVE site
 // reads it. So we load straight from it (no browser localStorage anywhere).
@@ -166,6 +167,8 @@ export default function AdminPanel() {
   const [toast, setToast] = useState('')
   const imgRef = useRef()
   const sheetRef = useRef()
+  const galleryRef = useRef()
+  const [uploading, setUploading] = useState(false)
 
   useEffect(() => {
     const isAuthed = sessionStorage.getItem('apnashree_admin_auth') === 'true'
@@ -210,6 +213,38 @@ export default function AdminPanel() {
     const reader = new FileReader()
     reader.onload = ev => setForm(f => ({ ...f, [field]: ev.target.result }))
     reader.readAsDataURL(file)
+  }
+
+  // Gallery: upload multiple images straight to Vercel Blob (permanent URLs).
+  async function uploadGalleryImages(e) {
+    const files = Array.from(e.target.files || [])
+    e.target.value = ''
+    if (!files.length) return
+    const current = form.images || []
+    if (current.length + files.length > 6) { alert('Maximum 6 images per product.'); return }
+    setUploading(true)
+    const password = (typeof window !== 'undefined' && sessionStorage.getItem('apnashree_admin_pass')) || ''
+    try {
+      const urls = []
+      for (const file of files) {
+        if (file.size > 25*1024*1024) { throw new Error(file.name + ' is over 25MB') }
+        const blob = await upload(file.name, file, {
+          access: 'public',
+          handleUploadUrl: '/api/admin/blob-upload',
+          clientPayload: password,
+        })
+        urls.push(blob.url)
+      }
+      setForm(f => ({ ...f, images: [...(f.images || []), ...urls] }))
+    } catch (err) {
+      alert('Upload failed: ' + (err.message || err))
+    } finally {
+      setUploading(false)
+    }
+  }
+
+  function removeGalleryImage(idx) {
+    setForm(f => ({ ...f, images: (f.images || []).filter((_, i) => i !== idx) }))
   }
 
   function autoSlug() { return (form.name||'product').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')+'-chennai' }
@@ -482,6 +517,29 @@ export default function AdminPanel() {
                         {form[field] && <button type="button" style={{ marginTop:4, fontSize:12, color:'#888', background:'none', border:'none', cursor:'pointer' }} onClick={() => setForm(f => ({...f, [field]:''}))}>✕ Remove</button>}
                       </div>
                     ))}
+                  </div>
+
+                  <div style={{ height:1, background:'#e2ddd6' }}/>
+                  <div style={{ fontSize:11, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.1em', color:'#888' }}>🖼️ Gallery <span style={{ fontWeight:400, textTransform:'none', color:'#e85d26' }}>(up to 6 images · saved to Vercel Blob · shows as a gallery on the product page)</span></div>
+                  <div>
+                    <div style={{ display:'flex', flexWrap:'wrap', gap:10 }}>
+                      {(form.images||[]).map((url, i) => (
+                        <div key={i} style={{ position:'relative', width:96, height:96 }}>
+                          <img src={url} alt="" style={{ width:96, height:96, objectFit:'cover', borderRadius:8, border:'1px solid #e2ddd6', display:'block' }}/>
+                          <button type="button" title="Remove" onClick={() => removeGalleryImage(i)}
+                            style={{ position:'absolute', top:-8, right:-8, width:22, height:22, borderRadius:'50%', border:'none', background:'#e85d26', color:'#fff', fontSize:13, lineHeight:'22px', padding:0, cursor:'pointer' }}>✕</button>
+                          {i===0 && <span style={{ position:'absolute', bottom:4, left:4, fontSize:9, fontWeight:700, background:'rgba(0,0,0,0.6)', color:'#fff', padding:'1px 5px', borderRadius:4 }}>MAIN</span>}
+                        </div>
+                      ))}
+                      {(form.images||[]).length < 6 && (
+                        <div className="upload-area" onClick={() => !uploading && galleryRef.current?.click()}
+                          style={{ width:96, height:96, display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', cursor: uploading?'wait':'pointer' }}>
+                          <input ref={galleryRef} type="file" accept="image/*" multiple style={{ display:'none' }} onChange={uploadGalleryImages}/>
+                          {uploading ? <div style={{ fontSize:12, color:'#888' }}>Uploading…</div> : <><div style={{ fontSize:24 }}>＋</div><div style={{ fontSize:11, color:'#888' }}>Add</div></>}
+                        </div>
+                      )}
+                    </div>
+                    <div style={{ fontSize:11, color:'#888', marginTop:6 }}>{(form.images||[]).length}/6 · The first image is the main one shown on the product page.</div>
                   </div>
 
                   <div style={{ height:1, background:'#e2ddd6' }}/>
