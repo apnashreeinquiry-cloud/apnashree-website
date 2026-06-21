@@ -520,26 +520,32 @@ export default function AdminPanel() {
                   </div>
 
                   <div style={{ height:1, background:'#e2ddd6' }}/>
-                  <div style={{ fontSize:11, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.1em', color:'#888' }}>🖼️ Gallery <span style={{ fontWeight:400, textTransform:'none', color:'#e85d26' }}>(up to 6 images · saved to Vercel Blob · shows as a gallery on the product page)</span></div>
+                  <div style={{ fontSize:11, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.1em', color:'#888' }}>🖼️ Product Gallery <span style={{ fontWeight:400, textTransform:'none', color:'#e85d26' }}>(front image + up to 6 more · shown together on the product page)</span></div>
                   <div>
-                    <div style={{ display:'flex', flexWrap:'wrap', gap:10 }}>
+                    <div style={{ display:'flex', flexWrap:'wrap', gap:12, alignItems:'flex-start' }}>
+                      {form.image && (
+                        <div style={{ position:'relative', width:112, height:112 }}>
+                          <img src={form.image} alt="" style={{ width:112, height:112, objectFit:'cover', borderRadius:10, border:'2.5px solid #e85d26', display:'block' }}/>
+                          <span style={{ position:'absolute', bottom:5, left:5, fontSize:9, fontWeight:700, background:'#e85d26', color:'#fff', padding:'2px 7px', borderRadius:5, letterSpacing:'0.05em' }}>FRONT</span>
+                        </div>
+                      )}
                       {(form.images||[]).map((url, i) => (
-                        <div key={i} style={{ position:'relative', width:96, height:96 }}>
-                          <img src={url} alt="" style={{ width:96, height:96, objectFit:'cover', borderRadius:8, border:'1px solid #e2ddd6', display:'block' }}/>
+                        <div key={i} style={{ position:'relative', width:112, height:112 }}>
+                          <img src={url} alt="" style={{ width:112, height:112, objectFit:'cover', borderRadius:10, border:'1px solid #e2ddd6', display:'block' }}/>
                           <button type="button" title="Remove" onClick={() => removeGalleryImage(i)}
-                            style={{ position:'absolute', top:-8, right:-8, width:22, height:22, borderRadius:'50%', border:'none', background:'#e85d26', color:'#fff', fontSize:13, lineHeight:'22px', padding:0, cursor:'pointer' }}>✕</button>
-                          {i===0 && <span style={{ position:'absolute', bottom:4, left:4, fontSize:9, fontWeight:700, background:'rgba(0,0,0,0.6)', color:'#fff', padding:'1px 5px', borderRadius:4 }}>MAIN</span>}
+                            style={{ position:'absolute', top:-8, right:-8, width:24, height:24, borderRadius:'50%', border:'2px solid #fff', background:'#e85d26', color:'#fff', fontSize:13, lineHeight:'20px', padding:0, cursor:'pointer', boxShadow:'0 1px 4px rgba(0,0,0,0.3)' }}>✕</button>
+                          {!form.image && i===0 && <span style={{ position:'absolute', bottom:5, left:5, fontSize:9, fontWeight:700, background:'#e85d26', color:'#fff', padding:'2px 7px', borderRadius:5, letterSpacing:'0.05em' }}>FRONT</span>}
                         </div>
                       ))}
                       {(form.images||[]).length < 6 && (
                         <div className="upload-area" onClick={() => !uploading && galleryRef.current?.click()}
-                          style={{ width:96, height:96, display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', cursor: uploading?'wait':'pointer' }}>
+                          style={{ width:112, height:112, display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', cursor: uploading?'wait':'pointer', borderRadius:10 }}>
                           <input ref={galleryRef} type="file" accept="image/*" multiple style={{ display:'none' }} onChange={uploadGalleryImages}/>
-                          {uploading ? <div style={{ fontSize:12, color:'#888' }}>Uploading…</div> : <><div style={{ fontSize:24 }}>＋</div><div style={{ fontSize:11, color:'#888' }}>Add</div></>}
+                          {uploading ? <div style={{ fontSize:12, color:'#888' }}>Uploading…</div> : <><div style={{ fontSize:26, color:'#e85d26' }}>＋</div><div style={{ fontSize:11, color:'#888' }}>Add image</div></>}
                         </div>
                       )}
                     </div>
-                    <div style={{ fontSize:11, color:'#888', marginTop:6 }}>{(form.images||[]).length}/6 · The first image is the main one shown on the product page.</div>
+                    <div style={{ fontSize:12, color:'#666', marginTop:8, lineHeight:1.5 }}>The <b style={{ color:'#e85d26' }}>FRONT</b> image shows first and biggest on the product page; the rest appear as clickable thumbnails below it. Your “Main Image” above is the front image — to change it, upload a new Main Image. {(form.images||[]).length}/6 gallery images added.</div>
                   </div>
 
                   <div style={{ height:1, background:'#e2ddd6' }}/>
