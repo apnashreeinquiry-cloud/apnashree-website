@@ -18,8 +18,19 @@
       ],
       "subProducts": [
         {
+          "slug": "motorised-lubrication-systems-cenlub-chennai",
           "name": "Motorised Lubrication Systems",
           "brand": "CENLUB",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems",
+          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
+          "keywords": [
+            "motorised lubrication system Chennai",
+            "motor driven lubricator Tamil Nadu",
+            "CENLUB motorised pump Chennai",
+            "electric lubrication system supplier"
+          ],
           "heroDesc": "Electric motor-driven centralized lubrication systems for CNC machining centers, lathes, and grinding machines.",
           "description": "Motorised lubrication systems use an electric motor-driven pump to automatically deliver precise amounts of oil or grease to all machine lubrication points at set intervals. Eliminates manual greasing, reduces bearing wear, and extends machine life significantly.\n\nCENLUB motorised lubrication systems are the standard choice for CNC machining centers, VMC machines, lathes, and grinding machines across Tamil Nadu's manufacturing industry.",
           "specifications": [
@@ -37,30 +48,30 @@
             "Milling machines",
             "Injection molding machines"
           ],
+          "image": "/images/products/lubrication-motorised-main.jpg",
+          "sheetImage": "/images/products/lubrication-motorised-sheet.jpg",
           "tags": [
             "Motor Driven",
             "Automatic",
             "24V DC",
             "220V AC",
             "CNC"
-          ],
-          "keywords": [
-            "motorised lubrication system Chennai",
-            "motor driven lubricator Tamil Nadu",
-            "CENLUB motorised pump Chennai",
-            "electric lubrication system supplier"
-          ],
-          "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "",
-          "metaTitle": "Motorised Lubrication System Supplier Chennai | CENLUB Motor Lubricator Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB motorised lubrication systems in Chennai. Electric motor-driven centralized lubrication for CNC machines, lathes & grinding machines. Call +91 73583 76280.",
-          "slug": "motorised-lubrication-systems-cenlub-chennai",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems"
+          ]
         },
         {
+          "slug": "pneumatic-lubrication-pump-cenlub-chennai",
           "name": "Pneumatic Lubrication Pumps",
           "brand": "CENLUB",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems",
+          "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
+          "keywords": [
+            "pneumatic lubrication pump Chennai",
+            "air operated grease pump Tamil Nadu",
+            "CENLUB pneumatic pump Chennai",
+            "air lubrication pump supplier"
+          ],
           "heroDesc": "Air-operated pneumatic lubrication pumps for grease and oil dispensing in industrial machinery.",
           "description": "Pneumatic lubrication pumps use compressed air to deliver lubricant — ideal where electrical power is not available or where explosion-proof operation is required. CENLUB pneumatic pumps handle both oil and grease efficiently.\n\nAvailable in barrel-mount, pail-mount, and inline configurations for all industrial applications.",
           "specifications": [
@@ -78,30 +89,30 @@
             "Presses and heavy presses",
             "Offshore / hazardous area (ATEX)"
           ],
+          "image": "/images/products/lubrication-pneumatic-main.jpg",
+          "sheetImage": "/images/products/lubrication-pneumatic-sheet.jpg",
           "tags": [
             "Pneumatic",
             "Air Operated",
             "Barrel Mount",
             "Grease",
             "Oil"
-          ],
-          "keywords": [
-            "pneumatic lubrication pump Chennai",
-            "air operated grease pump Tamil Nadu",
-            "CENLUB pneumatic pump Chennai",
-            "air lubrication pump supplier"
-          ],
-          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1780844571508.jpg",
-          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780844571509.jpg",
-          "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
-          "slug": "pneumatic-lubrication-pump-cenlub-chennai",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems"
+          ]
         },
         {
+          "slug": "hand-operated-lubrication-pump-chennai",
           "name": "Hand Operated Lubrication Pumps",
           "brand": "CENLUB",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems",
+          "metaTitle": "Hand Operated Lubrication Pump Chennai | Manual Grease Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy hand operated lubrication pumps in Chennai. Manual lever and plunger pumps for small machines and maintenance. CENLUB dealer. Call +91 73583 76280.",
+          "keywords": [
+            "hand operated lubrication pump Chennai",
+            "manual grease pump Tamil Nadu",
+            "lever grease pump supplier Chennai",
+            "manual lubricator Chennai"
+          ],
           "heroDesc": "Manual hand-operated lubrication pumps for small machines, maintenance, and spot lubrication applications.",
           "description": "Hand-operated lubrication pumps are the simplest and most reliable way to lubricate machines that don't have automatic systems. CENLUB hand pumps are used for periodic maintenance greasing, small machine lubrication, and spot lubrication tasks.\n\nAvailable in lever-action, plunger, and foot-operated variants.",
           "specifications": [
@@ -119,30 +130,31 @@
             "Mould lubrication",
             "Chain and guide lubrication"
           ],
+          "image": "/images/products/lubrication-hand-main.jpg",
+          "sheetImage": "/images/products/lubrication-hand-sheet.jpg",
           "tags": [
             "Manual",
             "Hand Operated",
             "Lever Action",
             "Plunger",
             "Maintenance"
-          ],
-          "keywords": [
-            "hand operated lubrication pump Chennai",
-            "manual grease pump Tamil Nadu",
-            "lever grease pump supplier Chennai",
-            "manual lubricator Chennai"
-          ],
-          "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1781331503755.jpg",
-          "sheetImage": "/images/products/lubrication-hand-sheet.jpg",
-          "metaTitle": "Hand Operated Lubrication Pump Chennai | Manual Grease Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy hand operated lubrication pumps in Chennai. Manual lever and plunger pumps for small machines and maintenance. CENLUB dealer. Call +91 73583 76280.",
-          "slug": "hand-operated-lubrication-pump-chennai",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems"
+          ]
         },
         {
+          "slug": "lubrication-accessories-fittings-chennai",
           "name": "Lubrication Accessories & Fittings",
           "brand": "CENLUB",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems",
+          "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
+          "keywords": [
+            "lubrication accessories Chennai",
+            "metering cartridge supplier Tamil Nadu",
+            "lubrication fittings Chennai",
+            "oil skimmer Chennai",
+            "CENLUB accessories dealer"
+          ],
           "heroDesc": "Complete range of lubrication accessories — metering cartridges, manifolds, timers, oil skimmers, and fittings.",
           "description": "All the accessories needed to build, maintain, and upgrade centralized lubrication systems. We stock the complete CENLUB accessories range in Chennai for fast delivery across Tamil Nadu.",
           "specifications": [
@@ -160,27 +172,15 @@
             "Multi-point manifold distribution",
             "System maintenance and upgrade"
           ],
+          "image": "/images/products/lubrication-accessories-main.jpg",
+          "sheetImage": "/images/products/lubrication-accessories-sheet.jpg",
           "tags": [
             "Metering Cartridge",
             "Oil Skimmer",
             "Timer",
             "Manifold",
             "Fittings"
-          ],
-          "keywords": [
-            "lubrication accessories Chennai",
-            "metering cartridge supplier Tamil Nadu",
-            "lubrication fittings Chennai",
-            "oil skimmer Chennai",
-            "CENLUB accessories dealer"
-          ],
-          "image": "/images/products/lubrication-accessories-fittings-chennai-image-1781343348197.jpg",
-          "sheetImage": "/images/products/lubrication-accessories-fittings-chennai-sheetimage-1780844571511.png",
-          "metaTitle": "Lubrication Accessories Supplier Chennai | CENLUB Fittings Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy lubrication accessories in Chennai — metering cartridges, manifolds, fittings, oil skimmers, timers. CENLUB dealer Tamil Nadu. Call +91 73583 76280.",
-          "slug": "lubrication-accessories-fittings-chennai",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems"
+          ]
         }
       ]
     },
@@ -202,8 +202,19 @@
       ],
       "subProducts": [
         {
+          "slug": "intorq-spring-applied-brakes-chennai",
           "name": "INTORQ Spring-Applied Brakes",
           "brand": "INTORQ",
+          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
+          "parentName": "EM DC Brakes & Clutches",
+          "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
+          "keywords": [
+            "INTORQ spring applied brake Chennai",
+            "fail safe electromagnetic brake Tamil Nadu",
+            "DC brake dealer Chennai",
+            "spring brake supplier Chennai"
+          ],
           "heroDesc": "INTORQ spring-applied brakes — fail-safe braking that engages automatically when power is cut.",
           "description": "INTORQ spring-applied brakes are the industry standard for fail-safe braking in hoists, cranes, packaging machines, and servo motor applications. The brake engages automatically when power is removed — ensuring the load cannot move in a power failure.\n\nAvailable in flange-mounted and shaft-mounted configurations from 1 Nm to 500 Nm torque.",
           "specifications": [
@@ -221,30 +232,29 @@
             "Elevators and lifts",
             "Automation equipment"
           ],
+          "image": "/images/products/intorq-spring-brake-main.jpg",
+          "sheetImage": "/images/products/intorq-spring-brake-sheet.jpg",
           "tags": [
             "Spring Applied",
             "Fail-Safe",
             "24V DC",
             "Servo",
             "Hoist"
-          ],
-          "keywords": [
-            "INTORQ spring applied brake Chennai",
-            "fail safe electromagnetic brake Tamil Nadu",
-            "DC brake dealer Chennai",
-            "spring brake supplier Chennai"
-          ],
-          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343348198.jpg",
-          "sheetImage": "",
-          "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
-          "slug": "intorq-spring-applied-brakes-chennai",
-          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
-          "parentName": "Electromagnetic (DC) Brakes & Clutches"
+          ]
         },
         {
+          "slug": "intorq-electromagnetic-clutches-chennai",
           "name": "INTORQ Electromagnetic Clutches",
           "brand": "INTORQ",
+          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
+          "parentName": "EM DC Brakes & Clutches",
+          "metaTitle": "INTORQ Electromagnetic Clutch Chennai | DC Clutch Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy INTORQ DC electromagnetic clutches in Chennai for power transmission control. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
+          "keywords": [
+            "INTORQ electromagnetic clutch Chennai",
+            "DC clutch dealer Tamil Nadu",
+            "electromagnetic clutch supplier Chennai"
+          ],
           "heroDesc": "INTORQ DC electromagnetic clutches for precision power transmission control in industrial machinery.",
           "description": "INTORQ electromagnetic clutches transmit torque when energized and release instantaneously when de-energized. Used where precise, repeatable engagement and disengagement of rotating drives is required.",
           "specifications": [
@@ -261,25 +271,15 @@
             "Conveyor indexing drives",
             "Copy and printing machines"
           ],
+          "image": "/images/products/intorq-clutch-main.jpg",
+          "sheetImage": "/images/products/intorq-clutch-sheet.jpg",
           "tags": [
             "DC Clutch",
             "24V",
             "Fast Response",
             "Precision",
             "Indexing"
-          ],
-          "keywords": [
-            "INTORQ electromagnetic clutch Chennai",
-            "DC clutch dealer Tamil Nadu",
-            "electromagnetic clutch supplier Chennai"
-          ],
-          "image": "/images/products/intorq-electromagnetic-clutches-chennai-image-1781343348199.jpg",
-          "sheetImage": "/images/products/intorq-clutch-sheet.jpg",
-          "metaTitle": "INTORQ Electromagnetic Clutch Chennai | DC Clutch Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy INTORQ DC electromagnetic clutches in Chennai for power transmission control. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
-          "slug": "intorq-electromagnetic-clutches-chennai",
-          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
-          "parentName": "Electromagnetic (DC) Brakes & Clutches"
+          ]
         }
       ]
     },
@@ -301,8 +301,18 @@
       ],
       "subProducts": [
         {
+          "slug": "pethe-ac-electromagnetic-brakes-chennai",
           "name": "PETHE AC Electromagnetic Brakes",
           "brand": "PETHE",
+          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
+          "parentName": "EM AC Brakes & Clutches",
+          "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
+          "keywords": [
+            "PETHE AC electromagnetic brake Chennai",
+            "AC brake dealer Tamil Nadu",
+            "PETHE brake supplier Chennai"
+          ],
           "heroDesc": "PETHE AC electromagnetic brakes — direct mains operation with no rectifier needed.",
           "description": "PETHE AC electromagnetic brakes operate directly on AC mains supply — no DC rectifier required, making installation simple and cost-effective. Widely used in textile machinery, packaging equipment, and general industrial applications across Tamil Nadu.",
           "specifications": [
@@ -320,29 +330,29 @@
             "Material handling",
             "General industrial drives"
           ],
+          "image": "/images/products/pethe-ac-brake-main.jpg",
+          "sheetImage": "/images/products/pethe-ac-brake-sheet.jpg",
           "tags": [
             "AC Brake",
             "230V AC",
             "No Rectifier",
             "Textile",
             "Simple Install"
-          ],
-          "keywords": [
-            "PETHE AC electromagnetic brake Chennai",
-            "AC brake dealer Tamil Nadu",
-            "PETHE brake supplier Chennai"
-          ],
-          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1781343348200.jpg",
-          "sheetImage": "/images/products/pethe-ac-electromagnetic-brakes-chennai-sheetimage-1780844571515.jpg",
-          "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
-          "slug": "pethe-ac-electromagnetic-brakes-chennai",
-          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
-          "parentName": "Electromagnetic (AC) Brakes & Clutches"
+          ]
         },
         {
+          "slug": "pethe-clutch-plates-friction-liners-chennai",
           "name": "PETHE Clutch Plates & Friction Liners",
           "brand": "PETHE",
+          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
+          "parentName": "EM AC Brakes & Clutches",
+          "metaTitle": "PETHE Clutch Plate Supplier Chennai | Friction Liner Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy PETHE clutch plates and friction liners in Chennai for electromagnetic brakes and industrial clutches. All sizes. Call +91 73583 76280.",
+          "keywords": [
+            "PETHE clutch plate Chennai",
+            "friction liner supplier Tamil Nadu",
+            "electromagnetic brake clutch plate Chennai"
+          ],
           "heroDesc": "PETHE clutch plates and friction liners for electromagnetic brakes and industrial clutch applications.",
           "description": "We supply PETHE replacement clutch plates, friction liners, and brake pads for all PETHE electromagnetic brake and clutch models. Fast availability in Chennai for all standard sizes.",
           "specifications": [
@@ -358,25 +368,15 @@
             "Press machine brakes",
             "Textile machinery clutches"
           ],
+          "image": "/images/products/pethe-clutch-plate-main.jpg",
+          "sheetImage": "/images/products/pethe-clutch-plate-sheet.jpg",
           "tags": [
             "Clutch Plates",
             "Friction Liner",
             "Replacement",
             "All Sizes",
             "Custom"
-          ],
-          "keywords": [
-            "PETHE clutch plate Chennai",
-            "friction liner supplier Tamil Nadu",
-            "electromagnetic brake clutch plate Chennai"
-          ],
-          "image": "/images/products/pethe-clutch-plates-friction-liners-chennai-image-1780844571516.jpg",
-          "sheetImage": "/images/products/pethe-clutch-plates-friction-liners-chennai-sheetimage-1780844571517.jpg",
-          "metaTitle": "PETHE Clutch Plate Supplier Chennai | Friction Liner Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy PETHE clutch plates and friction liners in Chennai for electromagnetic brakes and industrial clutches. All sizes. Call +91 73583 76280.",
-          "slug": "pethe-clutch-plates-friction-liners-chennai",
-          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
-          "parentName": "Electromagnetic (AC) Brakes & Clutches"
+          ]
         }
       ]
     },
@@ -399,10 +399,21 @@
       ],
       "subProducts": [
         {
+          "slug": "helical-gearbox-bonfiglioli-chennai",
           "name": "Helical Gearboxes",
-          "brand": "Transtech",
-          "heroDesc": "TRANSTECH helical gearboxes — high efficiency inline and parallel shaft configurations for all industrial drives.",
-          "description": "TRANSTECH helical gearboxes deliver up to 98% transmission efficiency with low noise and long service life. Available in inline and parallel shaft configurations for conveyor drives, mixer drives, and general industrial applications.",
+          "brand": "BONFIGLIOLI",
+          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
+          "parentName": "Gear Boxes",
+          "metaTitle": "BONFIGLIOLI Helical Gearbox Chennai | Inline Gearbox Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy BONFIGLIOLI helical gearboxes in Chennai. Inline and parallel shaft helical gearboxes for conveyors, mixers, and machinery. Authorized dealer. Call +91 73583 76280.",
+          "keywords": [
+            "BONFIGLIOLI helical gearbox Chennai",
+            "inline gearbox supplier Tamil Nadu",
+            "helical gear reducer Chennai",
+            "parallel shaft gearbox dealer"
+          ],
+          "heroDesc": "BONFIGLIOLI helical gearboxes — high efficiency inline and parallel shaft configurations for all industrial drives.",
+          "description": "BONFIGLIOLI helical gearboxes deliver up to 98% transmission efficiency with low noise and long service life. Available in inline and parallel shaft configurations for conveyor drives, mixer drives, and general industrial applications.",
           "specifications": [
             "Power range: 0.12 kW to 200 kW",
             "Gear ratio: 1.3:1 to 289:1",
@@ -418,32 +429,32 @@
             "Cooling tower fans",
             "Food processing equipment"
           ],
+          "image": "/images/products/gearbox-helical-main.jpg",
+          "sheetImage": "/images/products/gearbox-helical-sheet.jpg",
           "tags": [
             "Helical",
             "High Efficiency",
             "Inline",
             "Parallel Shaft",
             "Low Noise"
-          ],
-          "keywords": [
-            "BONFIGLIOLI helical gearbox Chennai",
-            "inline gearbox supplier Tamil Nadu",
-            "helical gear reducer Chennai",
-            "parallel shaft gearbox dealer"
-          ],
-          "image": "/images/products/helical-gearbox-bonfiglioli-chennai-image-1781343348201.png",
-          "sheetImage": "/images/products/gearbox-helical-sheet.jpg",
-          "metaTitle": "BONFIGLIOLI Helical Gearbox Chennai | Inline Gearbox Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy BONFIGLIOLI helical gearboxes in Chennai. Inline and parallel shaft helical gearboxes for conveyors, mixers, and machinery. Authorized dealer. Call +91 73583 76280.",
-          "slug": "helical-gearbox-bonfiglioli-chennai",
-          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
-          "parentName": "Gear Boxes"
+          ]
         },
         {
+          "slug": "worm-gearbox-bonfiglioli-chennai",
           "name": "Worm Gear Reducers",
-          "brand": "TRANSTECH",
-          "heroDesc": "TRANSTECH worm gear reducers — compact right-angle drives for packaging, material handling, and general industrial use.",
-          "description": "Worm gearboxes provide right-angle power transmission in a very compact footprint. TRANSTECH worm reducers are widely used in packaging machines, conveyors, and gate drives across Tamil Nadu.",
+          "brand": "BONFIGLIOLI",
+          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
+          "parentName": "Gear Boxes",
+          "metaTitle": "BONFIGLIOLI Worm Gearbox Chennai | Worm Gear Reducer Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy BONFIGLIOLI worm gear reducers in Chennai. Right-angle compact worm gearboxes for packaging, conveyors & machinery. Authorized dealer. Call +91 73583 76280.",
+          "keywords": [
+            "BONFIGLIOLI worm gearbox Chennai",
+            "worm gear reducer Tamil Nadu",
+            "right angle gearbox Chennai",
+            "worm reducer supplier"
+          ],
+          "heroDesc": "BONFIGLIOLI worm gear reducers — compact right-angle drives for packaging, material handling, and general industrial use.",
+          "description": "Worm gearboxes provide right-angle power transmission in a very compact footprint. BONFIGLIOLI worm reducers are widely used in packaging machines, conveyors, and gate drives across Tamil Nadu.",
           "specifications": [
             "Power range: 0.06 kW to 15 kW",
             "Gear ratio: 5:1 to 100:1",
@@ -459,30 +470,30 @@
             "Textile machinery",
             "Agri machinery"
           ],
+          "image": "/images/products/gearbox-worm-main.jpg",
+          "sheetImage": "/images/products/gearbox-worm-sheet.jpg",
           "tags": [
             "Worm Gear",
             "Right Angle",
             "Self-Locking",
             "Compact",
             "Packaging"
-          ],
-          "keywords": [
-            "BONFIGLIOLI worm gearbox Chennai",
-            "worm gear reducer Tamil Nadu",
-            "right angle gearbox Chennai",
-            "worm reducer supplier"
-          ],
-          "image": "/images/products/worm-gearbox-bonfiglioli-chennai-image-1781343348202.png",
-          "sheetImage": "/images/products/gearbox-worm-sheet.jpg",
-          "metaTitle": "BONFIGLIOLI Worm Gearbox Chennai | Worm Gear Reducer Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy BONFIGLIOLI worm gear reducers in Chennai. Right-angle compact worm gearboxes for packaging, conveyors & machinery. Authorized dealer. Call +91 73583 76280.",
-          "slug": "worm-gearbox-bonfiglioli-chennai",
-          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
-          "parentName": "Gear Boxes"
+          ]
         },
         {
+          "slug": "planetary-gearbox-bonfiglioli-chennai",
           "name": "Planetary Gearboxes",
           "brand": "BONFIGLIOLI",
+          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
+          "parentName": "Gear Boxes",
+          "metaTitle": "BONFIGLIOLI Planetary Gearbox Chennai | Precision Planetary Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy BONFIGLIOLI planetary gearboxes in Chennai. High torque, compact planetary reducers for servo motors and heavy drives. Authorized dealer. Call +91 73583 76280.",
+          "keywords": [
+            "BONFIGLIOLI planetary gearbox Chennai",
+            "planetary gear reducer Tamil Nadu",
+            "servo gearbox Chennai",
+            "precision gearbox supplier"
+          ],
           "heroDesc": "BONFIGLIOLI planetary gearboxes — high torque density, precision reducers for servo motors and heavy-duty drives.",
           "description": "Planetary gearboxes offer the highest torque-to-size ratio of all gearbox types. BONFIGLIOLI planetary reducers are used with servo motors for precision positioning and with wheel drive systems for heavy-duty mobile applications.",
           "specifications": [
@@ -500,26 +511,15 @@
             "Wind energy drives",
             "Heavy lifting equipment"
           ],
+          "image": "/images/products/gearbox-planetary-main.jpg",
+          "sheetImage": "/images/products/gearbox-planetary-sheet.jpg",
           "tags": [
             "Planetary",
             "High Torque",
             "Precision",
             "Servo Compatible",
             "Heavy Duty"
-          ],
-          "keywords": [
-            "BONFIGLIOLI planetary gearbox Chennai",
-            "planetary gear reducer Tamil Nadu",
-            "servo gearbox Chennai",
-            "precision gearbox supplier"
-          ],
-          "image": "/images/products/planetary-gearbox-bonfiglioli-chennai-image-1781343489615.webp",
-          "sheetImage": "/images/products/gearbox-planetary-sheet.jpg",
-          "metaTitle": "BONFIGLIOLI Planetary Gearbox Chennai | Precision Planetary Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy BONFIGLIOLI planetary gearboxes in Chennai. High torque, compact planetary reducers for servo motors and heavy drives. Authorized dealer. Call +91 73583 76280.",
-          "slug": "planetary-gearbox-bonfiglioli-chennai",
-          "parentSlug": "gear-boxes-bonfiglioli-transtech-chennai",
-          "parentName": "Gear Boxes"
+          ]
         }
       ]
     },
@@ -542,8 +542,19 @@
       ],
       "subProducts": [
         {
+          "slug": "pmi-ground-ball-screws-chennai",
           "name": "PMI Ground Ball Screws",
           "brand": "PMI",
+          "parentSlug": "ball-screws-lm-systems-pmi-hiwin-chennai",
+          "parentName": "Ball Screws & LM Systems",
+          "metaTitle": "PMI Ground Ball Screw Supplier Chennai | C3 C5 Ball Screw Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy PMI ground ball screws in Chennai. C3, C5, C7 grade precision ball screws for CNC machining centers. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
+          "keywords": [
+            "PMI ground ball screw Chennai",
+            "C3 ball screw supplier Tamil Nadu",
+            "precision ball screw Chennai",
+            "CNC ball screw dealer"
+          ],
           "heroDesc": "PMI ground precision ball screws — C3 to C7 accuracy grades for CNC machining centers and precision equipment.",
           "description": "PMI ground ball screws are manufactured by precision grinding for high positioning accuracy. Available in C3, C5, and C7 accuracy grades for CNC machining centers, VMC machines, and precision equipment in Tamil Nadu.",
           "specifications": [
@@ -561,30 +572,30 @@
             "Precision measuring machines",
             "Machine tool reconditioning"
           ],
+          "image": "/images/products/pmi-ball-screw-main.jpg",
+          "sheetImage": "/images/products/pmi-ball-screw-sheet.jpg",
           "tags": [
             "PMI",
             "Ground",
             "C3/C5/C7",
             "High Precision",
             "CNC VMC"
-          ],
-          "keywords": [
-            "PMI ground ball screw Chennai",
-            "C3 ball screw supplier Tamil Nadu",
-            "precision ball screw Chennai",
-            "CNC ball screw dealer"
-          ],
-          "image": "/images/products/pmi-ground-ball-screws-chennai-image-1780844571518.jpg",
-          "sheetImage": "/images/products/pmi-ground-ball-screws-chennai-sheetimage-1780844571519.jpg",
-          "metaTitle": "PMI Ground Ball Screw Supplier Chennai | C3 C5 Ball Screw Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy PMI ground ball screws in Chennai. C3, C5, C7 grade precision ball screws for CNC machining centers. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
-          "slug": "pmi-ground-ball-screws-chennai",
-          "parentSlug": "ball-screws-lm-systems-pmi-hiwin-chennai",
-          "parentName": "Ball Screws & LM Systems"
+          ]
         },
         {
+          "slug": "hiwin-lm-guide-rails-chennai",
           "name": "HIWIN LM Guide Rails & Carriages",
           "brand": "HIWIN",
+          "parentSlug": "ball-screws-lm-systems-pmi-hiwin-chennai",
+          "parentName": "Ball Screws & LM Systems",
+          "metaTitle": "HIWIN LM Guide Rail Supplier Chennai | Linear Guide Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy HIWIN LM guide rails and carriages in Chennai. Standard, heavy duty, and high precision linear guides for CNC machines. Authorized dealer. Call +91 73583 76280.",
+          "keywords": [
+            "HIWIN LM guide Chennai",
+            "linear guide rail supplier Tamil Nadu",
+            "HIWIN carriage Chennai",
+            "linear motion guide dealer"
+          ],
           "heroDesc": "HIWIN LM guide rails and carriages — the world's most trusted linear motion system for CNC machine tools.",
           "description": "HIWIN linear motion (LM) guide systems consist of profiled rails and carriages that provide smooth, precise linear movement. Used on all axes of CNC machining centers, lathes, and precision equipment worldwide.",
           "specifications": [
@@ -602,30 +613,29 @@
             "Precision automation systems",
             "Machine reconditioning"
           ],
+          "image": "/images/products/hiwin-lm-guide-main.jpg",
+          "sheetImage": "/images/products/hiwin-lm-guide-sheet.jpg",
           "tags": [
             "HIWIN",
             "LM Guide",
             "HG Series",
             "High Precision",
             "CNC Axes"
-          ],
-          "keywords": [
-            "HIWIN LM guide Chennai",
-            "linear guide rail supplier Tamil Nadu",
-            "HIWIN carriage Chennai",
-            "linear motion guide dealer"
-          ],
-          "image": "/images/products/hiwin-lm-guide-rails-chennai-image-1780844571520.jpg",
-          "sheetImage": "/images/products/hiwin-lm-guide-rails-chennai-sheetimage-1780844571521.jpg",
-          "metaTitle": "HIWIN LM Guide Rail Supplier Chennai | Linear Guide Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy HIWIN LM guide rails and carriages in Chennai. Standard, heavy duty, and high precision linear guides for CNC machines. Authorized dealer. Call +91 73583 76280.",
-          "slug": "hiwin-lm-guide-rails-chennai",
-          "parentSlug": "ball-screws-lm-systems-pmi-hiwin-chennai",
-          "parentName": "Ball Screws & LM Systems"
+          ]
         },
         {
+          "slug": "hiwin-ball-screws-chennai",
           "name": "HIWIN Ball Screws",
           "brand": "HIWIN",
+          "parentSlug": "ball-screws-lm-systems-pmi-hiwin-chennai",
+          "parentName": "Ball Screws & LM Systems",
+          "metaTitle": "HIWIN Ball Screw Supplier Chennai | HIWIN Rolled Ball Screw Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy HIWIN ball screws in Chennai. Rolled and ground ball screws for CNC machine tools and automation. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
+          "keywords": [
+            "HIWIN ball screw Chennai",
+            "rolled ball screw supplier Tamil Nadu",
+            "HIWIN screw dealer Chennai"
+          ],
           "heroDesc": "HIWIN ball screws — rolled and ground types for CNC machine tools and industrial automation.",
           "description": "HIWIN ball screws offer excellent price-performance ratio with consistent quality. Both rolled (economical) and ground (precision) types available in Chennai for CNC machine tool applications and maintenance.",
           "specifications": [
@@ -643,53 +653,15 @@
             "Special machine building",
             "Precision positioning stages"
           ],
+          "image": "/images/products/hiwin-ball-screw-main.jpg",
+          "sheetImage": "/images/products/hiwin-ball-screw-sheet.jpg",
           "tags": [
             "HIWIN",
             "Rolled",
             "Ground",
             "C3-C7",
             "CNC Automation"
-          ],
-          "keywords": [
-            "HIWIN ball screw Chennai",
-            "rolled ball screw supplier Tamil Nadu",
-            "HIWIN screw dealer Chennai"
-          ],
-          "image": "/images/products/hiwin-ball-screws-chennai-image-1780844571522.jpg",
-          "sheetImage": "/images/products/hiwin-ball-screws-chennai-sheetimage-1780844571523.webp",
-          "metaTitle": "HIWIN Ball Screw Supplier Chennai | HIWIN Rolled Ball Screw Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy HIWIN ball screws in Chennai. Rolled and ground ball screws for CNC machine tools and automation. Authorized dealer Tamil Nadu. Call +91 73583 76280.",
-          "slug": "hiwin-ball-screws-chennai",
-          "parentSlug": "ball-screws-lm-systems-pmi-hiwin-chennai",
-          "parentName": "Ball Screws & LM Systems"
-        },
-        {
-          "name": "PMI LM SYSTEMS",
-          "brand": "PMI",
-          "heroDesc": "PMI OFFER  WIDE  RANGE  OF  LM SYSTEMS ",
-          "description": "PMI OFFERS GOOD  QUALITY LM SYSTEMS  IN NORMAL & PRECISION CLASS",
-          "specifications": [
-            "STANDATD LENGTH OF LM SYSTEM IS  4 METERS"
-          ],
-          "applications": [
-            "CNG  & SPM  APPLICATIONS"
-          ],
-          "tags": [
-            "PMI. HIWIN",
-            "REXROTH",
-            "HIWIN",
-            "SCHNEBERGER",
-            "THK",
-            "NSK"
-          ],
-          "keywords": [],
-          "image": "/images/products/pmi-lm-systems-chennai-image-1781343489616.png",
-          "sheetImage": "/images/products/pmi-lm-systems-chennai-sheetimage-1780844571525.webp",
-          "metaTitle": "PMI LM SYSTEMS",
-          "metaDescription": "GOOD QUALITY, WIDE RANGE",
-          "slug": "pmi-lm-systems-chennai",
-          "parentSlug": "ball-screws-lm-systems-pmi-hiwin-chennai",
-          "parentName": "Ball Screws & LM Systems"
+          ]
         }
       ]
     },
@@ -712,8 +684,19 @@
       ],
       "subProducts": [
         {
+          "slug": "beam-couplings-duri-chennai",
           "name": "Disk Couplings (DURI)",
           "brand": "DURI",
+          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
+          "parentName": "Encoder Couplings",
+          "metaTitle": "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
+          "keywords": [
+            "DURI disk coupling Chennai",
+            "zero backlash coupling Tamil Nadu",
+            "disk coupling supplier Chennai",
+            "encoder coupling dealer"
+          ],
           "heroDesc": "DURI disk couplings — zero backlash, flexible disk-pack couplings for encoder and servo connections.",
           "description": "DURI disk couplings transmit torque through flexible metal disc packs, giving zero backlash while absorbing shaft misalignment. Ideal for encoder and servo motor connections in CNC equipment.",
           "specifications": [
@@ -731,30 +714,30 @@
             "Stepper motor drives",
             "Precision measuring equipment"
           ],
+          "image": "/images/products/duri-beam-coupling-main.jpg",
+          "sheetImage": "/images/products/duri-beam-coupling-sheet.jpg",
           "tags": [
             "DURI",
             "Disk Coupling",
             "Zero Backlash",
             "Encoder",
             "CNC"
-          ],
-          "keywords": [
-            "DURI disk coupling Chennai",
-            "zero backlash coupling Tamil Nadu",
-            "disk coupling supplier Chennai",
-            "encoder coupling dealer"
-          ],
-          "image": "/images/products/beam-couplings-duri-chennai-image-1781344375530.jpg",
-          "sheetImage": "/images/products/beam-couplings-duri-chennai-sheetimage-1781344375531.jpg",
-          "metaTitle": "DURI Disk Coupling Chennai | Zero Backlash Disk Coupling Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy DURI disk couplings in Chennai. Zero-backlash flexible disk couplings for encoder and servo motor connections. Call +91 73583 76280.",
-          "slug": "beam-couplings-duri-chennai",
-          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
-          "parentName": "Encoder Couplings"
+          ]
         },
         {
+          "slug": "bellows-couplings-rw-chennai",
           "name": "Bellows Couplings (R+W)",
           "brand": "R+W",
+          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
+          "parentName": "Encoder Couplings",
+          "metaTitle": "R+W Bellows Coupling Chennai | Servo Coupling Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy R+W bellows couplings in Chennai. High torsional stiffness servo couplings for CNC machine tool drives. Call +91 73583 76280.",
+          "keywords": [
+            "R+W bellows coupling Chennai",
+            "servo coupling supplier Tamil Nadu",
+            "high stiffness coupling Chennai",
+            "CNC servo coupling dealer"
+          ],
           "heroDesc": "R+W bellows couplings — high torsional stiffness, zero backlash for CNC servo motor drives.",
           "description": "R+W bellows couplings are the premium choice for CNC machine tool servo drives. The stainless steel bellows element provides zero backlash with high torsional rigidity — critical for accurate CNC positioning.",
           "specifications": [
@@ -772,26 +755,15 @@
             "Grinding machine drives",
             "VMC/HMC servo axes"
           ],
+          "image": "/images/products/rw-bellows-coupling-main.jpg",
+          "sheetImage": "/images/products/rw-bellows-coupling-sheet.jpg",
           "tags": [
             "R+W",
             "Bellows",
             "High Stiffness",
             "CNC Servo",
             "Stainless Steel"
-          ],
-          "keywords": [
-            "R+W bellows coupling Chennai",
-            "servo coupling supplier Tamil Nadu",
-            "high stiffness coupling Chennai",
-            "CNC servo coupling dealer"
-          ],
-          "image": "/images/products/bellows-couplings-rw-chennai-image-1781344375532.webp",
-          "sheetImage": "/images/products/rw-bellows-coupling-sheet.jpg",
-          "metaTitle": "R+W Bellows Coupling Chennai | Servo Coupling Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy R+W bellows couplings in Chennai. High torsional stiffness servo couplings for CNC machine tool drives. Call +91 73583 76280.",
-          "slug": "bellows-couplings-rw-chennai",
-          "parentSlug": "encoder-couplings-duri-rw-kbk-chennai",
-          "parentName": "Encoder Couplings"
+          ]
         }
       ]
     },
@@ -814,8 +786,18 @@
       ],
       "subProducts": [
         {
+          "slug": "submersible-coolant-pumps-rajamane-chennai",
           "name": "Submersible Coolant Pumps",
           "brand": "RAJAMANE",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps",
+          "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
+          "keywords": [
+            "RAJAMANE submersible coolant pump Chennai",
+            "machine tool coolant pump Tamil Nadu",
+            "CNC coolant pump dealer Chennai"
+          ],
           "heroDesc": "RAJAMANE submersible coolant pumps — the standard choice for Indian machine tools. All power ratings in stock.",
           "description": "RAJAMANE submersible coolant pumps are installed directly in the machine tool's coolant tank. They deliver reliable, continuous coolant flow to the cutting zone — extending tool life and improving surface finish on all machining operations.",
           "specifications": [
@@ -833,29 +815,29 @@
             "Cylindrical grinding machines",
             "Deep-hole drilling machines"
           ],
+          "image": "/images/products/rajamane-submersible-main.jpg",
+          "sheetImage": "/images/products/rajamane-submersible-sheet.jpg",
           "tags": [
             "RAJAMANE",
             "Submersible",
             "All Ratings",
             "Standard/Long Shaft",
             "Stock"
-          ],
-          "keywords": [
-            "RAJAMANE submersible coolant pump Chennai",
-            "machine tool coolant pump Tamil Nadu",
-            "CNC coolant pump dealer Chennai"
-          ],
-          "image": "/images/products/submersible-coolant-pumps-rajamane-chennai-image-1781344375533.png",
-          "sheetImage": "/images/products/submersible-coolant-pumps-rajamane-chennai-sheetimage-1781344375534.webp",
-          "metaTitle": "RAJAMANE Submersible Coolant Pump Chennai | Machine Tool Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy RAJAMANE submersible coolant pumps in Chennai. All power ratings for CNC, grinding & lathe machines. Authorized dealer. Same-day delivery. Call +91 73583 76280.",
-          "slug": "submersible-coolant-pumps-rajamane-chennai",
-          "parentSlug": "coolant-pumps-rajamane-chennai",
-          "parentName": "Coolant Pumps"
+          ]
         },
         {
+          "slug": "high-pressure-coolant-pump-chennai",
           "name": "High Pressure Coolant Pumps",
           "brand": "RAJAMANE / KNOLL",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps",
+          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
+          "keywords": [
+            "high pressure coolant pump Chennai",
+            "through spindle coolant pump Tamil Nadu",
+            "deep hole drilling coolant pump Chennai"
+          ],
           "heroDesc": "High pressure coolant pumps for through-spindle coolant and deep-hole drilling applications.",
           "description": "High pressure coolant pumps deliver coolant at pressures from 20 bar to 100 bar for through-spindle coolant applications in CNC machining centers and deep-hole drilling machines. Dramatically improves tool life and surface quality in deep bore operations.",
           "specifications": [
@@ -872,25 +854,15 @@
             "CNC machining center TSC",
             "High-speed machining"
           ],
+          "image": "/images/products/high-pressure-coolant-main.jpg",
+          "sheetImage": "/images/products/high-pressure-coolant-sheet.jpg",
           "tags": [
             "High Pressure",
             "Through Spindle",
             "Deep Hole",
             "20-100 Bar",
             "TSC"
-          ],
-          "keywords": [
-            "high pressure coolant pump Chennai",
-            "through spindle coolant pump Tamil Nadu",
-            "deep hole drilling coolant pump Chennai"
-          ],
-          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1781344375535.png",
-          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
-          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
-          "slug": "high-pressure-coolant-pump-chennai",
-          "parentSlug": "coolant-pumps-rajamane-chennai",
-          "parentName": "Coolant Pumps"
+          ]
         }
       ]
     },
@@ -912,8 +884,19 @@
       ],
       "subProducts": [
         {
+          "slug": "nuteck-torque-limiters-chennai",
           "name": "NUTECK Torque Limiters",
           "brand": "NUTECK",
+          "parentSlug": "torque-limiters-nuteck-chennai",
+          "parentName": "Torque Limiters & Couplings",
+          "metaTitle": "NUTECK Torque Limiter Supplier Chennai | Overload Protection Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy NUTECK torque limiters in Chennai. Ball-detent & friction type torque limiters for packaging, conveyor & industrial machines. Call +91 73583 76280.",
+          "keywords": [
+            "NUTECK torque limiter Chennai",
+            "overload protection device Tamil Nadu",
+            "ball detent torque limiter Chennai",
+            "adjustable torque limiter supplier"
+          ],
           "heroDesc": "NUTECK torque limiters — ball-detent and friction type for overload protection of packaging and industrial machinery.",
           "description": "NUTECK torque limiters automatically disconnect the drive when torque exceeds the preset limit, protecting gearboxes, motors, and machinery from overload damage. The ball-detent type auto-resets when the overload clears.",
           "specifications": [
@@ -931,30 +914,29 @@
             "Printing and labeling machines",
             "Material handling systems"
           ],
+          "image": "/images/products/nuteck-torque-limiter-main.jpg",
+          "sheetImage": "/images/products/nuteck-torque-limiter-sheet.jpg",
           "tags": [
             "Ball Detent",
             "Friction",
             "Adjustable",
             "Auto-Reset",
             "Packaging"
-          ],
-          "keywords": [
-            "NUTECK torque limiter Chennai",
-            "overload protection device Tamil Nadu",
-            "ball detent torque limiter Chennai",
-            "adjustable torque limiter supplier"
-          ],
-          "image": "/images/products/nuteck-torque-limiters-chennai-image-1781345202331.jpg",
-          "sheetImage": "/images/products/nuteck-torque-limiters-chennai-sheetimage-1781345202332.jpg",
-          "metaTitle": "NUTECK Torque Limiter Supplier Chennai | Overload Protection Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy NUTECK torque limiters in Chennai. Ball-detent & friction type torque limiters for packaging, conveyor & industrial machines. Call +91 73583 76280.",
-          "slug": "nuteck-torque-limiters-chennai",
-          "parentSlug": "torque-limiters-nuteck-chennai",
-          "parentName": "Torque Limiters & Couplings"
+          ]
         },
         {
+          "slug": "nuteck-gear-chain-couplings-chennai",
           "name": "NUTECK Gear & Chain Couplings",
           "brand": "NUTECK",
+          "parentSlug": "torque-limiters-nuteck-chennai",
+          "parentName": "Torque Limiters & Couplings",
+          "metaTitle": "NUTECK Gear Coupling Chennai | Chain Coupling Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy NUTECK gear couplings and chain couplings in Chennai. For high-torque and general industrial power transmission. Authorized dealer. Call +91 73583 76280.",
+          "keywords": [
+            "NUTECK gear coupling Chennai",
+            "chain coupling supplier Tamil Nadu",
+            "industrial coupling dealer Chennai"
+          ],
           "heroDesc": "NUTECK gear couplings and chain couplings for high-torque and general power transmission applications.",
           "description": "NUTECK gear couplings handle high torque and speed with misalignment compensation. Chain couplings provide a simple, economical solution for general industrial power transmission applications.",
           "specifications": [
@@ -971,25 +953,15 @@
             "Agitator and mixer drives",
             "General industrial transmission"
           ],
+          "image": "/images/products/nuteck-coupling-main.jpg",
+          "sheetImage": "/images/products/nuteck-coupling-sheet.jpg",
           "tags": [
             "Gear Coupling",
             "Chain Coupling",
             "High Torque",
             "Misalignment",
             "Heavy Duty"
-          ],
-          "keywords": [
-            "NUTECK gear coupling Chennai",
-            "chain coupling supplier Tamil Nadu",
-            "industrial coupling dealer Chennai"
-          ],
-          "image": "/images/products/nuteck-gear-chain-couplings-chennai-image-1781345202333.jpg",
-          "sheetImage": "/images/products/nuteck-coupling-sheet.jpg",
-          "metaTitle": "NUTECK Gear Coupling Chennai | Chain Coupling Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy NUTECK gear couplings and chain couplings in Chennai. For high-torque and general industrial power transmission. Authorized dealer. Call +91 73583 76280.",
-          "slug": "nuteck-gear-chain-couplings-chennai",
-          "parentSlug": "torque-limiters-nuteck-chennai",
-          "parentName": "Torque Limiters & Couplings"
+          ]
         }
       ]
     },
@@ -1011,8 +983,18 @@
       ],
       "subProducts": [
         {
+          "slug": "belt-oil-skimmer-chennai",
           "name": "Belt Type Oil Skimmers",
           "brand": "RAJAMANE",
+          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
+          "parentName": "Oil Skimmers",
+          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
+          "keywords": [
+            "belt oil skimmer Chennai",
+            "tramp oil remover Tamil Nadu",
+            "coolant tank oil skimmer Chennai"
+          ],
           "heroDesc": "Belt-type oil skimmers continuously remove tramp oil from CNC machine coolant tanks — automatically.",
           "description": "Belt-type oil skimmers use a continuous belt that passes through the coolant surface, picking up floating tramp oil. The oil is scraped off the belt into a collection tray. Continuous, automatic, low-maintenance operation.",
           "specifications": [
@@ -1030,50 +1012,15 @@
             "Washing machine sumps",
             "Any coolant tank with tramp oil"
           ],
+          "image": "/images/products/belt-skimmer-main.jpg",
+          "sheetImage": "/images/products/belt-skimmer-sheet.jpg",
           "tags": [
             "Belt Type",
             "Automatic",
             "Continuous",
             "All Sizes",
             "Low Maintenance"
-          ],
-          "keywords": [
-            "belt oil skimmer Chennai",
-            "tramp oil remover Tamil Nadu",
-            "coolant tank oil skimmer Chennai"
-          ],
-          "image": "/images/products/belt-oil-skimmer-chennai-image-1781344903339.jpg",
-          "sheetImage": "/images/products/belt-skimmer-sheet.jpg",
-          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
-          "slug": "belt-oil-skimmer-chennai",
-          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
-          "parentName": "Oil Skimmers"
-        },
-        {
-          "name": "DISC TYPE OIL SKIMMERS",
-          "brand": "RAJAMANE",
-          "heroDesc": "DISC OIL SKIMMERS  REMOVE  FLOATING OIL",
-          "description": "SS DISC  OF  DIAMETER:300, 400 &  500  ARE  USED.\n\nSINGLE PHASE &  3 PHASE  AVAILANLE ",
-          "specifications": [
-            "DISC SKIMMER  OPERATE@  230VAC  SINGLE PHASE & 415VAC 3PHASE"
-          ],
-          "applications": [
-            "ALL TREATMENT PLANTS  LIKE PLATING,  INDUSTRIAL KITCHEN,  CNC MACHINES"
-          ],
-          "tags": [
-            "DISC SKIMMER",
-            "BELT SKIMMER",
-            "TUBE SKIMMER"
-          ],
-          "keywords": [],
-          "image": "/images/products/disc-type-oil-skimmers-chennai-image-1781452562519.gif",
-          "sheetImage": "",
-          "metaTitle": "DISC SKIMMER",
-          "metaDescription": "DISC SKIMMER ",
-          "slug": "disc-type-oil-skimmers-chennai",
-          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
-          "parentName": "Oil Skimmers"
+          ]
         }
       ]
     },
@@ -1095,8 +1042,19 @@
       ],
       "subProducts": [
         {
+          "slug": "adjustable-shock-absorbers-adonitech-chennai",
           "name": "Adjustable Shock Absorbers",
           "brand": "ADONITECH",
+          "parentSlug": "shock-absorbers-adonitech-chennai",
+          "parentName": "Shock Absorbers",
+          "metaTitle": "Adjustable Shock Absorber Supplier Chennai | Industrial Damper Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy ADONITECH adjustable shock absorbers in Chennai. M8 to M64 all sizes for automation and packaging machines. Call +91 73583 76280.",
+          "keywords": [
+            "adjustable shock absorber Chennai",
+            "industrial shock absorber Tamil Nadu",
+            "ADONITECH damper Chennai",
+            "automation shock absorber supplier"
+          ],
           "heroDesc": "ADONITECH adjustable shock absorbers — controlled deceleration for automation and packaging machinery.",
           "description": "Adjustable shock absorbers allow fine-tuning of the deceleration force to match the moving mass and speed. The adjustment screw changes the orifice size, controlling the cushioning force from soft to hard.",
           "specifications": [
@@ -1114,61 +1072,15 @@
             "Rotary indexing tables",
             "Conveyor end stops"
           ],
+          "image": "/images/products/shock-absorber-adj-main.jpg",
+          "sheetImage": "/images/products/shock-absorber-adj-sheet.jpg",
           "tags": [
             "Adjustable",
             "M8-M64",
             "High Energy",
             "6m/s",
-            "External Knob",
-            "ADONITECH",
-            "SMC",
-            "FESTO",
-            "ACE",
-            "ENIDYNE",
-            "MISUMI"
-          ],
-          "keywords": [
-            "adjustable shock absorber Chennai",
-            "industrial shock absorber Tamil Nadu",
-            "ADONITECH damper Chennai",
-            "automation shock absorber supplier"
-          ],
-          "image": "/images/products/adjustable-shock-absorbers-adonitech-chennai-image-1781452562520.jpg",
-          "sheetImage": "/images/products/adjustable-shock-absorbers-adonitech-chennai-sheetimage-1781452562521.jpg",
-          "metaTitle": "Adjustable Shock Absorber Supplier Chennai | Industrial Damper Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy ADONITECH adjustable shock absorbers in Chennai. M8 to M64 all sizes for automation and packaging machines. Call +91 73583 76280.",
-          "slug": "adjustable-shock-absorbers-adonitech-chennai",
-          "parentSlug": "shock-absorbers-adonitech-chennai",
-          "parentName": "Shock Absorbers"
-        },
-        {
-          "name": "FEED CONTROLLERS ",
-          "brand": "ADONITECH",
-          "heroDesc": "Adoni Tech, designs & manufactures  Hydraulic Feed Rate Controllers to provide unmatched control over the speed and precision of your machine’s movements. Whether it’s drilling, milling, or material handling, our controllers deliver consistent performance, ensuring safety and efficiency in every application",
-          "description": "A Hydraulic Feed Rate Controller is a device used in industrial machines to regulate the speed at which a machine part moves. It controls the motion smoothly and consistently, ensuring precision and safety during operations. The controller uses hydraulic fluid to absorb and manage forces, enabling the operator to fine-tune the feed rate as needed.",
-          "specifications": [
-            "VARIOUS MODELS  AVAILABLE ARE TSC-25,  TSC-50,  TGC-75,  TSC-100,  T6SC-125"
-          ],
-          "applications": [
-            "CNC MACHINES, AUTO TOOL CHANGERS, ROBOTICS etc.,"
-          ],
-          "tags": [
-            "HYDRAULIC FEED CONTROLLERS",
-            "HYDRAULIC  SHOCK ABSORBERS",
-            "ADONITECH",
-            "SMC",
-            "FESTO",
-            "ACE",
-            "ENIDYNE"
-          ],
-          "keywords": [],
-          "image": "/images/products/feed-controllers-chennai-image-1781460346634.png",
-          "sheetImage": "",
-          "metaTitle": "SHOCK ABSORBERS, FEED  CONTROLLERS",
-          "metaDescription": "SHOCK ABSORBERS",
-          "slug": "feed-controllers-chennai",
-          "parentSlug": "shock-absorbers-adonitech-chennai",
-          "parentName": "Shock Absorbers"
+            "External Knob"
+          ]
         }
       ]
     },
@@ -1447,8 +1359,18 @@
       ],
       "subProducts": [
         {
-          "name": "FESTO Pneumatic Cylinders & Valves",
+          "slug": "festo-pneumatic-cylinders-chennai",
+          "name": "FESTO Pneumatic Cylinders",
           "brand": "FESTO",
+          "parentSlug": "pneumatics-festo-janatics-chennai",
+          "parentName": "Pneumatics",
+          "metaTitle": "FESTO Pneumatic Cylinder Supplier Chennai | FESTO Cylinder Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy FESTO pneumatic cylinders in Chennai. Round, tie-rod, compact, and guided cylinders. Buy & sell. Call +91 73583 76280.",
+          "keywords": [
+            "FESTO pneumatic cylinder Chennai",
+            "FESTO cylinder supplier Tamil Nadu",
+            "pneumatic cylinder dealer Chennai"
+          ],
           "heroDesc": "FESTO pneumatic cylinders — round bore, tie-rod, compact, and guided types for all automation needs.",
           "description": "FESTO is the world leader in pneumatic cylinders. We supply and trade FESTO pneumatic cylinders in all configurations for industrial automation, machine tools, and assembly systems in Tamil Nadu.",
           "specifications": [
@@ -1466,25 +1388,55 @@
             "Pick-and-place robots",
             "Packaging machines"
           ],
+          "image": "/images/products/festo-cylinder-main.jpg",
+          "sheetImage": "/images/products/festo-cylinder-sheet.jpg",
           "tags": [
             "FESTO",
             "DSNU",
             "DNC",
             "All Bores",
             "All Strokes"
-          ],
-          "keywords": [
-            "FESTO pneumatic cylinder Chennai",
-            "FESTO cylinder supplier Tamil Nadu",
-            "pneumatic cylinder dealer Chennai"
-          ],
-          "image": "/images/products/festo-cylinder-main.jpg",
-          "sheetImage": "/images/products/festo-cylinder-sheet.jpg",
-          "metaTitle": "FESTO Pneumatic Cylinder Supplier Chennai | FESTO Cylinder Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy FESTO pneumatic cylinders in Chennai. Round, tie-rod, compact, and guided cylinders. Buy & sell. Call +91 73583 76280.",
-          "slug": "festo-pneumatic-cylinders-chennai",
+          ]
+        },
+        {
+          "slug": "festo-pneumatic-valves-frl-chennai",
+          "name": "FESTO Valves & FRL Units",
+          "brand": "FESTO",
           "parentSlug": "pneumatics-festo-janatics-chennai",
-          "parentName": "Pneumatics"
+          "parentName": "Pneumatics",
+          "metaTitle": "FESTO Valve Supplier Chennai | FESTO FRL Unit Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy FESTO solenoid valves and FRL units in Chennai. 5/2, 5/3, 3/2 valves, valve terminals, and air preparation units. Call +91 73583 76280.",
+          "keywords": [
+            "FESTO solenoid valve Chennai",
+            "FESTO FRL unit Tamil Nadu",
+            "pneumatic valve supplier Chennai",
+            "air preparation unit Chennai"
+          ],
+          "heroDesc": "FESTO solenoid valves, valve terminals, and FRL units for pneumatic system control.",
+          "description": "FESTO directional control valves, valve terminals (CPV, MPA), and FRL (filter-regulator-lubricator) units are the backbone of pneumatic control systems. We supply and trade all FESTO valve and air preparation products.",
+          "specifications": [
+            "Valve types: 5/2, 5/3, 3/2 monostable/bistable",
+            "Valve terminals: CPV, MPA, VTUG series",
+            "FRL size: G1/8 to G1",
+            "Flow: 100 to 3,000 LPM",
+            "Voltage: 24V DC / 230V AC"
+          ],
+          "applications": [
+            "Machine control panels",
+            "Valve manifold assemblies",
+            "CNC machine pneumatics",
+            "Industrial automation",
+            "Air preparation"
+          ],
+          "image": "/images/products/festo-valve-main.jpg",
+          "sheetImage": "/images/products/festo-valve-sheet.jpg",
+          "tags": [
+            "FESTO",
+            "5/2 Valve",
+            "FRL Unit",
+            "Valve Terminal",
+            "24V DC"
+          ]
         },
         {
           "slug": "janatics-pneumatic-cylinders-chennai",
@@ -1582,31 +1534,6 @@
             "TSC",
             "Multi-Passage"
           ]
-        },
-        {
-          "name": "MICRO ROTARY UNIONS",
-          "brand": "MICRO ENGINEERS",
-          "heroDesc": "MICRO ROTARY UNIONS",
-          "description": "MICRO",
-          "specifications": [
-            "MICRO"
-          ],
-          "applications": [
-            "CNC THROUGH CHUCK OPERATION etc.,"
-          ],
-          "tags": [
-            "ROTARY UNIONS",
-            "DEUBLIN",
-            "MICRO"
-          ],
-          "keywords": [],
-          "image": "",
-          "sheetImage": "",
-          "metaTitle": "ROTARY UNION",
-          "metaDescription": "MICRO ROTARY UNION",
-          "slug": "rotary-unions-chennai",
-          "parentSlug": "rotary-unions-deublin-micro-chennai",
-          "parentName": "Rotary Unions"
         }
       ]
     },
@@ -2006,18 +1933,8 @@
       ],
       "subProducts": [
         {
-          "slug": "knoll-high-pressure-coolant-pump-chennai",
           "name": "KNOLL High Pressure Coolant Pumps",
           "brand": "KNOLL",
-          "parentSlug": "special-chemical-pumps-chennai",
-          "parentName": "Special & Chemical Pumps",
-          "metaTitle": "KNOLL High Pressure Coolant Pump Chennai | Deep Hole Drilling Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy KNOLL high pressure coolant pumps in Chennai for deep-hole drilling and through-spindle coolant. Buy & sell. Call +91 73583 76280.",
-          "keywords": [
-            "KNOLL high pressure coolant pump Chennai",
-            "deep hole drilling pump Tamil Nadu",
-            "KNOLL pump dealer Chennai"
-          ],
           "heroDesc": "KNOLL high-pressure coolant pumps for deep-hole drilling and through-spindle coolant systems.",
           "description": "KNOLL manufactures high-pressure coolant pumps specifically for deep-hole drilling and through-spindle coolant applications. We supply KNOLL pumps in Chennai for CNC machining center TSC systems.",
           "specifications": [
@@ -2035,15 +1952,25 @@
             "High-pressure flushing",
             "Hard material machining"
           ],
-          "image": "/images/products/knoll-pump-main.jpg",
-          "sheetImage": "/images/products/knoll-pump-sheet.jpg",
           "tags": [
             "KNOLL",
             "High Pressure",
             "TSC",
             "Deep Hole",
             "40-150 Bar"
-          ]
+          ],
+          "keywords": [
+            "KNOLL high pressure coolant pump Chennai",
+            "deep hole drilling pump Tamil Nadu",
+            "KNOLL pump dealer Chennai"
+          ],
+          "image": "/images/products/knoll-high-pressure-coolant-pump-chennai-image-1782037744039.jpg",
+          "sheetImage": "/images/products/knoll-pump-sheet.jpg",
+          "metaTitle": "KNOLL High Pressure Coolant Pump Chennai | Deep Hole Drilling Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy KNOLL high pressure coolant pumps in Chennai for deep-hole drilling and through-spindle coolant. Buy & sell. Call +91 73583 76280.",
+          "slug": "knoll-high-pressure-coolant-pump-chennai",
+          "parentSlug": "special-chemical-pumps-chennai",
+          "parentName": "Special & Chemical Pumps"
         }
       ]
     }
