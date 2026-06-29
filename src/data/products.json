@@ -1573,6 +1573,28 @@
           "slug": "level-indicators-chennai",
           "parentSlug": "hydraulic-products-yuken-vickers-rexroth-chennai",
           "parentName": "Hydraulic Products"
+        },
+        {
+          "name": "FLOAT SWITCHES",
+          "brand": "VIDYUTH",
+          "heroDesc": "FLOAT SWITCHES INDICATE  LEVEL OF  FLUID ",
+          "description": "THE  FLOAT IN THE  FLOAT  SWICH  CHANGES  ITS  POSITION ACCORDING TO THE  LEVEL OF  OIL .\nTHS  SWITCH INDICATES LOW &  HIGH LEVEL OF  OIL &  GIVES  SIGNAL TO MACHINE EITHER TO FILL OIL  OR TO  STOP FILLING OIL",
+          "specifications": [
+            "DETAILS  REQUIRED:   LOW &  HIGH LEVEL TO BE  SENSED.  TEMPARATURE OF OIL , NO or NC Indication"
+          ],
+          "applications": [
+            "HYDRAULIC POWER PACKS, COOLANT TANKS, "
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/float-switches-chennai-image-1782752766530.jpg",
+          "sheetImage": "/images/products/float-switches-chennai-sheetimage-1782752766531.jpg",
+          "images": [],
+          "metaTitle": "LEVEL INDICATORS  FOR  COOLANT/ OIL Etc.,",
+          "metaDescription": "VERTICAL FLOAT SWAITCH ",
+          "slug": "float-switches-chennai",
+          "parentSlug": "hydraulic-products-yuken-vickers-rexroth-chennai",
+          "parentName": "Hydraulic Products"
         }
       ]
     },
