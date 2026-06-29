@@ -2,15 +2,23 @@
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import SmartImage from '@/components/SmartImage'
-export const metadata = { title: 'About Apna Shree | 35+ Years Authorized Industrial Dealer Chennai', description: "Apna Shree — Chennai's most trusted industrial engineering partner since 1990. Authorized dealer for CENLUB, INTORQ, BONFIGLIOLI, PMI, HIWIN. 500+ B2B clients.", alternates: { canonical: 'https://apnashree.com/about' } }
+import FaqSection from '@/components/FaqSection'
+export const metadata = { title: 'About Apna Shree | 35+ Years Authorized Industrial Dealer Chennai', description: "Apna Shree — Chennai's most trusted industrial engineering partner since 1990. Authorized dealer for CENLUB, INTORQ, BONFIGLIOLI, PMI, HIWIN. 1500+ B2B clients.", alternates: { canonical: 'https://apnashree.com/about' } }
 const timeline = [
-  { year: '1990', title: 'Founded in Chennai', desc: 'Started as a small engineering products supplier in Chennai with a focus on quality and reliability.' },
-  { year: '1995', title: 'First Authorized Dealership', desc: 'Became authorized dealers for BONFIGLIOLI gear boxes — our first major international brand partnership.' },
-  { year: '2002', title: 'Expanded to Ball Screws & LM Systems', desc: 'Added PMI and HIWIN to our portfolio — now supplying CNC machine manufacturers across Tamil Nadu.' },
-  { year: '2008', title: 'CENLUB & INTORQ Dealership', desc: 'Added CENLUB lubrication systems and INTORQ electromagnetic brakes to our authorized portfolio.' },
-  { year: '2015', title: '200+ Clients Milestone', desc: 'Crossed 200 active B2B clients. Added FESTO, GROZ, NUTECK partnerships.' },
-  { year: '2020', title: 'Pan-India Shipping', desc: 'Expanded logistics to ship across all of India. Added PETHE, RAJAMANE, ADONITECH partnerships.' },
-  { year: '2025', title: '500+ Clients & 36 Brands', desc: 'Now serving 500+ B2B manufacturing clients with 36+ authorized brand partnerships and growing.' },
+  { year: '1990', title: 'Founded in Chennai', desc: 'Apna Shree was established in Chennai as a trusted supplier of industrial engineering products.' },
+  { year: '1991', title: 'First Authorized Dealership', desc: 'Became authorized dealer for Rollon — Turcite slideway liners.' },
+  { year: '1992', title: 'CENLUB Lubrication Systems', desc: 'Became authorized dealer for CENLUB Systems centralized lubrication systems.' },
+  { year: '1994', title: 'EMCO, Dynatorq & Elscint', desc: 'Authorized dealer for EMCO AC & DC motors, Dynatorq, and Elscint vibratory bowl feeders.' },
+  { year: '1998', title: 'Pethe Brakes', desc: 'Became authorized dealer for Pethe electromagnetic brakes.' },
+  { year: '2000', title: 'PMI Ball Screws & LM Systems', desc: 'Became authorized dealer for PMI-make ball screws and LM systems.' },
+  { year: '2002', title: 'Nuteck Couplings', desc: 'Became authorized dealer for Nuteck couplings.' },
+  { year: '2005', title: 'Motors, Gearboxes & Couplings', desc: 'Expanded into industrial motors, gear boxes, and a wider range of industrial couplings.' },
+  { year: '2006', title: 'ACMEE International Exhibition', desc: 'Began participating in the ACMEE International Exhibition — 10 times consecutively since.' },
+  { year: '2010', title: 'Coolant Pumps', desc: 'Expanded into coolant pumps for CNC and conventional machine tools.' },
+  { year: '2019', title: 'INTORQ Dealership', desc: 'Became authorized dealer for INTORQ electromagnetic brakes and clutches.' },
+  { year: '2020', title: 'PAN India Shipping', desc: 'Expanded logistics to ship across all of India, with exports to the US and Dubai.' },
+  { year: '2022', title: 'Best Distributor Award', desc: 'Received the Best Distributor Award for INTORQ.' },
+  { year: '2025', title: 'DURI (Taiwan) Dealership', desc: 'Became dealer for DURI Taiwan products. Now serving 1500+ clients across 36 brands.' },
 ]
 const testimonials = [
   { stars: 5, text: 'Apna Shree has been our go-to supplier for CENLUB lubrication systems for over 10 years. Always genuine products, fast delivery, and excellent technical support.', name: 'R. Krishnamurthy', company: 'Precision Engineering Works, Ambattur', init: 'RK' },
@@ -26,20 +34,20 @@ export default function AboutPage() {
       <Navbar />
       <section style={{ padding: '80px 0 60px', borderBottom: '1px solid var(--border)', background: 'var(--bg)' }}>
         <div className="container">
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60, alignItems: 'center' }}>
+          <div className="grid-2" style={{ alignItems: 'center' }}>
             <div>
               <span className="label">Our Story</span>
               <h1 style={{ marginBottom: 20 }}>
                 <span style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 'clamp(52px,7vw,88px)', color: 'var(--text)', display: 'block', lineHeight: 0.92, letterSpacing: '0.02em' }}>ABOUT</span>
                 <span style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 'clamp(52px,7vw,88px)', color: 'var(--accent)', display: 'block', lineHeight: 0.92, letterSpacing: '0.02em' }}>APNA SHREE</span>
               </h1>
-              <p style={{ fontSize: 17, color: 'var(--text3)', lineHeight: 1.75, marginBottom: 28 }}>35+ years of engineering excellence in Chennai. Trusted by 500+ B2B clients across Tamil Nadu and India.</p>
+              <p style={{ fontSize: 17, color: 'var(--text3)', lineHeight: 1.75, marginBottom: 28 }}>35+ years of engineering excellence in Chennai. Trusted by 1500+ B2B clients across Tamil Nadu and India.</p>
               <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
                 <Link href="/contact" className="btn-primary">Get In Touch</Link>
                 <Link href="/products" className="btn-ghost">View Products</Link>
               </div>
               <div className="about-stats-row">
-                {[['35+', 'Years in Business'], ['500+', 'B2B Clients'], ['36+', 'Global Brands'], ['29+', 'Product Categories']].map(([n, l]) => (
+                {[['35+', 'Years in Business'], ['1500+', 'B2B Clients'], ['36+', 'Global Brands'], ['29+', 'Product Categories']].map(([n, l]) => (
                   <div key={l} className="about-stat"><div className="about-stat-num">{n}</div><div className="about-stat-label">{l}</div></div>
                 ))}
               </div>
@@ -56,7 +64,7 @@ export default function AboutPage() {
       </section>
       <section className="section">
         <div className="container">
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 80, alignItems: 'center' }}>
+          <div className="grid-2" style={{ alignItems: 'center' }}>
             <div>
               <span className="label">Who We Are</span>
               <h2 style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 'clamp(40px,5vw,60px)', lineHeight: 0.92, letterSpacing: '0.02em', color: 'var(--text)', marginBottom: 28 }}>CHENNAI'S MOST TRUSTED<br />ENGINEERING PARTNER</h2>
@@ -81,7 +89,7 @@ export default function AboutPage() {
       </section>
       <section className="section">
         <div className="container">
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 80, alignItems: 'start' }}>
+          <div className="grid-2" style={{ alignItems: 'start' }}>
             <div>
               <span className="label">Our Journey</span>
               <h2 style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 'clamp(40px,5vw,60px)', lineHeight: 0.92, letterSpacing: '0.02em', color: 'var(--text)', marginBottom: 48 }}>35 YEARS OF GROWTH</h2>
@@ -128,6 +136,7 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
+      <FaqSection />
       <Footer />
     </>
   )
