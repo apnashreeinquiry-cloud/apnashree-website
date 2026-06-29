@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1782083740187.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/motorised-lubrication-systems-cenlub-chennai-sheetimage-1780844571507%20%281%29-jv5jZZuPlLaUL0Io7SjK8ReIOlPfJH.jpg"
           ],
@@ -62,19 +62,8 @@
           "parentName": "Lubrication Systems"
         },
         {
-          "slug": "pneumatic-lubrication-pump-cenlub-chennai",
           "name": "Pneumatic Lubrication Pumps",
           "brand": "CENLUB",
-          "parentSlug": "lubrication-systems-cenlub-chennai",
-          "parentName": "Lubrication Systems",
-          "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
-          "keywords": [
-            "pneumatic lubrication pump Chennai",
-            "air operated grease pump Tamil Nadu",
-            "CENLUB pneumatic pump Chennai",
-            "air lubrication pump supplier"
-          ],
           "heroDesc": "Air-operated pneumatic lubrication pumps for grease and oil dispensing in industrial machinery.",
           "description": "Pneumatic lubrication pumps use compressed air to deliver lubricant — ideal where electrical power is not available or where explosion-proof operation is required. CENLUB pneumatic pumps handle both oil and grease efficiently.\n\nAvailable in barrel-mount, pail-mount, and inline configurations for all industrial applications.",
           "specifications": [
@@ -92,18 +81,30 @@
             "Presses and heavy presses",
             "Offshore / hazardous area (ATEX)"
           ],
-          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1781185718474.jpg",
-          "sheetImage": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-sheetimage-1780844571509.jpg",
           "tags": [
             "Pneumatic",
             "Air Operated",
             "Barrel Mount",
             "Grease",
             "Oil"
-          ]
+          ],
+          "keywords": [
+            "pneumatic lubrication pump Chennai",
+            "air operated grease pump Tamil Nadu",
+            "CENLUB pneumatic pump Chennai",
+            "air lubrication pump supplier"
+          ],
+          "image": "/images/products/pneumatic-lubrication-pump-cenlub-chennai-image-1781185718474.jpg",
+          "sheetImage": "",
+          "images": [],
+          "metaTitle": "Pneumatic Lubrication Pump Supplier Chennai | CENLUB Air Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy CENLUB pneumatic lubrication pumps in Chennai. Air-operated grease & oil pumps for industrial machinery in Tamil Nadu. Call +91 73583 76280.",
+          "slug": "pneumatic-lubrication-pump-cenlub-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
         },
         {
-          "name": "Hand Operated Lubrication Pumps",
+          "name": "Hand Operated  Oil & Grease Lubrication Pumps",
           "brand": "CENLUB",
           "heroDesc": "Manual hand-operated lubrication pumps for small machines, maintenance, and spot lubrication applications.",
           "description": "Hand-operated lubrication pumps are the simplest and most reliable way to lubricate machines that don't have automatic systems. CENLUB hand pumps are used for periodic maintenance greasing, small machine lubrication, and spot lubrication tasks.\n\nAvailable in lever-action, plunger, and foot-operated variants.",
@@ -130,15 +131,16 @@
             "Maintenance"
           ],
           "keywords": [
-            "hand operated lubrication pump Chennai",
-            "manual grease pump Tamil Nadu",
-            "lever grease pump supplier Chennai",
-            "manual lubricator Chennai"
+            "hand operated  oil & grease lubrication pumps Chennai",
+            "CENLUB hand operated  oil & grease lubrication pumps Tamil Nadu",
+            "hand operated  oil & grease lubrication pumps supplier Chennai",
+            "cenlub dealer Chennai"
           ],
           "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1782062073020.jpg",
-          "sheetImage": "/images/products/lubrication-hand-sheet.jpg",
-          "metaTitle": "Hand Operated Lubrication Pump Chennai | Manual Grease Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy hand operated lubrication pumps in Chennai. Manual lever and plunger pumps for small machines and maintenance. CENLUB dealer. Call +91 73583 76280.",
+          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1782086337375.jpg",
+          "images": [],
+          "metaTitle": "Hand Operated  Oil & Grease Lubrication Pumps Supplier Chenn",
+          "metaDescription": "Buy Hand Operated  Oil & Grease Lubrication Pumps in Chennai. CENLUB lubrication systems for industrial applications in Tamil Nadu. Call +91 73583 76280.",
           "slug": "hand-operated-lubrication-pump-chennai",
           "parentSlug": "lubrication-systems-cenlub-chennai",
           "parentName": "Lubrication Systems"
@@ -898,18 +900,8 @@
           "parentName": "Coolant Pumps"
         },
         {
-          "slug": "high-pressure-coolant-pump-chennai",
           "name": "High Pressure Coolant Pumps",
           "brand": "RAJAMANE / KNOLL",
-          "parentSlug": "coolant-pumps-rajamane-chennai",
-          "parentName": "Coolant Pumps",
-          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
-          "keywords": [
-            "high pressure coolant pump Chennai",
-            "through spindle coolant pump Tamil Nadu",
-            "deep hole drilling coolant pump Chennai"
-          ],
           "heroDesc": "High pressure coolant pumps for through-spindle coolant and deep-hole drilling applications.",
           "description": "High pressure coolant pumps deliver coolant at pressures from 20 bar to 100 bar for through-spindle coolant applications in CNC machining centers and deep-hole drilling machines. Dramatically improves tool life and surface quality in deep bore operations.",
           "specifications": [
@@ -926,15 +918,50 @@
             "CNC machining center TSC",
             "High-speed machining"
           ],
-          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1781344375535.png",
-          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
           "tags": [
             "High Pressure",
             "Through Spindle",
             "Deep Hole",
             "20-100 Bar",
             "TSC"
-          ]
+          ],
+          "keywords": [
+            "high pressure coolant pump Chennai",
+            "through spindle coolant pump Tamil Nadu",
+            "deep hole drilling coolant pump Chennai"
+          ],
+          "image": "/images/products/high-pressure-coolant-pump-chennai-image-1782086337376.webp",
+          "sheetImage": "/images/products/high-pressure-coolant-pump-chennai-sheetimage-1781344375536.png",
+          "images": [],
+          "metaTitle": "High Pressure Coolant Pump Chennai | Through Spindle Coolant Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy high pressure coolant pumps in Chennai for through-spindle coolant and deep-hole drilling. RAJAMANE & KNOLL. Call +91 73583 76280.",
+          "slug": "high-pressure-coolant-pump-chennai",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps"
+        },
+        {
+          "name": " R.O  & HORIZONTAL COOLANT PUMPS",
+          "brand": "Century",
+          "heroDesc": "RO & HORIZONTAL MOUNTING PUMPS",
+          "description": "RO & HORIZONTAL MOUNTING PUMPS",
+          "specifications": [
+            "RO & HORIZONTAL MOUNTING PUMPS"
+          ],
+          "applications": [
+            "CNC, RO APPLICATIONS"
+          ],
+          "tags": [
+            "INDUSTRIAL COOLANT PUMPS"
+          ],
+          "keywords": [],
+          "image": "/images/products/r-o-horizontal-coolant-pumps-chennai-image-1782086337377.webp",
+          "sheetImage": "",
+          "images": [],
+          "metaTitle": "RO & HORIZONTAL MOUNTING PUMPS",
+          "metaDescription": "RO & HORIZONTAL MOUNTING PUMPS",
+          "slug": "r-o-horizontal-coolant-pumps-chennai",
+          "parentSlug": "coolant-pumps-rajamane-chennai",
+          "parentName": "Coolant Pumps"
         }
       ]
     },
@@ -1034,6 +1061,28 @@
             "Misalignment",
             "Heavy Duty"
           ]
+        },
+        {
+          "name": "CHAIN COUPLINGS",
+          "brand": "NUTECK",
+          "heroDesc": "CHAIN COUPLINGS",
+          "description": "CHAIN COUPLINGS",
+          "specifications": [
+            "VARIOUS  MODELS   AVAILABLE"
+          ],
+          "applications": [
+            "MATERIAL HANDLING SYSTEMS, CONVEYORS,  "
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/chain-couplings-chennai-image-1782086337378.png",
+          "sheetImage": "",
+          "images": [],
+          "metaTitle": "CHAIN COUPLINGS",
+          "metaDescription": "CHAIN COUPLINGS",
+          "slug": "chain-couplings-chennai",
+          "parentSlug": "torque-limiters-nuteck-chennai",
+          "parentName": "Torque Limiters & Couplings"
         }
       ]
     },
@@ -1055,18 +1104,8 @@
       ],
       "subProducts": [
         {
-          "slug": "belt-oil-skimmer-chennai",
           "name": "Belt Type Oil Skimmers",
           "brand": "RAJAMANE",
-          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
-          "parentName": "Oil Skimmers",
-          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
-          "keywords": [
-            "belt oil skimmer Chennai",
-            "tramp oil remover Tamil Nadu",
-            "coolant tank oil skimmer Chennai"
-          ],
           "heroDesc": "Belt-type oil skimmers continuously remove tramp oil from CNC machine coolant tanks — automatically.",
           "description": "Belt-type oil skimmers use a continuous belt that passes through the coolant surface, picking up floating tramp oil. The oil is scraped off the belt into a collection tray. Continuous, automatic, low-maintenance operation.",
           "specifications": [
@@ -1084,15 +1123,26 @@
             "Washing machine sumps",
             "Any coolant tank with tramp oil"
           ],
-          "image": "/images/products/belt-oil-skimmer-chennai-image-1781345011749.jpg",
-          "sheetImage": "/images/products/belt-skimmer-sheet.jpg",
           "tags": [
             "Belt Type",
             "Automatic",
             "Continuous",
             "All Sizes",
             "Low Maintenance"
-          ]
+          ],
+          "keywords": [
+            "belt oil skimmer Chennai",
+            "tramp oil remover Tamil Nadu",
+            "coolant tank oil skimmer Chennai"
+          ],
+          "image": "/images/products/belt-oil-skimmer-chennai-image-1781345011749.jpg",
+          "sheetImage": "/images/products/belt-oil-skimmer-chennai-sheetimage-1782086337379.jpg",
+          "images": [],
+          "metaTitle": "Belt Oil Skimmer Supplier Chennai | Tramp Oil Remover Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy belt type oil skimmers in Chennai. RAJAMANE belt oil skimmers for CNC coolant tank tramp oil removal. All sizes. Call +91 73583 76280.",
+          "slug": "belt-oil-skimmer-chennai",
+          "parentSlug": "oil-skimmers-rajamane-apna-chennai",
+          "parentName": "Oil Skimmers"
         }
       ]
     },
@@ -1174,19 +1224,8 @@
       ],
       "subProducts": [
         {
-          "slug": "groz-grease-guns-chennai",
           "name": "GROZ Professional Grease Guns",
           "brand": "GROZ",
-          "parentSlug": "groz-tools-fluid-pumps-chennai",
-          "parentName": "GROZ Tools",
-          "metaTitle": "GROZ Grease Gun Supplier Chennai | Professional Grease Gun Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy GROZ professional grease guns in Chennai. Lever, pistol grip, air-powered grease guns for industrial maintenance. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "GROZ grease gun Chennai",
-            "professional grease gun Tamil Nadu",
-            "air powered grease gun Chennai",
-            "lever grease gun supplier"
-          ],
           "heroDesc": "GROZ professional grease guns — lever, pistol, and pneumatic types for industrial maintenance.",
           "description": "GROZ grease guns are built for professional industrial maintenance use. Available in lever-action, pistol-grip, and pneumatic variants to suit every maintenance requirement.",
           "specifications": [
@@ -1204,30 +1243,31 @@
             "Heavy equipment greasing",
             "Factory maintenance teams"
           ],
-          "image": "/images/products/groz-grease-gun-main.jpg",
-          "sheetImage": "/images/products/groz-grease-gun-sheet.jpg",
           "tags": [
             "Lever",
             "Pistol Grip",
             "Pneumatic",
             "600 Bar",
             "All Metal"
-          ]
+          ],
+          "keywords": [
+            "GROZ grease gun Chennai",
+            "professional grease gun Tamil Nadu",
+            "air powered grease gun Chennai",
+            "lever grease gun supplier"
+          ],
+          "image": "/images/products/groz-grease-guns-chennai-image-1782086337380.jpg",
+          "sheetImage": "/images/products/groz-grease-gun-sheet.jpg",
+          "images": [],
+          "metaTitle": "GROZ Grease Gun Supplier Chennai | Professional Grease Gun Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy GROZ professional grease guns in Chennai. Lever, pistol grip, air-powered grease guns for industrial maintenance. Authorized dealer. Call +91 73583 76280.",
+          "slug": "groz-grease-guns-chennai",
+          "parentSlug": "groz-tools-fluid-pumps-chennai",
+          "parentName": "GROZ Tools & Fluid Pumps"
         },
         {
-          "slug": "groz-barrel-drum-pumps-chennai",
           "name": "GROZ Barrel & Drum Pumps",
           "brand": "GROZ",
-          "parentSlug": "groz-tools-fluid-pumps-chennai",
-          "parentName": "GROZ Tools",
-          "metaTitle": "GROZ Barrel Pump Supplier Chennai | Drum Pump Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy GROZ barrel and drum pumps in Chennai for oil and fluid transfer. Manual and pneumatic types. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "GROZ barrel pump Chennai",
-            "drum pump supplier Tamil Nadu",
-            "oil transfer pump Chennai",
-            "fluid drum pump dealer"
-          ],
           "heroDesc": "GROZ barrel and drum pumps for oil, lubricant, and fluid transfer in industrial facilities.",
           "description": "GROZ drum pumps transfer oils, lubricants, and industrial fluids from drums and IBCs. Available in manual, electric, and pneumatic versions for all fluid types.",
           "specifications": [
@@ -1245,15 +1285,49 @@
             "Chemical transfer (SS type)",
             "Industrial warehouse"
           ],
-          "image": "/images/products/groz-drum-pump-main.jpg",
-          "sheetImage": "/images/products/groz-drum-pump-sheet.jpg",
           "tags": [
             "Barrel Pump",
             "Drum Pump",
             "Manual",
             "Pneumatic",
             "Oil Transfer"
-          ]
+          ],
+          "keywords": [
+            "GROZ barrel pump Chennai",
+            "drum pump supplier Tamil Nadu",
+            "oil transfer pump Chennai",
+            "fluid drum pump dealer"
+          ],
+          "image": "/images/products/groz-barrel-drum-pumps-chennai-image-1782086337381.jpg",
+          "sheetImage": "/images/products/groz-drum-pump-sheet.jpg",
+          "images": [],
+          "metaTitle": "GROZ Barrel Pump Supplier Chennai | Drum Pump Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy GROZ barrel and drum pumps in Chennai for oil and fluid transfer. Manual and pneumatic types. Authorized dealer. Call +91 73583 76280.",
+          "slug": "groz-barrel-drum-pumps-chennai",
+          "parentSlug": "groz-tools-fluid-pumps-chennai",
+          "parentName": "GROZ Tools & Fluid Pumps"
+        },
+        {
+          "name": "GROZ INDUSTRIAL TOOLS",
+          "brand": "GROZ",
+          "heroDesc": "GROZ INDUSTRIAL TOOLS",
+          "description": "VARIETY OF  TOOLS LIKE, HAMMER, SPANNES, ALLEN KEYS  ARE  AVAILABLE ",
+          "specifications": [
+            "GROZ TOOLS"
+          ],
+          "applications": [
+            "ALL  INDUSTRIAL  APPLICATIONS, MAINTENANCE NEEDS"
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/groz-industrial-tools-chennai-image-1782086337382.jpg",
+          "sheetImage": "",
+          "images": [],
+          "metaTitle": "GROZ TOOLS",
+          "metaDescription": "GROZ TOOLS",
+          "slug": "groz-industrial-tools-chennai",
+          "parentSlug": "groz-tools-fluid-pumps-chennai",
+          "parentName": "GROZ Tools & Fluid Pumps"
         }
       ]
     },
@@ -1409,6 +1483,28 @@
           "metaTitle": "REXROTH Hydraulic Supplier Chennai | Rexroth Valve Pump Tamil Nadu | Apna Shree",
           "metaDescription": "Buy REXROTH hydraulic components in Chennai — pumps, valves, motors, cylinders. Buy & sell new and used. Call +91 73583 76280.",
           "slug": "rexroth-hydraulic-components-chennai",
+          "parentSlug": "hydraulic-products-yuken-vickers-rexroth-chennai",
+          "parentName": "Hydraulic Products"
+        },
+        {
+          "name": "LEVEL INDICATORS",
+          "brand": "VIDYUTH ",
+          "heroDesc": "LEVEL INDICATORS ",
+          "description": "LEVEL INDICATIORS  ARE  AVAILABLE  IN VARIOUS  SIZE \nStandard are:  IMMERSION DEPTH: 100, 150, 200, 250, 300, 400, 500, 600,700 \nWe  ALSO  SUPPLY Customised Level Indicators\n\nLEVEL INDICATORS  WITH  TEMPARATURE  INDICATORS  ALSO  AVAILABLE ",
+          "specifications": [
+            "24 VDC, 220 VAC "
+          ],
+          "applications": [
+            "ALL  COOLANT, HYDRAULIC  APPLICATIONS"
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/level-indicators-chennai-image-1782555734689.jpg",
+          "sheetImage": "",
+          "images": [],
+          "metaTitle": "LEVEL INDICATORS ",
+          "metaDescription": "LEVEL INDICATORS\n",
+          "slug": "level-indicators-chennai",
           "parentSlug": "hydraulic-products-yuken-vickers-rexroth-chennai",
           "parentName": "Hydraulic Products"
         }
