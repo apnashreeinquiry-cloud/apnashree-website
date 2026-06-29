@@ -3,7 +3,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import SmartImage from '@/components/SmartImage'
 import FaqSection from '@/components/FaqSection'
-export const metadata = { title: 'About Apna Shree | 35+ Years Authorized Industrial Dealer Chennai', description: "Apna Shree — Chennai's most trusted industrial engineering partner since 1990. Authorized dealer for CENLUB, INTORQ, BONFIGLIOLI, PMI, HIWIN. 1500+ B2B clients.", alternates: { canonical: 'https://apnashree.com/about' } }
+export const metadata = { title: 'About Apna Shree | 35+ Years Authorized Industrial Dealer Chennai', description: "Apna Shree — Chennai's most trusted industrial engineering partner since 1990. Authorized dealer for CENLUB, INTORQ, ROLLON, PMI, HIWIN. 1500+ B2B clients.", alternates: { canonical: 'https://apnashree.com/about' } }
 const timeline = [
   { year: '1990', title: 'Founded in Chennai', desc: 'Apna Shree was established in Chennai as a trusted supplier of industrial engineering products.' },
   { year: '1991', title: 'First Authorized Dealership', desc: 'Became authorized dealer for Rollon — Turcite slideway liners.' },
@@ -23,9 +23,9 @@ const timeline = [
 const testimonials = [
   { stars: 5, text: 'Apna Shree has been our go-to supplier for CENLUB lubrication systems for over 10 years. Always genuine products, fast delivery, and excellent technical support.', name: 'R. Krishnamurthy', company: 'Precision Engineering Works, Ambattur', init: 'RK' },
   { stars: 5, text: 'We needed PMI ball screws urgently for a CNC breakdown. Apna Shree delivered within the day. Saved us lakhs in production losses.', name: 'S. Venkataraman', company: 'Machine Tools India, Guindy', init: 'SV' },
-  { stars: 5, text: 'Best place in Chennai for BONFIGLIOLI gearboxes. Competitive pricing and they always have stock. Been buying from them for 8+ years.', name: 'M. Arumugam', company: 'Industrial Drives Chennai', init: 'MA' },
+  { stars: 5, text: 'Best place in Chennai for industrial gearboxes and couplings. Competitive pricing and they always have stock. Been buying from them for 8+ years.', name: 'M. Arumugam', company: 'Industrial Drives Chennai', init: 'MA' },
   { stars: 5, text: 'Their technical advice on selecting the right INTORQ brake for our packaging machine was invaluable. Knowledgeable team, genuine products.', name: 'P. Subramaniam', company: 'Pack Tech Industries, Perungudi', init: 'PS' },
-  { stars: 5, text: 'Excellent service for FESTO pneumatic components. Always available, competitive price, and they even helped with system design.', name: 'K. Ramasamy', company: 'Automation Solutions TN', init: 'KR' },
+  { stars: 5, text: 'Great support for our lubrication and coolant systems. Always available, competitive price, and they even helped with system selection.', name: 'K. Ramasamy', company: 'Automation Solutions TN', init: 'KR' },
   { stars: 5, text: 'Apna Shree supplied Turcite sheets and HIWIN LM guides for our machine reconditioning project. Perfect quality, great price.', name: 'V. Natarajan', company: 'CNC Reconditioning Services', init: 'VN' },
 ]
 export default function AboutPage() {
