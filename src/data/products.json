@@ -234,12 +234,36 @@
             "MQL"
           ],
           "keywords": [],
-          "image": "/images/products/mimimum-quantity-lubrication-mql-chennai-image-1783294846022.jpg",
-          "sheetImage": "/images/products/mimimum-quantity-lubrication-mql-chennai-sheetimage-1783294846023.jpg",
+          "image": "/images/products/mimimum-quantity-lubrication-mql-chennai-image-1783295774567.jpg",
+          "sheetImage": "/images/products/mimimum-quantity-lubrication-mql-chennai-sheetimage-1783295774568.jpg",
           "images": [],
           "metaTitle": "MQL,  AIR-OIL SPRAY SYSTEM ",
           "metaDescription": "MQL LUBRICATION ",
           "slug": "mimimum-quantity-lubrication-mql-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
+        },
+        {
+          "name": "AIR+OIL  SPRAY SYSTEM ",
+          "brand": "AVCOTECH",
+          "heroDesc": "VARIOUS  CAPACITIES &  OUTPUTS  ARE  AVAILABLE",
+          "description": "AIR + OIL IS  USED  IN THE  FORM  OF  MIST SPARY.\nNO WASTAGE  OF  OIL ",
+          "specifications": [
+            "MQL SPRAY "
+          ],
+          "applications": [
+            "PRESS TOOLS, CUTTING MACHINES,  CNC, CONVEYOR etc.,"
+          ],
+          "tags": [
+            "MICROFOG"
+          ],
+          "keywords": [],
+          "image": "/images/products/air-oil-spray-system-chennai-image-1783295774569.jpg",
+          "sheetImage": "/images/products/air-oil-spray-system-chennai-sheetimage-1783295774570.jpg",
+          "images": [],
+          "metaTitle": "MQL, MICROFORG LUBRICATION, ",
+          "metaDescription": "MQL MICROFOG LUBRICATION,  OIL MIST SPRAY ",
+          "slug": "air-oil-spray-system-chennai",
           "parentSlug": "lubrication-systems-cenlub-chennai",
           "parentName": "Lubrication Systems"
         }
