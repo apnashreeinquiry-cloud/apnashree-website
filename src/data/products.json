@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1783274029176.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1783274185719.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/ALU-ELU%20Spec-v6dhuoWt2lO66wvGbDIWtAwSuiPS0P.jpg",
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/ALU-SPLU-HngI76ijmNuttoIaiuPGm2k7LBWBfJ.jpg",
@@ -140,7 +140,7 @@
             "cenlub dealer Chennai"
           ],
           "image": "/images/products/hand-operated-lubrication-pump-chennai-image-1782062073020.jpg",
-          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1783274029177.jpg",
+          "sheetImage": "/images/products/hand-operated-lubrication-pump-chennai-sheetimage-1783274185720.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/MGP-isp8mjaDovDCUFIIkDULaeeho93G07.jpg",
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/Prog.Block%20%20%26%20%20manifols%20withmet.Catridge-xA9skM8ZxeI74vROMXt9wo1ePSJzvk.JPG"
@@ -206,8 +206,8 @@
           ],
           "tags": [],
           "keywords": [],
-          "image": "/images/products/motorised-grease-lubrication-systems-chennai-image-1783274029178.jpg",
-          "sheetImage": "/images/products/motorised-grease-lubrication-systems-chennai-sheetimage-1783274029179.jpg",
+          "image": "/images/products/motorised-grease-lubrication-systems-chennai-image-1783274185721.jpg",
+          "sheetImage": "/images/products/motorised-grease-lubrication-systems-chennai-sheetimage-1783274185722.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/TIGREASER%20PHOTO%20-0LLFa9yngUMqMSTK8yY39U2sIMgmoB.jpg",
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/Prog.Block%20%20%26%20%20manifols%20withmet.Catridge-FVElPMJFfuPymu248wbCTQjuqzvLy6.JPG"
@@ -271,7 +271,7 @@
             "spring brake supplier Chennai"
           ],
           "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343402338.jpg",
-          "sheetImage": "/images/products/intorq-spring-applied-brakes-chennai-sheetimage-1783274029180.jpg",
+          "sheetImage": "/images/products/intorq-spring-applied-brakes-chennai-sheetimage-1783274185723.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/INTORQ%20BEG%20162-270%20%20%28230-190%20VDC%29%20RECTIFIER-ui0p2OqtJj0O1uTWUhIPkvd2SB7BDj.jpg"
           ],
@@ -340,18 +340,8 @@
       ],
       "subProducts": [
         {
-          "slug": "pethe-ac-electromagnetic-brakes-chennai",
           "name": "PETHE AC Electromagnetic Brakes",
           "brand": "PETHE",
-          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
-          "parentName": "EM AC Brakes & Clutches",
-          "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "PETHE AC electromagnetic brake Chennai",
-            "AC brake dealer Tamil Nadu",
-            "PETHE brake supplier Chennai"
-          ],
           "heroDesc": "PETHE AC electromagnetic brakes — direct mains operation with no rectifier needed.",
           "description": "PETHE AC electromagnetic brakes operate directly on AC mains supply — no DC rectifier required, making installation simple and cost-effective. Widely used in textile machinery, packaging equipment, and general industrial applications across Tamil Nadu.",
           "specifications": [
@@ -369,15 +359,26 @@
             "Material handling",
             "General industrial drives"
           ],
-          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1781343402340.jpg",
-          "sheetImage": "/images/products/pethe-ac-electromagnetic-brakes-chennai-sheetimage-1780844571515.jpg",
           "tags": [
             "AC Brake",
             "230V AC",
             "No Rectifier",
             "Textile",
             "Simple Install"
-          ]
+          ],
+          "keywords": [
+            "PETHE AC electromagnetic brake Chennai",
+            "AC brake dealer Tamil Nadu",
+            "PETHE brake supplier Chennai"
+          ],
+          "image": "/images/products/pethe-ac-electromagnetic-brakes-chennai-image-1781343402340.jpg",
+          "sheetImage": "",
+          "images": [],
+          "metaTitle": "PETHE AC Electromagnetic Brake Chennai | AC Industrial Brake Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy PETHE AC electromagnetic brakes in Chennai. Direct AC operation, no rectifier needed. For textile, packaging & machinery. Authorized dealer. Call +91 73583 76280.",
+          "slug": "pethe-ac-electromagnetic-brakes-chennai",
+          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
+          "parentName": "Electromagnetic (AC) Brakes & Clutches"
         },
         {
           "slug": "pethe-clutch-plates-friction-liners-chennai",
