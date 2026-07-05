@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1783265314648.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1783270867781.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/ALU-ELU%20Spec-v6dhuoWt2lO66wvGbDIWtAwSuiPS0P.jpg",
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/ALU-SPLU-HngI76ijmNuttoIaiuPGm2k7LBWBfJ.jpg",
@@ -210,19 +210,8 @@
       ],
       "subProducts": [
         {
-          "slug": "intorq-spring-applied-brakes-chennai",
           "name": "INTORQ Spring-Applied Brakes",
           "brand": "INTORQ",
-          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
-          "parentName": "EM DC Brakes & Clutches",
-          "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
-          "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
-          "keywords": [
-            "INTORQ spring applied brake Chennai",
-            "fail safe electromagnetic brake Tamil Nadu",
-            "DC brake dealer Chennai",
-            "spring brake supplier Chennai"
-          ],
           "heroDesc": "INTORQ spring-applied brakes — fail-safe braking that engages automatically when power is cut.",
           "description": "INTORQ spring-applied brakes are the industry standard for fail-safe braking in hoists, cranes, packaging machines, and servo motor applications. The brake engages automatically when power is removed — ensuring the load cannot move in a power failure.\n\nAvailable in flange-mounted and shaft-mounted configurations from 1 Nm to 500 Nm torque.",
           "specifications": [
@@ -240,15 +229,29 @@
             "Elevators and lifts",
             "Automation equipment"
           ],
-          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343402338.jpg",
-          "sheetImage": "/images/products/intorq-spring-applied-brakes-chennai-sheetimage-1780844571513.jpg",
           "tags": [
             "Spring Applied",
             "Fail-Safe",
             "24V DC",
             "Servo",
             "Hoist"
-          ]
+          ],
+          "keywords": [
+            "INTORQ spring applied brake Chennai",
+            "fail safe electromagnetic brake Tamil Nadu",
+            "DC brake dealer Chennai",
+            "spring brake supplier Chennai"
+          ],
+          "image": "/images/products/intorq-spring-applied-brakes-chennai-image-1781343402338.jpg",
+          "sheetImage": "/images/products/intorq-spring-applied-brakes-chennai-sheetimage-1780844571513.jpg",
+          "images": [
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/INTORQ%20BEG%20162-270%20%20%28230-190%20VDC%29%20RECTIFIER-ui0p2OqtJj0O1uTWUhIPkvd2SB7BDj.jpg"
+          ],
+          "metaTitle": "INTORQ Spring Applied Brake Chennai | Fail Safe DC Brake Tamil Nadu | Apna Shree",
+          "metaDescription": "Buy INTORQ spring-applied electromagnetic brakes in Chennai. Fail-safe braking for hoists, CNC & packaging machines. Authorized dealer. Call +91 73583 76280.",
+          "slug": "intorq-spring-applied-brakes-chennai",
+          "parentSlug": "electromagnetic-brakes-clutches-dc-intorq-chennai",
+          "parentName": "Electromagnetic (DC) Brakes & Clutches"
         },
         {
           "slug": "intorq-electromagnetic-clutches-chennai",
