@@ -51,7 +51,7 @@
             "electric lubrication system supplier"
           ],
           "image": "/images/products/motorised-lubrication-systems-cenlub-chennai-image-1781331503754.jpg",
-          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1783271215852.jpg",
+          "sheetImage": "/images/products/motorised-lubrication-systems-cenlub-chennai-sheetimage-1783271901344.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/ALU-ELU%20Spec-v6dhuoWt2lO66wvGbDIWtAwSuiPS0P.jpg",
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/ALU-SPLU-HngI76ijmNuttoIaiuPGm2k7LBWBfJ.jpg",
@@ -189,6 +189,31 @@
             "Manifold",
             "Fittings"
           ]
+        },
+        {
+          "name": "Motorised Grease  Lubrication Systems ",
+          "brand": "CENLUB",
+          "heroDesc": "Motorised Grease Lubrication Systems  ",
+          "description": "Grease  Lubrication are  available in various  capacities, 3 ,5, 9  &  Customised ",
+          "specifications": [
+            "24VDC,  415 VDC operated Systems  are  available "
+          ],
+          "applications": [
+            "CNC ,  Sugar Mill, Paper Mills,  Injection Mpoulding Machines etc., "
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/motorised-grease-lubrication-systems-chennai-image-1783271901345.jpg",
+          "sheetImage": "/images/products/motorised-grease-lubrication-systems-chennai-sheetimage-1783271901346.jpg",
+          "images": [
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/TIGREASER%20PHOTO%20-0LLFa9yngUMqMSTK8yY39U2sIMgmoB.jpg",
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/Prog.Block%20%20%26%20%20manifols%20withmet.Catridge-FVElPMJFfuPymu248wbCTQjuqzvLy6.JPG"
+          ],
+          "metaTitle": "CENLUB Lub Systems for Grease ",
+          "metaDescription": "Motorised Grease Lub Systems ",
+          "slug": "motorised-grease-lubrication-systems-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
         }
       ]
     },
