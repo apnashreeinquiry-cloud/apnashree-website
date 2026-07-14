@@ -6,18 +6,18 @@ import { mainProducts, otherProducts } from '@/data/products'
 import HeroBg from '@/components/HeroBg'
 
 export const metadata = {
-  title: 'Apna Shree | Authorized Industrial Dealer Chennai | CENLUB INTORQ BONFIGLIOLI PMI HIWIN',
-  description: 'Apna Shree — authorized dealer for CENLUB, INTORQ, PETHE, BONFIGLIOLI, PMI, HIWIN in Chennai. Lubrication systems, EM brakes, gearboxes, ball screws. 35+ years. Call +91 73583 76280.',
+  title: 'Apna Shree | Authorized Industrial Dealer Chennai | CENLUB INTORQ PMI HIWIN CENTURY',
+  description: 'Apna Shree — authorized dealer for CENLUB, INTORQ, PETHE, PMI, HIWIN, CENTURY in Chennai. Lubrication systems, EM brakes, gearboxes, ball screws. 35+ years. Call +91 73583 76280.',
   alternates: { canonical: 'https://apnashree.com' },
 }
 
-const brands = ['CENLUB','INTORQ','PETHE','BONFIGLIOLI','PMI','HIWIN','RAJAMANE','GROZ','NIPPON','NUTECK','ADONITECH','REXROTH','YUKEN','FESTO','JANATICS','KLUEBER','KYODO YUSHI','DEUBLIN','FENNER','TSUBAKI']
+const brands = ['CENLUB','INTORQ','PETHE','CENTURY','PMI','HIWIN','ROLLON','RAJAMANE','GROZ','NIPPON','NUTECK','ADONITECH','JANATICS','KLUEBER','KYODO YUSHI','DEUBLIN','FENNER','TSUBAKI']
 
 const quickList = [
   { color: '#e85d26', label: 'Ball Screws — PMI / HIWIN' },
-  { color: '#ef4444', label: 'Hydraulics — Rexroth / Yuken' },
+  { color: '#ef4444', label: 'Hydraulics — Reputed Brands' },
   { color: '#8b5cf6', label: 'Lubrication — CENLUB' },
-  { color: '#10b981', label: 'Pneumatics — FESTO' },
+  { color: '#10b981', label: 'Pneumatics — JANATICS' },
   { color: '#f59e0b', label: 'EM Brakes — INTORQ' },
 ]
 
@@ -36,7 +36,7 @@ export default function HomePage() {
         "@context": "https://schema.org", "@type": "FAQPage",
         "mainEntity": [
           { "@type": "Question", "name": "Are you an authorized CENLUB dealer in Chennai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Apna Shree is an authorized dealer for CENLUB centralized lubrication systems in Chennai, Tamil Nadu since 1990." } },
-          { "@type": "Question", "name": "Do you stock BONFIGLIOLI gearboxes in Chennai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. We are an authorized BONFIGLIOLI dealer in Chennai stocking helical, worm, bevel, and planetary gearboxes." } },
+          { "@type": "Question", "name": "Do you stock industrial gearboxes in Chennai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. We stock helical, worm, bevel, and planetary gearboxes from reputed brands in Chennai." } },
           { "@type": "Question", "name": "Where can I buy PMI and HIWIN ball screws in Chennai?", "acceptedAnswer": { "@type": "Answer", "text": "Apna Shree is an authorized dealer for PMI and HIWIN ball screws and LM guide systems in Chennai, Tamil Nadu." } },
         ]
       })}} />
@@ -57,7 +57,7 @@ export default function HomePage() {
               <span className="hero-h1-accent">INDUSTRIAL</span>
               <p className="hero-h1-line3">ENGINEERING PARTNER</p>
               <p className="hero-desc">
-                Authorized dealers for <strong>30+ global brands</strong> — CENLUB, INTORQ, BONFIGLIOLI, PMI, HIWIN, FESTO & more.{' '}
+                Authorized dealers for <strong>36+ global brands</strong> — CENLUB, INTORQ, PMI, HIWIN, CENTURY, ROLLON & more.{' '}
                 {totalSubs}+ sub-products. B2B pricing. Chennai & all of Tamil Nadu since 1990.
               </p>
               <div className="hero-btns">
@@ -114,7 +114,7 @@ export default function HomePage() {
       <div className="stats-bar">
         <div className="container">
           <div className="stats-grid">
-            {[['35+', 'YEARS IN BUSINESS'], ['500+', 'B2B CLIENTS SERVED'], ['36+', 'GLOBAL BRANDS'], ['2hr', 'RESPONSE TIME']].map(([n, l]) => (
+            {[['35+', 'YEARS IN BUSINESS'], ['1500+', 'B2B CLIENTS SERVED'], ['36+', 'GLOBAL BRANDS'], ['2hr', 'RESPONSE TIME']].map(([n, l]) => (
               <div key={l} className="stat-item">
                 <div className="stat-num">{n}</div>
                 <div className="stat-label">{l}</div>
@@ -127,7 +127,7 @@ export default function HomePage() {
       {/* TRUST BAR */}
       <div className="trust-bar">
         <div className="inner">
-          {['🛡️ 35+ Years Experience', '📍 Chennai Based', '⏰ 2-Hour Response', '🏆 30+ Authorized Brands', '🎯 Free Technical Advice', '🚚 Pan India Delivery'].map(t => (
+          {['🛡️ 35+ Years Experience', '📍 Chennai Based', '⏰ 2-Hour Response', '🏆 36+ Authorized Brands', '🎯 Free Technical Advice', '🚚 Pan India Delivery'].map(t => (
             <div key={t} className="trust-item">{t}</div>
           ))}
         </div>
@@ -175,7 +175,7 @@ export default function HomePage() {
           </div>
           <div className="grid-4">
             {[
-              { icon: '🏆', title: 'Authorized Dealer', desc: 'Bonfiglioli, PMI, HIWIN, INTORQ, CENLUB & more — genuine products with manufacturer warranty.' },
+              { icon: '🏆', title: 'Authorized Dealer', desc: 'PMI, HIWIN, INTORQ, CENLUB, CENTURY & more — genuine products with manufacturer warranty.' },
               { icon: '✅', title: 'Genuine Products', desc: '100% authentic with full manufacturer documentation.' },
               { icon: '📦', title: 'Stockist', desc: 'Large in-stock inventory for fast same-day delivery.' },
               { icon: '🔧', title: 'Technical Support', desc: 'Expert guidance on product selection — free of charge.' },

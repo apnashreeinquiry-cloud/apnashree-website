@@ -2,8 +2,8 @@
 import { useEffect, useRef } from 'react'
 
 const IMAGES = [
-  { src: '/images/products/hydraulics-main.jpg',        label: 'Hydraulics',         brand: 'YUKEN · REXROTH' },
-  { src: '/images/products/pneumatics-main.jpg',        label: 'Pneumatics',         brand: 'FESTO · JANATICS' },
+  { src: '/images/products/hydraulics-main.jpg',        label: 'Hydraulics',         brand: 'REPUTED BRANDS' },
+  { src: '/images/products/pneumatics-main.jpg',        label: 'Pneumatics',         brand: 'JANATICS' },
   { src: '/images/products/nippon-pumps-main.jpg',      label: 'Oil Pumps',          brand: 'NIPPON' },
   { src: '/images/products/groz-tools-main.jpg',        label: 'Industrial Tools',   brand: 'GROZ' },
   { src: '/images/products/telescopic-covers-main.jpg', label: 'Telescopic Covers',  brand: 'APNA' },

@@ -70,7 +70,7 @@ export default function AboutPage() {
               <h2 style={{ fontFamily: "'Bebas Neue',sans-serif", fontSize: 'clamp(40px,5vw,60px)', lineHeight: 0.92, letterSpacing: '0.02em', color: 'var(--text)', marginBottom: 28 }}>CHENNAI'S MOST TRUSTED<br />ENGINEERING PARTNER</h2>
             </div>
             <div>
-              <p style={{ fontSize: 15, color: 'var(--text3)', lineHeight: 1.8, marginBottom: 16 }}>Apna Shree is a Chennai-based B2B industrial engineering products supplier with over 35 years of experience. We are the authorized dealer for 36+ globally trusted brands including Bonfiglioli, PMI, HIWIN, INTORQ, CENLUB, Rexroth, Festo, and Yuken.</p>
+              <p style={{ fontSize: 15, color: 'var(--text3)', lineHeight: 1.8, marginBottom: 16 }}>Apna Shree is a Chennai-based B2B industrial engineering products supplier with over 35 years of experience. We are the authorized dealer for 36+ globally trusted brands including PMI, HIWIN, INTORQ, CENLUB, CENTURY, and ROLLON.</p>
               <p style={{ fontSize: 15, color: 'var(--text3)', lineHeight: 1.8, marginBottom: 16 }}>We specialize in mechanical power transmission, motion control, lubrication systems, hydraulics, pneumatics, and precision machine tool components.</p>
               <p style={{ fontSize: 15, color: 'var(--text3)', lineHeight: 1.8 }}>Beyond dealership, we also buy and sell surplus industrial equipment, and manufacture custom components from drawings or samples.</p>
             </div>
@@ -81,7 +81,7 @@ export default function AboutPage() {
         <div className="container">
           <div className="sec-head sec-head-center"><span className="label">Our Credentials</span><h2>WHY CLIENTS TRUST US</h2></div>
           <div className="grid-4">
-            {[{ icon: '🏆', t: 'Authorized Dealer', d: 'Bonfiglioli, PMI, HIWIN, INTORQ, CENLUB & more.' }, { icon: '✅', t: 'Genuine Products', d: '100% authentic with full manufacturer warranty.' }, { icon: '📦', t: 'Stockist', d: 'Large inventory for fast same-day delivery.' }, { icon: '🔧', t: 'Technical Support', d: 'Expert application guidance — free of charge.' }].map(c => (
+            {[{ icon: '🏆', t: 'Authorized Dealer', d: 'PMI, HIWIN, INTORQ, CENLUB, CENTURY & more.' }, { icon: '✅', t: 'Genuine Products', d: '100% authentic with full manufacturer warranty.' }, { icon: '📦', t: 'Stockist', d: 'Large inventory for fast same-day delivery.' }, { icon: '🔧', t: 'Technical Support', d: 'Expert application guidance — free of charge.' }].map(c => (
               <div key={c.t} className="why-card"><div className="why-icon">{c.icon}</div><h3>{c.t}</h3><p>{c.d}</p></div>
             ))}
           </div>

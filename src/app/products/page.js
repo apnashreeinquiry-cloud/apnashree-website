@@ -67,7 +67,7 @@ export default function ProductsPage() {
       {filtered.length === 0 && (
         <div className="no-results">
           <h3>No products found for "{query}"</h3>
-          <p>Try: CENLUB, BONFIGLIOLI, brake, ball screw, coolant pump...</p>
+          <p>Try: CENLUB, Turcite, brake, ball screw, coolant pump...</p>
           <button className="btn-primary" style={{ margin: '20px auto 0', display: 'inline-flex' }} onClick={() => setQuery('')}>Clear Search</button>
         </div>
       )}

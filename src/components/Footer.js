@@ -73,7 +73,7 @@ export default function Footer() {
           </div>
           <div className="footer-bottom">
             <span>© 2025 Apna Shree. All rights reserved. | Chennai, Tamil Nadu</span>
-            <span>Authorized: CENLUB | INTORQ | PETHE | BONFIGLIOLI | PMI | HIWIN</span>
+            <span>Authorized: CENLUB | INTORQ | PETHE | PMI | HIWIN | CENTURY</span>
           </div>
         </div>
       </footer>

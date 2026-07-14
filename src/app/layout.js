@@ -6,8 +6,8 @@ import { Analytics } from '@vercel/analytics/next'
 export const metadata = {
   metadataBase: new URL('https://apnashree.com'),
   title: { default: 'Apna Shree | Authorized Industrial Dealer Chennai Tamil Nadu', template: '%s | Apna Shree Chennai' },
-  description: 'Apna Shree — authorized dealer for CENLUB, INTORQ, PETHE, BONFIGLIOLI, PMI, HIWIN in Chennai. Lubrication systems, EM brakes, gearboxes, ball screws. 35+ years. Call +91 73583 76280.',
-  keywords: 'industrial components dealer Chennai, CENLUB dealer Tamil Nadu, INTORQ brake Chennai, BONFIGLIOLI gearbox Chennai, PMI HIWIN ball screw Chennai',
+  description: 'Apna Shree — authorized dealer for CENLUB, INTORQ, PETHE, PMI, HIWIN, CENTURY in Chennai. Lubrication systems, EM brakes, gearboxes, ball screws. 35+ years. Call +91 73583 76280.',
+  keywords: 'industrial components dealer Chennai, CENLUB dealer Tamil Nadu, INTORQ brake Chennai, industrial gearbox Chennai, PMI HIWIN ball screw Chennai',
   robots: { index: true, follow: true },
   verification: {
     google: 'N8CAESIkDXGgGykxd9BkVXg6uAZnUYqvCkfgIxUEVww',
@@ -23,7 +23,7 @@ const schema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Apna Shree",
-  "description": "Authorized dealer for CENLUB, INTORQ, PETHE, BONFIGLIOLI, PMI, HIWIN and 30+ industrial brands in Chennai, Tamil Nadu since 1990.",
+  "description": "Authorized dealer for CENLUB, INTORQ, PETHE, PMI, HIWIN, CENTURY and 36+ industrial brands in Chennai, Tamil Nadu since 1990.",
   "url": "https://apnashree.com",
   "telephone": ["+917358376280", "+917358376275"],
   "email": "jeevandos@gmail.com",
