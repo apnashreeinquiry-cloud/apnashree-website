@@ -275,6 +275,28 @@
           "slug": "air-oil-spray-system-chennai",
           "parentSlug": "lubrication-systems-cenlub-chennai",
           "parentName": "Lubrication Systems"
+        },
+        {
+          "name": "TIGREASER",
+          "brand": "CENLUB",
+          "heroDesc": "TIGREASER",
+          "description": "MOTORISED  GREASE  LUBRICATOR",
+          "specifications": [
+            "3,5, LITRES  AVAILABLE  "
+          ],
+          "applications": [
+            "SPMS, CNC, MANT OTHER  APPLICATIONS"
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/tigreaser-chennai-image-1784160100473.jpg",
+          "sheetImage": "/images/products/tigreaser-chennai-sheetimage-1784160100474.jpg",
+          "images": [],
+          "metaTitle": "TIGREASER",
+          "metaDescription": "GREASE PUMP",
+          "slug": "tigreaser-chennai",
+          "parentSlug": "lubrication-systems-cenlub-chennai",
+          "parentName": "Lubrication Systems"
         }
       ]
     },
