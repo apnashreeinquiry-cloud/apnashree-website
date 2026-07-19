@@ -501,6 +501,34 @@
             "All Sizes",
             "Custom"
           ]
+        },
+        {
+          "name": "MULTI DISC CLUTCHES &BRAKES",
+          "brand": "IPE",
+          "heroDesc": "MULTI DISC C;UCHES &  BRAKES  PRODUCE HIGH TORQUE  IN SMALL SPACE ",
+          "description": "MULTI DISC  CLTCHES ARE  EITHER  OIL COOLED  OR   AIR  COLLED ",
+          "specifications": [
+            "GENERALLY OPEERATED  WITH 24VDC.  OTHER VOLTAGES  ON  REQUEST "
+          ],
+          "applications": [
+            "USED  IN  COVENTIONAL MACHINES KIRLOSHAR  BFE, HMT MILING,  VTL etc.,"
+          ],
+          "tags": [
+            "MULTI DISC  BRAKES"
+          ],
+          "keywords": [],
+          "image": "/images/products/multi-disc-clutches-brakes-chennai-image-1784463627458.jpg",
+          "sheetImage": "/images/products/multi-disc-clutches-brakes-chennai-sheetimage-1784463627459.jpg",
+          "images": [
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/EK%2010Dc%283%29-QICAsfzy6nDgAEmYoWpnQvS6t5OaK9.jpg",
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/electromagnetic-multi-disc-brakes--HKWhuGcizRmSbaoSRXvklUAPJAV64v.webp",
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/electromagnetic-tooth-clutches-6O6eVjLB1WoOaGy6E28jwMmo6dTnqU.webp"
+          ],
+          "metaTitle": "MULTI DISC  CLUTCH ",
+          "metaDescription": "MULTI DISC  CLUTCH / BRAKES ",
+          "slug": "multi-disc-clutches-brakes-chennai",
+          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
+          "parentName": "Electromagnetic (AC) Brakes & Clutches"
         }
       ]
     },
