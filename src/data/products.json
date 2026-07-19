@@ -517,8 +517,8 @@
             "MULTI DISC  BRAKES"
           ],
           "keywords": [],
-          "image": "/images/products/multi-disc-clutches-brakes-chennai-image-1784463627458.jpg",
-          "sheetImage": "/images/products/multi-disc-clutches-brakes-chennai-sheetimage-1784463627459.jpg",
+          "image": "/images/products/multi-disc-clutches-brakes-chennai-image-1784465134782.jpg",
+          "sheetImage": "/images/products/multi-disc-clutches-brakes-chennai-sheetimage-1784465134783.jpg",
           "images": [
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/EK%2010Dc%283%29-QICAsfzy6nDgAEmYoWpnQvS6t5OaK9.jpg",
             "https://sy1omngmg555gnif.public.blob.vercel-storage.com/electromagnetic-multi-disc-brakes--HKWhuGcizRmSbaoSRXvklUAPJAV64v.webp",
@@ -527,6 +527,30 @@
           "metaTitle": "MULTI DISC  CLUTCH ",
           "metaDescription": "MULTI DISC  CLUTCH / BRAKES ",
           "slug": "multi-disc-clutches-brakes-chennai",
+          "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
+          "parentName": "Electromagnetic (AC) Brakes & Clutches"
+        },
+        {
+          "name": "CALIPER  BRAKES",
+          "brand": "KATEEL ",
+          "heroDesc": "COPACE BRAKES",
+          "description": "CALIPER  BRAKES  ARE  GENERALLY PNEUMATIC  OR  HYDRAULIC  OPERATED",
+          "specifications": [
+            "AIR, HYDRAULIC,  SOLENOID OPERATED "
+          ],
+          "applications": [
+            "AUTOMOBILE, WIND ENERGY SYSTEMSM ,  STEEL INDUSTRY, SPMS  etc><"
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/caliper-brakes-chennai-image-1784465134784.jpg",
+          "sheetImage": "",
+          "images": [
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/CALIPER%20%20ACTIVE%20BRAKES-Cp7OLe0hszaEHDepyo1EWDGSG2nF87.jpg"
+          ],
+          "metaTitle": "CALIPER  BRAKES",
+          "metaDescription": "CALIPER  BRAKES  IN CHENNAI ",
+          "slug": "caliper-brakes-chennai",
           "parentSlug": "electromagnetic-brakes-clutches-ac-pethe-chennai",
           "parentName": "Electromagnetic (AC) Brakes & Clutches"
         }
