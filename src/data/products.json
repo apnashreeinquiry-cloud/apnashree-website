@@ -2475,12 +2475,37 @@
             "SPRING BALANCE"
           ],
           "keywords": [],
-          "image": "/images/products/spring-balance-chennai-image-1785687068097.webp",
-          "sheetImage": "/images/products/spring-balance-chennai-sheetimage-1785687068098.jpg",
+          "image": "/images/products/spring-balance-chennai-image-1785688993340.webp",
+          "sheetImage": "/images/products/spring-balance-chennai-sheetimage-1785688993341.jpg",
           "images": [],
           "metaTitle": "SPRING BALANCER",
           "metaDescription": "SPRING BALANCER",
           "slug": "spring-balance-chennai",
+          "parentSlug": "miscellaneous-products-chennai",
+          "parentName": "Miscellaneous Products"
+        },
+        {
+          "name": "DISC SPRINGS",
+          "brand": "UMA &  MULTIPLE BRANDS",
+          "heroDesc": "DISC  SPRING  WASHER  OR  BELEVELEE  WASHERS ",
+          "description": "THE  DETAILS  REQUIRED  ARE  ID, OD, THICKNESS, MATERIAL SPEC",
+          "specifications": [
+            "THE  DETAILS  REQUIRED  ARE  ID, OD, THICKNESS, MATERIAL SPEC"
+          ],
+          "applications": [
+            "PRESS TOOLS,  AUTOMOBILE INDUSTRY, CNC MACHINES,  SPMs  ETC.,"
+          ],
+          "tags": [],
+          "keywords": [],
+          "image": "/images/products/disc-springs-chennai-image-1785688993342.webp",
+          "sheetImage": "/images/products/disc-springs-chennai-sheetimage-1785688993343.jpg",
+          "images": [
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/DISC%20SPRING%20WASHER%20%20-%20DETAILS-gAhnaWN611plAsaLHueF24MfOBJt8T.pdf",
+            "https://sy1omngmg555gnif.public.blob.vercel-storage.com/Disc-spring-design-guide-0TqdL1er6rCL1gEvzMY1yqI6IetCB0.pdf"
+          ],
+          "metaTitle": "DISC SPRING / BELEVELLE WASHERS",
+          "metaDescription": "DISC  SPRINGS",
+          "slug": "disc-springs-chennai",
           "parentSlug": "miscellaneous-products-chennai",
           "parentName": "Miscellaneous Products"
         }
