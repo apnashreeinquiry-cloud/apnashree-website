@@ -2459,7 +2459,32 @@
         "On Request",
         "Custom Sourcing"
       ],
-      "subProducts": []
+      "subProducts": [
+        {
+          "name": "SPRING BALANCE ",
+          "brand": "MULTIPLE BRANDS",
+          "heroDesc": "SPRING BALANCE",
+          "description": "SPRING BALANCER",
+          "specifications": [
+            "ENDO SPRING BALANCER"
+          ],
+          "applications": [
+            "DRILLING, TAPPILY & OTHER  ASSEMBLY APPLICATIONS"
+          ],
+          "tags": [
+            "SPRING BALANCE"
+          ],
+          "keywords": [],
+          "image": "/images/products/spring-balance-chennai-image-1785687068097.webp",
+          "sheetImage": "/images/products/spring-balance-chennai-sheetimage-1785687068098.jpg",
+          "images": [],
+          "metaTitle": "SPRING BALANCER",
+          "metaDescription": "SPRING BALANCER",
+          "slug": "spring-balance-chennai",
+          "parentSlug": "miscellaneous-products-chennai",
+          "parentName": "Miscellaneous Products"
+        }
+      ]
     }
   ]
 }
